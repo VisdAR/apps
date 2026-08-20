@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
+<meta name="color-scheme" content="light">
+<title>VisdAR — Applications</title>
+<style>
+  :root{
+    --ink:#172033;
+    --muted:#64748b;
+    --violet:#7457d5;
+    --indigo:#4f46e5;
+    --line:rgba(148,163,184,.28);
+    --glass:rgba(255,255,255,.78);
+    --cell:rgba(255,255,255,.88);
+    --pinyin:#7c3aed;
+    --french:#4f46e5;
+    --accent:#8b5a2b;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{
+    margin:0;min-height:100%;color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;
+    background:
+      radial-gradient(850px 500px at 5% -5%, rgba(125,211,252,.32), transparent 68%),
+      radial-gradient(780px 520px at 105% 8%, rgba(216,180,254,.34), transparent 65%),
+      linear-gradient(180deg,#eef2ff 0%,#fdf6ff 56%,#f5f3ff 100%);
+    overflow-x:hidden;padding:32px 18px 64px;
+  }
+  .wrap{width:min(100%,720px);margin:0 auto}
+  header{text-align:center;margin-bottom:36px}
+  .eyebrow{color:var(--pinyin);font-weight:800;letter-spacing:.2em;text-transform:uppercase;font-size:12px;margin-bottom:10px}
+  h1{font-size:28px;font-weight:900;letter-spacing:-.02em;margin-bottom:2px;line-height:1.2}
+  .sub{color:var(--french);font-size:13px;font-weight:800;letter-spacing:-.01em}
+  .pinyin{font-size:12px;color:var(--pinyin);font-weight:800;margin-bottom:6px;letter-spacing:.02em}
+  .card{
+    background:var(--glass);
+    border:1px solid rgba(226,232,240,.86);
+    box-shadow:0 5px 18px rgba(71,85,105,.07);
+    backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);
+    border-radius:18px;padding:22px 20px;margin-bottom:16px;
+  }
+  .card h2{font-size:17px;font-weight:900;margin-bottom:2px;letter-spacing:-.01em}
+  .pkg{color:var(--pinyin);font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;margin-bottom:12px;font-weight:700}
+  .links a{
+    display:inline-block;margin-right:14px;color:var(--french);text-decoration:none;
+    border-bottom:1px solid rgba(79,70,229,.22);padding-bottom:1px;font-size:13px;font-weight:800;letter-spacing:-.01em;
+  }
+  .links a:hover{border-color:var(--french)}
+  footer{margin-top:48px;text-align:center;color:var(--muted);font-size:12px;padding-top:20px;border-top:1px solid var(--line)}
+  @media(max-width:520px){h1{font-size:22px}.card{padding:18px 16px;border-radius:16px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="pinyin">wàn nián lì</div>
+    <h1>VisdAR Applications</h1>
+    <div class="sub">Politiques · 隐私政策 · Privacy</div>
+    <div class="eyebrow" style="margin-top:14px">VisdAR</div>
+  </header>
+
+  <div class="card">
+    <div class="pinyin">wàn nián lì</div>
+    <h2>万年历 · Calendrier lunisolaire chinois</h2>
+    <div class="pkg">com.visdar.calendrier</div>
+    <div class="links">
+      <a href="privacy/calendrier.html">→ Politique de confidentialité · 隐私政策 · Privacy Policy</a>
+    </div>
+  </div>
+
+  <footer>
+    © 2026 VisdAR · visdarfr@gmail.com
+  </footer>
+</div>
+</body>
+</html>

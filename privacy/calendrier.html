@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
+<meta name="color-scheme" content="light">
+<title>万年历 Calendrier lunisolaire chinois — Politique / 隐私政策 / Privacy</title>
+<meta name="description" content="Politique de confidentialité · 隐私政策 · Privacy Policy — Calendrier lunisolaire chinois (com.visdar.calendrier)">
+<style>
+  :root{
+    --ink:#172033;
+    --ink-soft:#29344a;
+    --muted:#64748b;
+    --violet:#7457d5;
+    --indigo:#4f46e5;
+    --line:rgba(148,163,184,.28);
+    --glass:rgba(255,255,255,.78);
+    --cell:rgba(255,255,255,.88);
+    --pinyin:#7c3aed;
+    --french:#4f46e5;
+    --chip-bg:rgba(124,58,237,.08);
+    --chip-fr-bg:rgba(79,70,229,.09);
+    --chip-green-bg:rgba(16,185,129,.1);
+    --chip-green:#047857;
+    --chip-amber-bg:rgba(245,158,11,.12);
+    --chip-amber:#92400e;
+    --accent:#8b5a2b;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{
+    margin:0;min-height:100%;color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;
+    background:
+      radial-gradient(850px 500px at 5% -5%, rgba(125,211,252,.32), transparent 68%),
+      radial-gradient(780px 520px at 105% 8%, rgba(216,180,254,.34), transparent 65%),
+      linear-gradient(180deg,#eef2ff 0%,#fdf6ff 56%,#f5f3ff 100%);
+    overflow-x:hidden;padding:22px 13px 58px;line-height:1.72;font-size:15px;
+  }
+  code{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    background:rgba(148,163,184,.14);padding:1px 6px;border-radius:6px;font-size:12.5px;color:var(--ink-soft);
+  }
+  a{color:var(--french);text-decoration:none;border-bottom:1px solid rgba(79,70,229,.24)}
+  a:hover{border-color:var(--french)}
+  .wrap{width:min(100%,820px);margin:0 auto}
+
+  /* ========== HEADER (与 App 同款品牌栏) ========== */
+  .app-header{
+    background:var(--glass);
+    border:1px solid rgba(226,232,240,.86);
+    box-shadow:0 5px 18px rgba(71,85,105,.07);
+    backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);
+    border-radius:18px;padding:14px 14px 13px;margin-bottom:16px;
+    display:flex;align-items:center;gap:12px;
+  }
+  .brand-logo{
+    width:46px;height:43px;border-radius:12px;flex:0 0 auto;
+    background:
+      radial-gradient(circle at 30% 30%,#fff9e6 0%,#f5d78a 45%,#8b5a2b 100%);
+    border:1px solid rgba(139,90,43,.25);
+    display:flex;align-items:center;justify-content:center;
+    font-size:18px;font-weight:900;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.25);
+    letter-spacing:.02em;
+  }
+  .brand-copy{flex:1 1 auto;min-width:0}
+  .brand-pinyin{font-size:11px;line-height:1;font-weight:800;color:var(--pinyin);margin-bottom:4px;letter-spacing:.01em}
+  .brand-line{display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+  .brand-cn{font-size:16px;line-height:1.2;font-weight:900;color:var(--ink)}
+  .brand-fr{min-width:0;font-size:10px;line-height:1.2;font-weight:800;letter-spacing:-.02em;color:var(--french)}
+
+  .back{
+    display:inline-block;margin:0 2px 10px;color:var(--muted);
+    text-decoration:none;font-size:12px;border:1px solid var(--line);
+    padding:5px 11px;border-radius:10px;background:rgba(255,255,255,.45);
+  }
+  .back:hover{color:var(--french);border-color:var(--french)}
+
+  /* ========== LANG TABS ========== */
+  .lang-tabs{display:flex;gap:7px;flex-wrap:wrap;justify-content:center;margin:4px 0 18px}
+  .lang-tab{
+    background:var(--glass);border:1px solid rgba(226,232,240,.86);
+    box-shadow:0 3px 10px rgba(71,85,105,.06);
+    backdrop-filter:blur(7px);-webkit-backdrop-filter:blur(7px);
+    color:var(--muted);padding:8px 15px;border-radius:14px;
+    cursor:pointer;font-weight:800;font-size:12px;letter-spacing:.01em;transition:all .22s ease;
+  }
+  .lang-tab.active[data-lang="zh"]{background:linear-gradient(135deg,#8b5cf6,#7c3aed);color:#fff;border-color:transparent;box-shadow:0 6px 16px rgba(124,58,237,.28)}
+  .lang-tab.active[data-lang="fr"]{background:linear-gradient(135deg,#6366f1,#4f46e5);color:#fff;border-color:transparent;box-shadow:0 6px 16px rgba(79,70,229,.28)}
+  .lang-tab.active[data-lang="en"]{background:linear-gradient(135deg,#0ea5e9,#0284c7);color:#fff;border-color:transparent;box-shadow:0 6px 16px rgba(14,165,233,.28)}
+
+  /* ========== GLASS CARD ========== */
+  section[lang]{display:none}
+  section[lang].active{display:block;animation:fade .3s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .card{
+    background:var(--glass);
+    border:1px solid rgba(226,232,240,.86);
+    box-shadow:0 5px 18px rgba(71,85,105,.07);
+    backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);
+    border-radius:18px;padding:22px 20px;margin-bottom:14px;
+  }
+  h2{font-size:18px;font-weight:900;margin:0 0 8px;letter-spacing:-.015em;color:var(--ink)}
+  h2:first-child{margin-top:0}
+  h3{font-size:14.5px;font-weight:850;margin:16px 0 7px;color:var(--ink-soft);letter-spacing:-.005em}
+  .section-pinyin{font-size:10.5px;color:var(--pinyin);font-weight:800;margin-bottom:3px;letter-spacing:.02em}
+  .section-fr{font-size:10.5px;color:var(--french);font-weight:800;margin:-4px 0 10px;letter-spacing:-.01em}
+  p{margin-bottom:9px;color:var(--ink-soft);font-size:14.5px}
+  ul,ol{margin:0 0 10px 22px}
+  li{margin-bottom:5px;color:var(--ink-soft);font-size:14.5px}
+
+  .chip-row{display:flex;flex-wrap:wrap;gap:7px;margin:7px 0 15px}
+  .chip{
+    background:var(--chip-green-bg);color:var(--chip-green);
+    padding:4px 11px;border-radius:999px;font-size:11px;font-weight:850;
+    letter-spacing:.01em;border:1px solid rgba(16,185,129,.18);
+  }
+  .chip.purple{background:var(--chip-bg);color:var(--pinyin);border-color:rgba(124,58,237,.18)}
+  .chip.fr{background:var(--chip-fr-bg);color:var(--french);border-color:rgba(79,70,229,.2)}
+  .chip.amber{background:var(--chip-amber-bg);color:var(--chip-amber);border-color:rgba(245,158,11,.22)}
+
+  table{width:100%;border-collapse:collapse;margin:8px 0 15px;font-size:13.5px}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line)}
+  th{
+    background:linear-gradient(180deg,rgba(124,58,237,.10),rgba(79,70,229,.08));
+    color:var(--pinyin);font-weight:850;font-size:12px;letter-spacing:.01em;
+    border-top-left-radius:10px;border-top-right-radius:10px;
+  }
+  th:last-child,td:last-child{text-align:right}
+
+  .contact{
+    background:linear-gradient(135deg,rgba(255,249,230,.85),rgba(253,230,138,.55));
+    border:1px solid rgba(245,158,11,.22);
+    box-shadow:0 6px 18px rgba(245,158,11,.08);
+    backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);
+    border-radius:16px;padding:17px 16px;margin-top:18px;
+  }
+  .contact h3{margin-top:0;color:var(--accent)}
+
+  .muted{color:var(--muted);font-size:13px}
+
+  footer{margin-top:40px;text-align:center;color:var(--muted);font-size:12px;padding-top:18px;border-top:1px solid var(--line)}
+
+  @media(max-width:520px){
+    html,body{padding:16px 10px 48px;font-size:14.5px}
+    .app-header{padding:11px 11px 10px;gap:10px;border-radius:16px}
+    .brand-logo{width:40px;height:37px;font-size:15px;border-radius:10px}
+    .brand-cn{font-size:14px}
+    .brand-fr{font-size:9px}
+    .card{padding:17px 15px;border-radius:16px}
+    h2{font-size:16px}
+    h3{font-size:13.5px}
+    p,li{font-size:13.5px}
+    th,td{padding:7px 7px;font-size:12.5px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a href="../index.html" class="back">← VisdAR Apps</a>
+
+  <!-- ===== APP 同款 HEADER ===== -->
+  <div class="app-header">
+    <div class="brand-logo" aria-hidden="true">V</div>
+    <div class="brand-copy">
+      <div class="brand-pinyin">wàn nián lì</div>
+      <div class="brand-line">
+        <span class="brand-cn">万年历</span>
+        <span class="brand-fr">Calendrier lunisolaire chinois</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="lang-tabs" role="tablist">
+    <button class="lang-tab active" role="tab" aria-selected="true" data-lang="zh">中文</button>
+    <button class="lang-tab" role="tab" aria-selected="false" data-lang="fr">Français</button>
+    <button class="lang-tab" role="tab" aria-selected="false" data-lang="en">English</button>
+  </div>
+
+  <!-- =========================================================== -->
+  <!--                        中文 ZHONGWEN                        -->
+  <!-- =========================================================== -->
+  <section lang="zh" class="active">
+    <div class="card">
+      <div class="section-pinyin">yǐn sī gài shù</div>
+      <h2>📄 隐私政策 · 一览</h2>
+      <div class="chip-row">
+        <span class="chip">✓ 零数据收集</span>
+        <span class="chip purple">✓ 无任何联网权限</span>
+        <span class="chip">✓ 无广告 / 无追踪 SDK</span>
+        <span class="chip fr">✓ 无注册 / 无登录</span>
+        <span class="chip amber">⚙ Android 自动备份 (可选)</span>
+      </div>
+      <p>我们在本应用中<strong>不收集、不存储、不传输任何个人数据</strong>。这是一个<strong>完全离线运行的本地万年历工具</strong>，您的所有使用行为（翻页、查看农历节气、切换主题等）都在设备本地完成，不会离开您的手机。</p>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">shù jù kòng zhì zhě</div>
+      <h2>1. 数据控制者</h2>
+      <p>本应用由 VisdAR（独立开发者）出版并维护。</p>
+      <div class="contact">
+        <h3>📮 联系方式</h3>
+        <p>邮箱：<a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p>
+        <p class="muted">如有任何隐私相关疑问，请随时联系，我们会在合理期限内回复。</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">shōu jí shén me</div>
+      <h2>2. 我们收集哪些数据？—— 没有</h2>
+      <table>
+        <tr><th>数据类型</th><th>是否收集</th></tr>
+        <tr><td>姓名、邮箱、电话等个人身份信息</td><td><span class="chip">否</span></td></tr>
+        <tr><td>位置信息（GPS / 网络定位）</td><td><span class="chip">否</span></td></tr>
+        <tr><td>通讯录、照片、文件、麦克风、相机</td><td><span class="chip">否</span></td></tr>
+        <tr><td>设备标识符（IMEI、OAID、广告 ID）</td><td><span class="chip">否</span></td></tr>
+        <tr><td>使用日志、点击轨迹、页面浏览统计</td><td><span class="chip">否</span></td></tr>
+        <tr><td>广告 SDK · 分析 SDK</td><td><span class="chip">否</span></td></tr>
+      </table>
+      <p>应用清单中<strong>没有声明任何 Android 权限</strong>（无 INTERNET、无定位、无通讯录…），在系统层面就切断了对外发送任何数据的能力。包名：<code>com.visdar.calendrier</code>。</p>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">cún chǔ fāng shì</div>
+      <h2>3. 数据如何存储</h2>
+      <ul>
+        <li><strong>无任何云端服务器</strong>：没有后端、没有数据库、没有云同步。</li>
+        <li>本应用为打包在 APK 内的本地 WebView，农历、节气、干支、节假日算法与数据全部静态嵌入。</li>
+        <li>您调整的主题偏好等设置，仅保存在<strong>应用私有目录</strong>（SharedPreferences / LocalStorage），其它应用无法读取。</li>
+      </ul>
+
+      <h3>关于 Android 自动备份（allowBackup=true）</h3>
+      <p><code>AndroidManifest.xml</code> 中声明了 <code>android:allowBackup="true"</code>（Google 推荐默认值），含义是：</p>
+      <ul>
+        <li>如果您在系统设置中开启了「Google 备份」或手机厂商的云端备份（如小米云、华为云、三星云等），则应用的私有设置（例如主题偏好）<strong>可能由 Android 系统自动</strong>上传至<strong>您本人账户</strong>下的备份空间。</li>
+        <li>该过程<strong>完全由 Android 操作系统执行</strong>，开发者（VisdAR）无法读取、无法访问、也无法控制这些备份。</li>
+        <li>如不希望备份：在系统设置 <em>系统 → 备份</em> 中关闭，或通过 <code>adb</code> 单独对本应用关闭。</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">ér tóng yǐn sī</div>
+      <h2>4. 儿童隐私（COPPA / GDPR 第 8 条）</h2>
+      <p>本应用面向所有年龄段（含 13 岁以下儿童）。由于<strong>不收集任何个人数据</strong>，因此不涉及儿童数据的采集、处理或共享。</p>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">dì sān fāng SDK</div>
+      <h2>5. 第三方服务、SDK 与广告</h2>
+      <table>
+        <tr><th>类别</th><th>是否使用</th></tr>
+        <tr><td>Google AdMob · 任何广告 SDK</td><td><span class="chip">否</span></td></tr>
+        <tr><td>Google Analytics · Firebase · Mixpanel</td><td><span class="chip">否</span></td></tr>
+        <tr><td>Crashlytics · Bugly · 崩溃上报</td><td><span class="chip">否</span></td></tr>
+        <tr><td>支付 SDK（Stripe、PayPal…）</td><td><span class="chip">否</span></td></tr>
+        <tr><td>登录 SDK（Google、微信、Facebook）</td><td><span class="chip">否</span></td></tr>
+      </table>
+      <p>应用内<strong>未嵌入任何第三方 SDK</strong>，不存在独立的共同控制者。</p>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">nín de quán lì</div>
+      <h2>6. 您的权利（RGPD · 欧盟通用数据保护条例）</h2>
+      <p>由于我们实际上<strong>不持有任何您的个人数据</strong>，下列权利在本应用场景中均自动满足。为透明起见仍声明：</p>
+      <ol>
+        <li><strong>知情权</strong> — 由本政策完成告知。</li>
+        <li><strong>访问权</strong> — 您来信请求时，我们可书面确认不持有任何您的个人数据。</li>
+        <li><strong>更正权 / 删除权（被遗忘权）</strong> — 无数据可操作；若要删除本地偏好，可在系统设置中<strong>清除应用数据</strong>或卸载应用。</li>
+        <li><strong>限制处理 / 反对处理权</strong> — 因不存在处理行为，自动满足。</li>
+        <li><strong>数据可携带权</strong> — 无数据可携带。</li>
+        <li><strong>向监管机构投诉的权利</strong> — 您仍可向所在成员国的数据保护机构 (DPA) 投诉，例如法国 CNIL（cnil.fr）。</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">shù jù gòng xiǎng</div>
+      <h2>7. 共享 · 传输 · 披露</h2>
+      <ul>
+        <li>无与任何第三方、广告联盟或合作伙伴的数据共享。</li>
+        <li>无任何跨境数据传输（因为数据根本没有离开设备）。</li>
+        <li>无任何法律强制措施下的披露（无数据可披露）。</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">bǎo liú qī xiàn</div>
+      <h2>8. 数据保留期限</h2>
+      <p><strong>开发者侧：</strong>零保留 — 从未收到任何用户数据。</p>
+      <p><strong>设备侧：</strong>主题偏好等本地设置保留至您卸载应用或清除数据为止。</p>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">ān quán</div>
+      <h2>9. 安全</h2>
+      <p>虽无用户数据，仍采用了合理的架构安全措施：</p>
+      <ul>
+        <li>禁用明文流量（<code>usesCleartextTraffic="false"</code>）。</li>
+        <li>APK 与 AAB 均使用 v2 / v3 签名方案。</li>
+        <li>无多余网络调用，全部逻辑 100% 运行于本地。</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-pinyin">zhèng cè gēng xīn</div>
+      <h2>10. 政策更新</h2>
+      <p>若未来新功能改变本隐私范围（极不可能）：</p>
+      <ol>
+        <li>更新本页顶部「最后更新」日期。</li>
+        <li>在应用更新说明中明确列出变更。</li>
+        <li>如涉及新的数据收集，会在应用内以弹窗形式单独征得您的同意。</li>
+      </ol>
+      <p class="muted" style="margin-top:10px"><strong>最后更新 · Dernière mise à jour · Last updated：2026-08-21</strong></p>
+    </div>
+  </section>
+
+  <!-- =========================================================== -->
+  <!--                      FRANÇAIS                                -->
+  <!-- =========================================================== -->
+  <section lang="fr">
+    <div class="card">
+      <div class="section-fr">Vue d'ensemble</div>
+      <h2>📄 Politique de confidentialité · En bref</h2>
+      <div class="chip-row">
+        <span class="chip">✓ Zéro collecte</span>
+        <span class="chip fr">✓ Aucune permission Internet</span>
+        <span class="chip">✓ Aucune pub · aucun tracking</span>
+        <span class="chip purple">✓ Pas de compte · pas d'inscription</span>
+        <span class="chip amber">⚙ Sauvegarde Android auto (optionnelle)</span>
+      </div>
+      <p>Nous <strong>ne collectons, ne stockons et ne transmettons aucune donnée personnelle</strong> dans cette application. Il s'agit d'un <strong>calendrier lunisolaire 100 % hors ligne</strong> : toutes vos actions (navigation, consultation des termes solaires, thème, etc.) s'exécutent intégralement sur votre appareil et n'en sortent jamais.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Responsable</div>
+      <h2>1. Responsable du traitement</h2>
+      <p>L'application est éditée et maintenue par <strong>VisdAR</strong> (développeur indépendant). Nom de paquet : <code>com.visdar.calendrier</code>.</p>
+      <div class="contact">
+        <h3>📮 Contact</h3>
+        <p>Courriel : <a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p>
+        <p class="muted">Pour toute question relative à la vie privée, écrivez-nous — nous répondons dans un délai raisonnable.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Données collectées</div>
+      <h2>2. Quelles données sont collectées ? — Aucune</h2>
+      <table>
+        <tr><th>Type de donnée</th><th>Collectée ?</th></tr>
+        <tr><td>Identité (nom, mail, téléphone…)</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Localisation (GPS / réseau)</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Contacts, photos, fichiers, micro, caméra</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Identifiants appareil (IMEI, OAID, Ad ID)</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Journaux d'utilisation, parcours de clics</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>SDK publicitaires ou analytiques</td><td><span class="chip fr">Non</span></td></tr>
+      </table>
+      <p>Le manifeste Android <strong>ne déclare aucune permission</strong> (pas INTERNET, pas ACCESS_FINE_LOCATION, pas READ_CONTACTS…) : toute possibilité d'émettre des données hors de l'appareil est coupée au niveau du système.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Stockage</div>
+      <h2>3. Stockage des données</h2>
+      <ul>
+        <li><strong>Aucun serveur, aucune base, aucune synchro cloud</strong> n'est utilisée.</li>
+        <li>L'application est une WebView locale intégrée à l'APK : algorithmes lunaires, termes solaires, fêtes et moteur calendaire sont statiques et embarqués.</li>
+        <li>Vos préférences de thème sont conservées dans le <strong>répertoire privé</strong> de l'app (SharedPreferences / LocalStorage), inaccessible aux autres applications.</li>
+      </ul>
+
+      <h3>Sauvegarde Android automatique (<code>allowBackup=true</code>)</h3>
+      <p>Le manifeste déclare <code>android:allowBackup="true"</code> (valeur par défaut recommandée par Google). Cela signifie :</p>
+      <ul>
+        <li>Si vous avez activé la <strong>sauvegarde Google</strong> (ou la sauvegarde constructeur : Xiaomi Cloud, Huawei Cloud, Samsung Cloud…), les préférences privées <strong>peuvent être automatiquement envoyées par Android</strong> vers l'espace de sauvegarde de <strong>votre propre compte</strong>.</li>
+        <li>Ce processus est entièrement géré par Android : <strong>VisdAR n'a aucun accès, aucune visibilité et aucun contrôle</strong> sur ces sauvegardes.</li>
+        <li>Pour désactiver : <em>Paramètres → Système → Sauvegarde</em>, ou via <code>adb</code> pour cette application seule.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Enfants</div>
+      <h2>4. Vie privée des enfants (COPPA · art. 8 RGPD)</h2>
+      <p>L'application est accessible à tous les âges, y compris aux moins de 13 / 16 ans. Comme <strong>aucune donnée personnelle n'est collectée</strong>, il n'y a aucun traitement, partage ou collecte de données d'enfants.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Tiers & SDK</div>
+      <h2>5. Services tiers, SDK, publicités</h2>
+      <table>
+        <tr><th>Catégorie</th><th>Utilisé ?</th></tr>
+        <tr><td>Google AdMob · SDK publicitaires</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Google Analytics · Firebase · Mixpanel</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Crashlytics · Bugly · remontées de crash</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Paiements (Stripe, PayPal…)</td><td><span class="chip fr">Non</span></td></tr>
+        <tr><td>Connexion sociale (Google, WeChat, Facebook)</td><td><span class="chip fr">Non</span></td></tr>
+      </table>
+      <p><strong>Aucun SDK tiers</strong> n'est embarqué ; il n'existe aucun autre responsable du traitement indépendant.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Vos droits (RGPD)</div>
+      <h2>6. Vos droits (RGPD)</h2>
+      <p>Étant donné que <strong>nous ne détenons aucune donnée personnelle vous concernant</strong>, la plupart de ces droits sont automatiquement satisfaits. Pour la transparence :</p>
+      <ol>
+        <li><strong>Droit à l'information</strong> — assurée par le présent document.</li>
+        <li><strong>Droit d'accès</strong> — sur demande, nous confirmons par écrit l'absence de toute donnée.</li>
+        <li><strong>Rectification · Effacement</strong> — sans données, sans objet. Effacez vos préférences locales via <em>Paramètres → Applications → Effacer les données</em> ou en désinstallant.</li>
+        <li><strong>Limitation · Opposition</strong> — satisfaits automatiquement car aucun traitement n'existe.</li>
+        <li><strong>Portabilité</strong> — sans données, sans portabilité.</li>
+        <li><strong>Plainte auprès d'une autorité</strong> — vous restez libre de saisir la CNIL (cnil.fr) ou l'autorité de votre État membre.</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Partage</div>
+      <h2>7. Partage · transferts · divulgation</h2>
+      <ul>
+        <li>Aucun partage avec des tiers, des régies publicitaires ou des partenaires.</li>
+        <li>Aucun transfert international (aucune donnée ne quitte l'appareil).</li>
+        <li>Aucune divulgation sur demande judiciaire (rien à divulguer).</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Conservation</div>
+      <h2>8. Durée de conservation</h2>
+      <p><strong>Côté éditeur :</strong> zéro conservation — aucune donnée n'a jamais été reçue.</p>
+      <p><strong>Côté appareil :</strong> vos préférences sont conservées jusqu'à la <strong>désinstallation</strong> ou l'effacement des données.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Sécurité</div>
+      <h2>9. Sécurité</h2>
+      <p>Même sans données à protéger, des mesures d'architecture raisonnables sont mises en œuvre :</p>
+      <ul>
+        <li>Trafic en clair désactivé (<code>usesCleartextTraffic="false"</code>).</li>
+        <li>APK et AAB signés avec les schémas v2 / v3.</li>
+        <li>Aucun appel réseau superflu ; 100 % de la logique en local.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Mises à jour</div>
+      <h2>10. Mise à jour de la politique</h2>
+      <p>Si (très improbablement) une nouvelle fonction venait modifier ce périmètre :</p>
+      <ol>
+        <li>Mise à jour de la date « Dernière mise à jour » en haut de page.</li>
+        <li>Mention dans les notes de version du Play Store.</li>
+        <li>En cas de nouvelle collecte : consentement explicite via une popup dans l'application.</li>
+      </ol>
+      <p class="muted" style="margin-top:10px"><strong>Dernière mise à jour · 最后更新 · Last updated：2026-08-21</strong></p>
+    </div>
+  </section>
+
+  <!-- =========================================================== -->
+  <!--                      ENGLISH                                 -->
+  <!-- =========================================================== -->
+  <section lang="en">
+    <div class="card">
+      <div class="section-fr">Overview</div>
+      <h2>📄 Privacy Policy · At a glance</h2>
+      <div class="chip-row">
+        <span class="chip">✓ Zero data collection</span>
+        <span class="chip fr">✓ No Internet permission</span>
+        <span class="chip">✓ No ads · no tracking SDK</span>
+        <span class="chip purple">✓ No account · no sign-up</span>
+        <span class="chip amber">⚙ Android Auto-backup (optional)</span>
+      </div>
+      <p>We <strong>do not collect, store or transmit any personal data</strong> in this application. This is a <strong>100% offline lunisolar calendar utility</strong>. Everything you do inside the app (paging through months, checking solar terms, switching themes…) runs entirely on your own device and never leaves it.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Controller</div>
+      <h2>1. Data Controller</h2>
+      <p>This app is published and maintained by <strong>VisdAR</strong> (independent developer). Package name: <code>com.visdar.calendrier</code>.</p>
+      <div class="contact">
+        <h3>📮 Contact</h3>
+        <p>Email : <a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p>
+        <p class="muted">For any privacy-related question, feel free to reach out — we will reply within a reasonable timeframe.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Collected data</div>
+      <h2>2. What data do we collect? — None</h2>
+      <table>
+        <tr><th>Data type</th><th>Collected?</th></tr>
+        <tr><td>Identity (name, email, phone…)</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Location (GPS / network)</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Contacts, photos, files, mic, camera</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Device identifiers (IMEI, OAID, Ad ID)</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Usage logs, click trails, page analytics</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Ad or analytics SDKs</td><td><span class="chip">No</span></td></tr>
+      </table>
+      <p>The manifest declares <strong>no Android permissions at all</strong> — no INTERNET, no ACCESS_FINE_LOCATION, no READ_CONTACTS… The ability to send anything off-device is blocked at the OS level.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Storage</div>
+      <h2>3. Where & how data is stored</h2>
+      <ul>
+        <li><strong>No servers, no databases, no cloud sync</strong> are used.</li>
+        <li>The app is a local WebView shipped inside the APK. Lunar algorithms, solar terms, holidays and the full calendar engine are statically embedded.</li>
+        <li>Theme preferences are kept in the <strong>app-private directory</strong> (SharedPreferences / LocalStorage), inaccessible to other apps.</li>
+      </ul>
+
+      <h3>Android Auto-backup (<code>allowBackup=true</code>)</h3>
+      <p>The manifest declares <code>android:allowBackup="true"</code> (Google's default recommended value). This means :</p>
+      <ul>
+        <li>If you have enabled <strong>Google Backup</strong> in your system settings (or an OEM cloud backup such as Xiaomi Cloud, Huawei Cloud, Samsung Cloud…), the app's private preferences <strong>may be automatically uploaded by Android</strong> into the backup space tied to <strong>your own personal account</strong>.</li>
+        <li>This process is 100% handled by the Android OS. VisdAR <strong>has no access, no visibility and no control</strong> over those backups.</li>
+        <li>To turn it off : <em>Settings → System → Backup</em>, or use <code>adb</code> to disable backup for this specific app.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Children</div>
+      <h2>4. Children's privacy (COPPA · GDPR Art. 8)</h2>
+      <p>The app is suitable for all ages, including children under 13 / 16. Because <strong>no personal data is ever collected</strong>, there is no collection, processing or sharing of children's data.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Third-party</div>
+      <h2>5. Third-party services, SDKs, advertising</h2>
+      <table>
+        <tr><th>Category</th><th>Used?</th></tr>
+        <tr><td>Google AdMob / any ad SDK</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Google Analytics / Firebase / Mixpanel</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Crashlytics / Bugly / crash reporting</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Payment SDK (Stripe, PayPal…)</td><td><span class="chip">No</span></td></tr>
+        <tr><td>Social login (Google, WeChat, Facebook)</td><td><span class="chip">No</span></td></tr>
+      </table>
+      <p><strong>No third-party SDK of any kind</strong> is bundled. There are therefore no independent joint controllers.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Your rights</div>
+      <h2>6. Your rights (GDPR)</h2>
+      <p>Since <strong>we do not hold any personal data about you</strong>, most of these rights are automatically satisfied. For full transparency :</p>
+      <ol>
+        <li><strong>Right to be informed</strong> — covered by this document.</li>
+        <li><strong>Right of access</strong> — on request, we confirm in writing that no personal data is held.</li>
+        <li><strong>Rectification · Erasure</strong> — nothing to rectify or erase on our side. To delete local preferences, use <em>Settings → Apps → Clear data</em> or uninstall.</li>
+        <li><strong>Restrict processing · Object</strong> — automatically satisfied since no processing takes place.</li>
+        <li><strong>Data portability</strong> — nothing to port.</li>
+        <li><strong>Lodge a complaint</strong> — you may still contact your national DPA (e.g. CNIL in France, ICO in the UK, etc.).</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Sharing</div>
+      <h2>7. Sharing, transfers & disclosures</h2>
+      <ul>
+        <li>No data is shared with any third-party company, ad network or partner.</li>
+        <li>No international data transfer occurs (no data ever leaves the device).</li>
+        <li>No disclosure under legal process possible — there is nothing to disclose.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Retention</div>
+      <h2>8. Retention</h2>
+      <p><strong>Developer side :</strong> zero retention. Nothing was ever received.</p>
+      <p><strong>Device side :</strong> local settings (e.g. theme) are retained until you <strong>uninstall the app</strong> or clear its data.</p>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Security</div>
+      <h2>9. Security</h2>
+      <p>Even without data to protect, we apply reasonable architectural safeguards :</p>
+      <ul>
+        <li>Cleartext traffic disabled (<code>usesCleartextTraffic="false"</code>).</li>
+        <li>APK and AAB are signed with v2 / v3 signature schemes.</li>
+        <li>No superfluous network calls ; 100% of the logic runs locally.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="section-fr">Updates</div>
+      <h2>10. Updates to this policy</h2>
+      <p>If (very unlikely) a future feature changes this perimeter :</p>
+      <ol>
+        <li>We will update the "Last updated" date at the top of this page.</li>
+        <li>We will clearly list the change in the Play Store release notes.</li>
+        <li>If any data collection is introduced, we will ask for your explicit consent via an in-app dialog.</li>
+      </ol>
+      <p class="muted" style="margin-top:10px"><strong>Last updated · Dernière mise à jour · 最后更新：2026-08-21</strong></p>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 VisdAR · Contact : <a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a>
+  </footer>
+</div>
+
+<script>
+  (function(){
+    const tabs=document.querySelectorAll('.lang-tab');
+    const sections=document.querySelectorAll('section[lang]');
+    function show(lang){
+      tabs.forEach(t=>{
+        const on=t.dataset.lang===lang;
+        t.classList.toggle('active',on);
+        t.setAttribute('aria-selected',on?'true':'false');
+      });
+      sections.forEach(s=>s.classList.toggle('active',s.getAttribute('lang')===lang));
+      try{window.scrollTo({top:0,behavior:'smooth'})}catch(e){}
+    }
+    tabs.forEach(t=>t.addEventListener('click',()=>show(t.dataset.lang)));
+    const nav=(navigator.language||'en').toLowerCase();
+    if(nav.startsWith('zh')) show('zh');
+    else if(nav.startsWith('fr')) show('fr');
+    else show('en');
+  })();
+</script>
+</body>
+</html>
