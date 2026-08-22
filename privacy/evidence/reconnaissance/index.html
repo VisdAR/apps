@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
+<title>汉字识别 · 许可与审计档案</title>
+<style>
+  :root{--ink:#172033;--soft:#334155;--muted:#64748b;--line:rgba(148,163,184,.28);--glass:rgba(255,255,255,.74);--violet:#7457d5;--indigo:#4f46e5;--green:#047857}*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;color:var(--ink)}body{padding:22px 13px 56px;background:radial-gradient(850px 520px at 3% -4%,rgba(125,211,252,.38),transparent 68%),radial-gradient(780px 520px at 104% 8%,rgba(216,180,254,.38),transparent 66%),linear-gradient(180deg,#edf6ff,#fdf6ff 55%,#f5f3ff);line-height:1.62}a{color:var(--indigo);text-decoration:none}.wrap{width:min(100%,920px);margin:auto}.back{display:inline-block;margin-bottom:12px;padding:6px 11px;border:1px solid var(--line);border-radius:11px;background:rgba(255,255,255,.5);font-size:12px}header,.card{background:var(--glass);border:1px solid rgba(255,255,255,.88);box-shadow:0 10px 30px rgba(71,85,105,.09),inset 0 1px 0 rgba(255,255,255,.9);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}header{padding:20px;border-radius:20px;margin-bottom:16px}h1{font-size:22px;margin:0 0 5px}.pinyin{font-size:11px;color:#7c3aed;font-weight:850}.lead{margin:8px 0 0;color:var(--soft);font-size:14px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.card{border-radius:18px;padding:14px}.card h2{font-size:15px;margin:0 0 3px}.license{color:var(--green);font-size:12px;font-weight:850;margin-bottom:9px}.shot{display:block;width:100%;height:auto;border-radius:12px;border:1px solid var(--line);background:#fff}.caption{margin:9px 1px 2px;color:var(--soft);font-size:12.5px}.source{display:inline-block;margin-top:6px;font-size:12px;font-weight:800}.audit{grid-column:1/-1}.notice{margin:7px 0 0;font-size:12px;color:var(--muted)}footer{margin-top:28px;text-align:center;color:var(--muted);font-size:12px}@media(max-width:680px){body{padding:15px 10px 44px}.grid{grid-template-columns:1fr}header{padding:17px}.card{padding:12px}h1{font-size:19px}}
+</style>
+</head>
+<body><div class="wrap">
+  <a class="back" href="../../reconnaissance.html">← 汉字识别 · Reconnaissance de sinogrammes</a>
+  <header><div class="pinyin">xǔ kě yǔ shěn jì dàng àn</div><h1>许可与审计档案</h1><p class="lead">Archives de licences et d’audit · Licence and audit archive. 保存于 2026-08-22，仅用于合规留档；各原始来源的署名、许可和再发布条件仍然适用。</p></header>
+  <main class="grid">
+    <article class="card"><h2>HanziLookupJS</h2><div class="license">GPL-3.0</div><a href="hanzilookupjs-gpl.png"><img class="shot" src="hanzilookupjs-gpl.png" alt="HanziLookupJS GPL licence evidence"></a><p class="caption">手写识别组件的 GPL-3.0 许可证据。</p></article>
+    <article class="card"><h2>Make Me a Hanzi</h2><div class="license">Apache License 2.0</div><a href="hanzilookupjs-apl.png"><img class="shot" src="hanzilookupjs-apl.png" alt="Make Me a Hanzi Apache licence evidence"></a><p class="caption">字形数据的 APL 2.0 许可证据。</p></article>
+    <article class="card"><h2>CFDICT · Chine Informations</h2><div class="license">CC BY-SA 3.0</div><a href="cfdict-cc-by-sa.png"><img class="shot" src="cfdict-cc-by-sa.png" alt="CFDICT CC BY-SA licence evidence"></a><p class="caption">允许商业使用但须署名并遵守相同方式共享的条件。</p></article>
+    <article class="card"><h2>Complete HSK Vocabulary</h2><div class="license">MIT License</div><a href="complete-hsk-mit.png"><img class="shot" src="complete-hsk-mit.png" alt="Complete HSK MIT licence evidence"></a><p class="caption">词条排序资料的 MIT 许可证据。</p></article>
+    <article class="card"><h2>LXGW WenKai GB</h2><div class="license">SIL Open Font License 1.1</div><a href="lxgw-wenkai-ofl.png"><img class="shot" src="lxgw-wenkai-ofl.png" alt="LXGW WenKai OFL licence evidence"></a><p class="caption">应用中文字型的 SIL OFL 1.1 许可证据。</p></article>
+    <article class="card audit"><h2>CFDICT 同词异调审计</h2><div class="license">Reproducible review · 2026-08-22</div><p class="caption">该审计用来找出仅声调不同、却可能词义不同的条目，避免错误合并。它是合规与数据质量资料，不包含应用实现。</p><a class="source" href="cfdict-tone-variant-audit.md">阅读审计报告</a> · <a class="source" href="audit_tone_variants.js">查看可重复运行的检查工具</a><p class="notice">不公开：完整应用实现、私有签名 keystore、签名属性文件及原始离线数据。</p></article>
+  </main>
+  <footer>© 2026 VisdAR · Compliance archive</footer>
+</div></body>
+</html>
