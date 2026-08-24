@@ -18,6 +18,8 @@ The original licence texts and their conditions remain controlling. The screensh
 
 - `cfdict-tone-variant-audit.md` records the results of the audit.
 - `audit_tone_variants.js` is the reproducible checker used to produce it.
+- `compound-only-readings.md` explains, in plain language, the reading notes
+  used when a French gloss only applies in a fixed Chinese word.
 
 The audit is documentation, not application code. It helps prevent accidental merging of same-spelling vocabulary whose meanings differ by tone.
 
