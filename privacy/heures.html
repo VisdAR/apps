@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
+<meta name="color-scheme" content="light">
+<title>全球时间 Heures du monde — 隐私政策 Politique de confidentialité Privacy Policy</title>
+<meta name="description" content="全球时间 Heures du monde 的中文、法语与英语隐私政策。包名 com.visdar.heures。">
+<style>
+  :root{
+    --ink:#142033;--soft:#344158;--muted:#6c7890;--blue:#4666d7;--cyan:#0f8ea8;
+    --purple:#7256ca;--line:rgba(132,150,183,.25);--glass:rgba(255,255,255,.72);
+    --glass-strong:rgba(255,255,255,.88);--green:#08795e;--amber:#8a5a12;
+  }
+  *{box-sizing:border-box}
+  html{min-height:100%;background:#edf3fb}
+  body{
+    margin:0;min-height:100%;padding:22px 13px 58px;color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;
+    font-size:15px;line-height:1.72;overflow-x:hidden;
+    background:
+      radial-gradient(720px 480px at -5% -5%,rgba(130,211,235,.46),transparent 68%),
+      radial-gradient(760px 510px at 105% 5%,rgba(190,170,245,.40),transparent 66%),
+      radial-gradient(660px 500px at 52% 105%,rgba(156,221,204,.30),transparent 65%),
+      linear-gradient(165deg,#edf6fb 0%,#f5f1ff 48%,#eef8f4 100%);
+  }
+  a{color:var(--blue);text-decoration:none;border-bottom:1px solid rgba(70,102,215,.28)}
+  a:hover{border-color:var(--blue)}
+  code{padding:1px 6px;border-radius:7px;background:rgba(119,137,170,.12);font-size:.88em;color:#26334a}
+  .wrap{width:min(100%,840px);margin:0 auto}
+  .back{display:inline-flex;align-items:center;gap:6px;margin:0 2px 11px;padding:5px 11px;border:1px solid var(--line);border-radius:11px;background:rgba(255,255,255,.48);color:var(--muted);font-size:12px;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+  .brand,.card,.tabs{
+    border:1px solid rgba(255,255,255,.84);background:var(--glass);
+    box-shadow:0 12px 34px rgba(55,73,108,.10),inset 0 1px 0 rgba(255,255,255,.82);
+    backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%);
+  }
+  .brand{display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:22px;margin-bottom:13px}
+  .logo{width:58px;height:58px;flex:0 0 auto;border-radius:15px;object-fit:contain;background:#fff;box-shadow:0 5px 14px rgba(37,52,82,.10)}
+  .brand-copy{min-width:0}
+  .pinyin{font-size:11px;line-height:1.15;font-weight:800;color:var(--purple);letter-spacing:.025em;margin-bottom:3px}
+  .brand-line{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+  .brand-cn{font-family:"LXGW WenKai","Kaiti SC","STKaiti",serif;font-size:25px;line-height:1.18;font-weight:700}
+  .brand-fr{font-family:Georgia,"Times New Roman",serif;font-size:20px;line-height:1.18;color:var(--blue)}
+  .subtitle{margin-top:6px;color:var(--muted);font-size:12px;line-height:1.4}
+  .tabs{display:flex;justify-content:center;gap:7px;width:max-content;max-width:100%;margin:0 auto 15px;padding:6px;border-radius:17px}
+  .tab{appearance:none;border:0;border-radius:12px;padding:8px 16px;background:transparent;color:var(--muted);font:800 12px/1.2 inherit;cursor:pointer;transition:.2s ease}
+  .tab.active{color:#fff;background:linear-gradient(135deg,#657ce2,#7157c7);box-shadow:0 6px 16px rgba(82,78,179,.24)}
+  section[lang]{display:none}
+  section[lang].active{display:block;animation:reveal .28s ease}
+  @keyframes reveal{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .card{border-radius:20px;padding:21px 20px;margin-bottom:13px}
+  h1,h2,h3,p,ul{margin-top:0}
+  h1{font-size:20px;line-height:1.35;margin-bottom:8px}
+  h2{font-size:17px;line-height:1.4;margin-bottom:8px;letter-spacing:-.01em}
+  h3{font-size:14px;margin:15px 0 6px;color:var(--soft)}
+  p{margin-bottom:9px;color:var(--soft)}
+  ul{margin-bottom:8px;padding-left:21px}
+  li{margin:4px 0;color:var(--soft)}
+  strong{color:var(--ink)}
+  .eyebrow{font-size:10.5px;font-weight:850;color:var(--purple);letter-spacing:.035em;margin-bottom:4px}
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0 14px}
+  .chip{padding:4px 10px;border:1px solid rgba(15,142,168,.18);border-radius:999px;background:rgba(15,142,168,.09);color:#08748a;font-size:11px;font-weight:800}
+  .chip.purple{border-color:rgba(114,86,202,.18);background:rgba(114,86,202,.09);color:#6448bd}
+  .chip.green{border-color:rgba(8,121,94,.18);background:rgba(8,121,94,.09);color:var(--green)}
+  .notice{padding:13px 14px;border:1px solid rgba(215,151,38,.22);border-radius:15px;background:rgba(255,246,222,.64);color:#684b1b}
+  .contact{padding:14px 15px;border:1px solid rgba(70,102,215,.18);border-radius:16px;background:rgba(235,240,255,.62)}
+  .evidence{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:10px}
+  .evidence a{display:block;padding:12px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.58);font-size:13px;font-weight:750}
+  .small{font-size:12.5px;color:var(--muted)}
+  footer{margin-top:32px;padding-top:17px;border-top:1px solid var(--line);text-align:center;color:var(--muted);font-size:12px}
+  @media(max-width:540px){
+    body{padding:14px 10px 45px;font-size:14px}
+    .brand{gap:11px;padding:12px;border-radius:18px}.logo{width:50px;height:50px;border-radius:13px}
+    .brand-cn{font-size:21px}.brand-fr{font-size:17px}.subtitle{font-size:11px}
+    .tab{padding:7px 12px}.card{padding:17px 15px;border-radius:17px}h1{font-size:18px}h2{font-size:16px}
+    .evidence{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <a class="back" href="../index.html">← VisdAR Apps</a>
+  <header class="brand">
+    <img class="logo" src="assets/heures-logo.jpg" alt="Visd AR logo">
+    <div class="brand-copy">
+      <div class="pinyin">quán qiú shí jiān</div>
+      <div class="brand-line"><span class="brand-cn">全球时间</span><span class="brand-fr">Heures du monde</span></div>
+      <div class="subtitle">隐私政策 · Politique de confidentialité · Privacy Policy</div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Language">
+    <button class="tab active" type="button" role="tab" aria-selected="true" data-lang="zh">中文</button>
+    <button class="tab" type="button" role="tab" aria-selected="false" data-lang="fr">Français</button>
+    <button class="tab" type="button" role="tab" aria-selected="false" data-lang="en">English</button>
+  </nav>
+
+  <section lang="zh" class="active">
+    <article class="card">
+      <div class="eyebrow">yǐn sī gài shù</div><h1>隐私政策一览</h1>
+      <div class="chips"><span class="chip green">不收集个人数据</span><span class="chip">无联网权限</span><span class="chip purple">无广告与追踪</span><span class="chip green">无需账户</span></div>
+      <p><strong>全球时间 Heures du monde</strong> 是一款完全离线的世界时间工具。应用不收集、不存储、不出售、不共享，也不向开发者或第三方传输任何个人数据。</p>
+      <p class="small">生效及最后更新日期：2026 年 8 月 24 日　应用包名：<code>com.visdar.heures</code></p>
+    </article>
+    <article class="card">
+      <div class="eyebrow">shù jù chǔ lǐ</div><h2>1. 数据处理</h2>
+      <ul>
+        <li>不要求注册、登录、姓名、邮箱或电话号码。</li>
+        <li>不访问 GPS、通讯录、照片、文件、相机或麦克风。</li>
+        <li>不使用广告标识符、分析工具、崩溃上报、广告 SDK 或追踪器。</li>
+        <li>应用清单未声明互联网权限，因此应用本身不能联网传输数据。</li>
+      </ul>
+      <p>应用仅在设备本地读取系统提供的时区和语言设置，用于显示您的当地时间、计算时差并选择合适的显示语言。这些信息不会离开设备，也不会被开发者接收。</p>
+    </article>
+    <article class="card">
+      <div class="eyebrow">běn dì cún chǔ yǔ bèi fèn</div><h2>2. 本地存储与系统备份</h2>
+      <p>国家、城市、时区、货币、电话前缀和界面资源均随应用离线提供。应用没有后端服务器、云数据库或用户账户。</p>
+      <div class="notice">Android 清单启用了系统自动备份。若您在设备中开启 Google 或手机厂商的系统备份，应用私有设置可能由 Android 自动保存到您自己的云账户。该过程由操作系统和备份服务商控制，VisdAR 无法读取或访问这些备份。您可在设备的系统备份设置中关闭。</div>
+    </article>
+    <article class="card">
+      <div class="eyebrow">dì sān fāng yǔ kāi yuán zǔ jiàn</div><h2>3. 第三方与开源组件</h2>
+      <p>应用不集成广告、统计、登录、支付或社交 SDK。离线包中包含以下开源组件：</p>
+      <ul><li><strong>LXGW WenKai 霞鹜文楷</strong>，依据 SIL Open Font License 1.1 使用。</li><li><strong>pinyin-pro</strong>，依据 MIT License 使用。</li></ul>
+      <p>两项许可证均允许商业使用，但须遵守各自的版权声明与许可证条件。完整文本及官方页面截图保存在许可证据页。</p>
+      <div class="evidence"><a href="evidence/heures/">查看许可证据与截图</a><a href="https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt">字体官方许可证</a><a href="https://github.com/zh-lx/pinyin-pro/blob/main/LICENSE">pinyin-pro 官方许可证</a></div>
+    </article>
+    <article class="card">
+      <div class="eyebrow">wǎng yè tuō guǎn</div><h2>4. 本隐私政策网页</h2>
+      <p>本页面托管于 GitHub Pages。只有当您使用浏览器访问本页面时，GitHub 可能根据其隐私声明处理必要的网络访问数据，例如 IP 地址和请求日志。这与离线应用本身无关；应用不会自动打开或访问本页面。</p>
+    </article>
+    <article class="card">
+      <div class="eyebrow">ér tóng quán lì yǔ biàn gēng</div><h2>5. 儿童、您的权利与政策变更</h2>
+      <p>本应用适合一般年龄用户。由于不收集个人数据，不会有儿童个人数据被开发者处理。应用也不持有可供访问、更正、导出或删除的个人资料。如功能或数据实践发生变化，本页面将更新日期和内容。</p>
+    </article>
+    <article class="card"><div class="eyebrow">lián xì fāng shì</div><h2>6. 联系方式</h2><div class="contact"><p>隐私问题请联系 VisdAR：<a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p></div></article>
+  </section>
+
+  <section lang="fr">
+    <article class="card">
+      <div class="eyebrow">RÉSUMÉ</div><h1>Politique de confidentialité</h1>
+      <div class="chips"><span class="chip green">Aucune donnée personnelle collectée</span><span class="chip">Aucun accès à Internet</span><span class="chip purple">Aucune publicité ni traçage</span><span class="chip green">Aucun compte</span></div>
+      <p><strong>全球时间 Heures du monde</strong> est un outil d'heure mondiale entièrement hors ligne. L'application ne collecte, ne stocke, ne vend, ne partage et ne transmet aucune donnée personnelle au développeur ni à un tiers.</p>
+      <p class="small">Date d'entrée en vigueur et dernière mise à jour : 24 août 2026　Identifiant : <code>com.visdar.heures</code></p>
+    </article>
+    <article class="card">
+      <h2>1. Traitement des données</h2>
+      <ul><li>Aucune inscription et aucun nom, courriel ou numéro de téléphone demandé.</li><li>Aucun accès au GPS, aux contacts, photos, fichiers, à l'appareil photo ou au microphone.</li><li>Aucun identifiant publicitaire, outil d'analyse, rapport de plantage, SDK publicitaire ou traceur.</li><li>Le manifeste Android ne déclare aucune permission Internet : l'application ne peut pas transmettre de données en ligne.</li></ul>
+      <p>L'application lit uniquement, sur l'appareil, le fuseau horaire et la langue fournis par le système afin d'afficher votre heure locale, calculer le décalage horaire et choisir la langue d'interface. Ces informations ne quittent jamais l'appareil.</p>
+    </article>
+    <article class="card">
+      <h2>2. Stockage local et sauvegarde système</h2>
+      <p>Les données relatives aux pays, villes, fuseaux horaires, devises et indicatifs téléphoniques ainsi que les ressources de l'interface sont fournies hors ligne. Il n'existe aucun serveur, compte utilisateur ni base de données distante.</p>
+      <div class="notice">La sauvegarde automatique Android est autorisée. Si la sauvegarde Google ou celle du fabricant est activée sur votre appareil, Android peut enregistrer les réglages privés de l'application dans votre propre compte cloud. VisdAR ne peut ni consulter ni accéder à ces sauvegardes. Vous pouvez les désactiver dans les réglages système.</div>
+    </article>
+    <article class="card">
+      <h2>3. Tiers et composants libres</h2>
+      <p>Aucun SDK de publicité, d'analyse, de connexion, de paiement ou de réseau social n'est intégré. L'application contient hors ligne :</p>
+      <ul><li><strong>LXGW WenKai</strong>, sous SIL Open Font License 1.1.</li><li><strong>pinyin-pro</strong>, sous licence MIT.</li></ul>
+      <p>Ces licences autorisent l'usage commercial sous réserve de leurs mentions et conditions. Les textes complets et les captures des pages officielles sont archivés sur la page des justificatifs.</p>
+      <div class="evidence"><a href="evidence/heures/">Justificatifs et captures</a><a href="https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt">Licence officielle de la police</a><a href="https://github.com/zh-lx/pinyin-pro/blob/main/LICENSE">Licence officielle de pinyin-pro</a></div>
+    </article>
+    <article class="card"><h2>4. Hébergement de cette page</h2><p>Cette page est hébergée par GitHub Pages. Lorsque vous la consultez dans un navigateur, GitHub peut traiter les données réseau nécessaires, telles que l'adresse IP et les journaux de requêtes, conformément à sa propre déclaration de confidentialité. Cela est distinct de l'application hors ligne, qui n'ouvre ni ne consulte automatiquement cette page.</p></article>
+    <article class="card"><h2>5. Enfants, vos droits et modifications</h2><p>L'application convient à un public général. Aucune donnée personnelle, y compris celle d'un enfant, n'est traitée par le développeur. VisdAR ne détient donc aucun profil à consulter, rectifier, exporter ou supprimer. Si les fonctions ou pratiques changent, cette page sera mise à jour.</p></article>
+    <article class="card"><h2>6. Contact</h2><div class="contact"><p>Pour toute question relative à la confidentialité : <a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p></div></article>
+  </section>
+
+  <section lang="en">
+    <article class="card">
+      <div class="eyebrow">AT A GLANCE</div><h1>Privacy Policy</h1>
+      <div class="chips"><span class="chip green">No personal data collection</span><span class="chip">No Internet access</span><span class="chip purple">No ads or tracking</span><span class="chip green">No account</span></div>
+      <p><strong>全球时间 Heures du monde</strong> is a fully offline world-time utility. The app does not collect, store, sell, share, or transmit any personal data to the developer or any third party.</p>
+      <p class="small">Effective and last updated: August 24, 2026　Package: <code>com.visdar.heures</code></p>
+    </article>
+    <article class="card">
+      <h2>1. Data handling</h2>
+      <ul><li>No registration and no request for a name, email address, or telephone number.</li><li>No access to GPS, contacts, photos, files, camera, or microphone.</li><li>No advertising identifiers, analytics, crash reporting, advertising SDKs, or trackers.</li><li>The Android manifest declares no Internet permission, so the app cannot transmit data online.</li></ul>
+      <p>The app reads only the time zone and language supplied locally by the operating system to show your local time, calculate time differences, and select an interface language. This information never leaves the device.</p>
+    </article>
+    <article class="card">
+      <h2>2. Local storage and system backup</h2>
+      <p>Country, city, time-zone, currency, telephone-prefix, and interface data are bundled for offline use. There is no backend server, remote database, cloud synchronization, or user account.</p>
+      <div class="notice">Android automatic backup is enabled. If Google or manufacturer backup is enabled on your device, Android may save private app settings to your own cloud account. The process is controlled by the operating system and backup provider; VisdAR cannot read or access those backups. You may disable them in system settings.</div>
+    </article>
+    <article class="card">
+      <h2>3. Third parties and open-source components</h2>
+      <p>No advertising, analytics, sign-in, payment, or social SDK is integrated. The offline package contains:</p>
+      <ul><li><strong>LXGW WenKai</strong>, used under the SIL Open Font License 1.1.</li><li><strong>pinyin-pro</strong>, used under the MIT License.</li></ul>
+      <p>Both licenses permit commercial use subject to their notices and conditions. Complete texts and screenshots of the official pages are retained on the evidence page.</p>
+      <div class="evidence"><a href="evidence/heures/">License evidence and screenshots</a><a href="https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt">Official font license</a><a href="https://github.com/zh-lx/pinyin-pro/blob/main/LICENSE">Official pinyin-pro license</a></div>
+    </article>
+    <article class="card"><h2>4. Hosting of this policy page</h2><p>This page is hosted on GitHub Pages. When you visit it in a browser, GitHub may process necessary web-access data such as an IP address and request logs under its own privacy statement. This is separate from the offline app, which does not automatically open or access this page.</p></article>
+    <article class="card"><h2>5. Children, your rights, and changes</h2><p>The app is suitable for a general audience. Because the developer collects no personal data, no child's personal data is processed and VisdAR holds no personal profile to access, correct, export, or delete. This page will be updated if app functionality or data practices change.</p></article>
+    <article class="card"><h2>6. Contact</h2><div class="contact"><p>For privacy questions, contact VisdAR at <a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a>.</p></div></article>
+  </section>
+
+  <footer>© 2026 Visd AR　Tous droits réservés.</footer>
+</main>
+<script>
+  const tabs=[...document.querySelectorAll('.tab')];
+  const sections=[...document.querySelectorAll('section[lang]')];
+  tabs.forEach(tab=>tab.addEventListener('click',()=>{
+    const lang=tab.dataset.lang;
+    tabs.forEach(item=>{const active=item===tab;item.classList.toggle('active',active);item.setAttribute('aria-selected',String(active));});
+    sections.forEach(section=>section.classList.toggle('active',section.lang===lang));
+    document.documentElement.lang=lang==='zh'?'zh-CN':lang;
+  }));
+</script>
+</body>
+</html>
