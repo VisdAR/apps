@@ -7,6 +7,7 @@ Public-facing documentation & policies for VisdAR Android applications.
 | App | Package | Policy |
 |-----|---------|--------|
 | 万年历 · Calendrier lunisolaire chinois | `com.visdar.calendrier` | [privacy/calendrier.html](https://visdar.github.io/apps/privacy/calendrier.html) |
+| 亲属称呼 · Titres de parenté | `com.visdar.famille` | [privacy/parente.html](https://visdar.github.io/apps/privacy/parente.html) |
 | 汉字手写识别 · Reconnaissance de sinogrammes manuscrits | `com.visdar.manuscrits` | [privacy/reconnaissance.html](https://visdar.github.io/apps/privacy/reconnaissance.html) |
 
 ---
