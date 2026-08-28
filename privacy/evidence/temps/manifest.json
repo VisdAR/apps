@@ -1,0 +1,95 @@
+{
+  "captured": "2026-08-28",
+  "screenshots": [
+    {
+      "file": "01-lxgw-wenkai-ofl.png",
+      "title": "LXGW WenKai · SIL Open Font License 1.1",
+      "url": "https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt",
+      "license": "SIL OFL 1.1",
+      "note": "Official repository: original copyright, licence and commercial-use permission. The unmodified font is bundled with its OFL notice.",
+      "captured": "2026-08-28",
+      "sha256": "760e8a619285c90bbd211a2b288d9959114f8f1e28cf71272a42ec3d5e045cbc",
+      "bytes": 386293
+    },
+    {
+      "file": "02-fang-xu-2022-cc-by.png",
+      "title": "Fang & Xu (2022) · temporality and aspect",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.964861/full",
+      "license": "CC BY 4.0",
+      "note": "Publisher copyright and attribution licence.",
+      "captured": "2026-08-28",
+      "sha256": "7877ea3f9624b2ea1c599a437d265b4234991d8dbdb6b67d33c1d50a44868b52",
+      "bytes": 109575
+    },
+    {
+      "file": "03-yan-mai-zhao-2023-cc-by.png",
+      "title": "Yan, Mai & Zhao (2023) · sentence-final le",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1145493/full",
+      "license": "CC BY 4.0",
+      "note": "Publisher copyright and attribution licence.",
+      "captured": "2026-08-28",
+      "sha256": "48c774f5f7ab41b99e674e3a21e354cb2e4b4c07a1c593dedf91797ec43e734f",
+      "bytes": 103362
+    },
+    {
+      "file": "04-chen-durrleman-2022-cc-by.png",
+      "title": "Chen & Durrleman (2022) · aspect markers",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.839951/full",
+      "license": "CC BY 4.0",
+      "note": "Publisher copyright and attribution licence.",
+      "captured": "2026-08-28",
+      "sha256": "b81944aa88fd00c41e9c12e55f986194819003c2647e524abb74e457e817e46e",
+      "bytes": 106078
+    },
+    {
+      "file": "05-dai-et-al-2022-cc-by.png",
+      "title": "Dai, He, Chen & Yin (2022) · negation",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.926897/full",
+      "license": "CC BY 4.0",
+      "note": "Publisher copyright and attribution licence.",
+      "captured": "2026-08-28",
+      "sha256": "dbd47111d05c69b45603d1900af9e314962c846d8c35f4decd3143e5f917d7f7",
+      "bytes": 98716
+    },
+    {
+      "file": "06-abbiati-2017-publisher-page1.png",
+      "title": "Abbiati (2017) · jiù and cái",
+      "url": "https://edizionicafoscari.unive.it/media/pdf/article/annali-di-ca-foscari-serie-orientale/2017/53/art-10.14277-2385-3042-AnnOr-53-17-10_2Y90z9j.pdf",
+      "license": "CC BY 4.0",
+      "note": "Direct render of the original publisher PDF, page 1 (printed page 281). The licence is printed in its footer. No text has been changed.",
+      "captured": "2026-08-28",
+      "sha256": "c405a873f25f7f1242b78f34986d83b32a3a560be69a5aac6b7c8e480acc0da2",
+      "bytes": 346812
+    },
+    {
+      "file": "07-shan-et-al-2026-cc-by.png",
+      "title": "Shan et al. (2026) · durative background",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343884",
+      "license": "CC BY 4.0",
+      "note": "Publisher copyright and attribution licence.",
+      "captured": "2026-08-28",
+      "sha256": "516a4551eddb139ac75dd2cf49d99c9f139ec851341d22f6fc4e17652cbdb4b4",
+      "bytes": 106823
+    },
+    {
+      "file": "08-cc-by-4-commercial-use.png",
+      "title": "Creative Commons · commercial use permitted",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "license": "CC BY 4.0",
+      "note": "Official licence deed explicitly permits commercial sharing and adaptation. Attribution and other terms still apply.",
+      "captured": "2026-08-28",
+      "sha256": "2a4acce7b380f7f094458b0205c103e159c71c6e1150784eecaa0727747a5ea7",
+      "bytes": 49484
+    }
+  ],
+  "font": {
+    "file": "../../assets/temps/LXGWWenKai-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf",
+    "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+    "modified": false
+  },
+  "pdf": {
+    "source": "https://edizionicafoscari.unive.it/media/pdf/article/annali-di-ca-foscari-serie-orientale/2017/53/art-10.14277-2385-3042-AnnOr-53-17-10_2Y90z9j.pdf",
+    "sha256": "f41c59e01bf7162d2320a9d65230578c37ff558848c58d0968deaf214b1d1c8f"
+  }
+}
