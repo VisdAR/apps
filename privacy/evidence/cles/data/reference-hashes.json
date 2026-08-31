@@ -1,0 +1,19 @@
+{
+  "officialFontUrl": "https://github.com/lxgw/LxgwWenkaiGB/releases/download/v1.522/LXGWWenKaiGB-Regular.ttf",
+  "officialFontSha256": "295568c131648062107543aa159c97dd49564be791136c2abf74cad83eba3f7f",
+  "calendrierAssets": {
+    "app/src/main/res/mipmap-mdpi/ic_launcher.png": "34ee6f837e83c2ac6c46f6e1376e65466875d44bc11129e5f6cd4fedec5560e9",
+    "app/src/main/res/mipmap-mdpi/ic_launcher_round.png": "bda5a90e54588378ece463fbbb2e333fa46e7c8a5353331f6b5990d0311af709",
+    "app/src/main/res/mipmap-hdpi/ic_launcher.png": "a2bab74fc62462adcbbd0f23dc443a30a3970f24bb4ee798f4aa8db7e21d5d58",
+    "app/src/main/res/mipmap-hdpi/ic_launcher_round.png": "8cb6fea62363317bc15ecf609ca6fa0627efb704d6972c1f445f1c964f8541c8",
+    "app/src/main/res/drawable/ic_launcher_foreground.png": "a3f87764d63a6d07fc4dafa1c518d4c1da04577b86a9e4eb148bc54e0abdd3e6",
+    "app/src/main/res/drawable/ic_launcher_background.png": "039fab211b8cb945fc4caf4ce36316121da9171c4f156db3a5f5cda21170e251",
+    "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png": "145cd2f4605a034cce3c6a846ea1a1f76e8453809935a9fad50d83eb28430e8f",
+    "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png": "5f8c7ccf43dd45ffda8d771609f88863cf2c2bc6178991d470479af3f3d56503",
+    "app/src/main/res/mipmap-xxhdpi/ic_launcher.png": "c43d2024dbfc3bfbf3207dd1bf135fab967f7ea03d014e189d5c030a6a86b517",
+    "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png": "716641ee090d645925f8e1a27d5692b4ca981b17aa9c2867ced506914b97d322",
+    "app/src/main/res/mipmap-xhdpi/ic_launcher.png": "570a9a9893e2131721fb05936e34bad7aa464f7b4239146b42212f0210e2dbe9",
+    "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png": "e00e350b3391ec0b3696d4f7a3ad7943986028aa5a3624355b057102f5621cfb",
+    "app/src/main/assets/instagramBQ.jpg": "b34c16875a33ed3823be0912ec916d8ec42ddfb334d8d177d2d9025d1b61dc10"
+  }
+}

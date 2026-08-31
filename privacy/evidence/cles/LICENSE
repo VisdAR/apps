@@ -1,0 +1,25 @@
+Copyright © 2026 Visd AR. All rights reserved for the application's original
+code, visual design and brand assets. Publication of the source does not by
+itself grant rights to use the Visd AR name, logo, or original application.
+The project owner may choose a separate source-code licence before publication.
+
+Third-party materials are NOT covered by the above reservation:
+
+1. CFDICT, © David Houstin and Chine Informations contributors:
+   CC BY-SA 3.0. Adapted dictionary records, radical learning data and the
+   combined study-data.json/data.js dataset are distributed under CC BY-SA 3.0,
+   with the applicable Unicode and CNS notices retained.
+2. Unicode/Unihan data: Unicode-3.0. © 1991–2026 Unicode, Inc.
+3. LXGW WenKai GB v1.522: SIL Open Font License 1.1. Original font unmodified.
+   © 2022–2026 LXGW; © 2020 The Klee Project Authors.
+4. CNS11643 reference facts: Government Data Open License v1 and the official
+   website notice. Attribution: 數位發展部，CNS11643中文標準交換碼全字庫網站，
+   https://www.cns11643.gov.tw。
+
+Full notices are in evidence/licenses and app/src/main/assets/licenses.
+Screenshots document the cited official pages; they do not relicense a whole
+website, its logos or its unrelated material. Chinese national standards were
+consulted as references; no blanket open licence is claimed for those documents.
+
+No affiliation with or endorsement by Xinhua Dictionary, Unicode, the Ministry
+of Education, CNS11643, Chine Informations, or the font authors is implied.
