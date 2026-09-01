@@ -33,6 +33,7 @@ for (const credit of ['CFDICT', 'David Houstin', 'Unicode / Unihan 17.0.0', 'LXG
   expect(cles.includes(credit), `部首政策缺少来源或许可：${credit}`);
 }
 expect(cles.includes('ne sont donc pas présentés comme une transcription vérifiée'), '应保留新华字典名称尚未逐项核实的限制说明。');
+expect(cles.includes('Éditeur des données à Taïwan : Ministry of Digital Affairs.') && !cles.includes('Ministry of Digital Affairs, Taïwan.'), 'CNS11643 编辑者说明必须采用不把地名写成国家后缀的法语句式。');
 expect(index.includes('privacy/cles.html') && readme.includes('com.visdar.cles'), '站点首页和 README 应登记部首应用。');
 for (const file of ['privacy/cles.html', 'privacy/evidence/cles/index.html']) {
   const content = read(file);

@@ -85,7 +85,7 @@ seule. Les droits d’auteur, la licence et les noms réservés sont conservés 
 **Licence : Government Data Open License 1.0.**
 
 Attribution complète : **數位發展部，CNS11643中文標準交換碼全字庫網站，https://www.cns11643.gov.tw。**
-Éditeur : Ministry of Digital Affairs, Taïwan.
+Éditeur des données à Taïwan : Ministry of Digital Affairs.
 
 La [fiche U+9FBA](https://www.cns11643.gov.tw/wordView.jsp?ID=949815) sert à vérifier
 la lecture **zhuó** de **龺** et la description de sa structure. Aucune police CNS

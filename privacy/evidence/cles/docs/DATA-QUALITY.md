@@ -8,6 +8,8 @@ Les tests contrôlent l’unicité des catégories, les nombres de traits dispon
 
 Les noms non autonomes sont vérifiés sur les pages imprimées 7–20 de GF0014-2009. Leur page est enregistrée. Les noms correspondant simplement au sinogramme autonome utilisent la lecture et la glose des sources ouvertes. Une explication française éditoriale n’est pas présentée comme un texte officiel du ministère.
 
+Pour les 24 formes positionnelles effectivement nommées dans GF 0014-2009, le jeu de données conserve séparément le libellé exact de la norme (`standardName`) et le nom traditionnel complet affiché. Ainsi, la source **金旁** reste traçable, tandis que l’interface montre **钅 金字旁** ; de même, **氵 三点水**, **扌 提手旁**, **忄 竖心旁**, **阝 左耳旁 / 右耳旁**, etc., sont visibles dans les cartes de recherche. Les autres graphies historiques, traditionnelles ou renvois de regroupement ne sont pas présentés comme des formes positionnelles modernes.
+
 ## Différences avec un dictionnaire papier
 
 - L’index primaire est Unihan 17.0.0, système Kangxi à 214 catégories. L’interface regroupe ces catégories dans 201 clés de référence. Ce n’est pas une table licenciée de l’éditeur de Xinhua.
