@@ -1,0 +1,42 @@
+{
+  "captureDate": "2026-08-28",
+  "method": "Unmodified screenshots captured with the in-app browser. Source URLs recorded here; browser chrome is not included.",
+  "scope": "Evidence of the cited license conditions only, not an assurance for all assets or textbook completeness.",
+  "items": [
+    {
+      "file": "screenshots/01-moe-commercial-no-derivatives.png",
+      "url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/dict_idiomsdict_download.html",
+      "claim": "Commercial use allowed; derivative works prohibited.",
+      "sha256": "d79f55ec69ef90147d0253e287b0d58c0ace9e50a4f0798c9951fbeb19e084f7",
+      "size": 71178
+    },
+    {
+      "file": "screenshots/02-cfdict-commercial-license.png",
+      "url": "https://chine.in/mandarin/dictionnaire/CFDICT/",
+      "claim": "Commercial use, in-app and presentation-page attribution, share-alike.",
+      "sha256": "5ae973c84eed6fd1a9949f6a341f444cfe5be79a2a27fc635cb6426c3ceb82f7",
+      "size": 107667
+    },
+    {
+      "file": "screenshots/03-cc-by-sa-commercial-adaptation.png",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.fr",
+      "claim": "Commercial use and adaptation permitted subject to BY-SA terms.",
+      "sha256": "1f6b306bd95372d3c506215de27b54132248a3f0e28bd7264f8221cbfcdfbdcb",
+      "size": 64826
+    },
+    {
+      "file": "screenshots/04-moe-official-use-conditions.png",
+      "url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/idiomsdict_10409.pdf",
+      "claim": "Original PDF with ban on altering entries or converting them to simplified characters.",
+      "sha256": "d6e61f48417d12209496a5ffc92459c0ced8905393a5d4b1dba089d23750b831",
+      "size": 101037
+    },
+    {
+      "file": "screenshots/05-cc-by-sa-attribution-sharealike.png",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.fr",
+      "claim": "Attribution, share-alike and no additional restrictions.",
+      "sha256": "a037607fb18ad96df70f4070c7d76917b47b7aad4ebd383767bcb539acace568",
+      "size": 93741
+    }
+  ]
+}

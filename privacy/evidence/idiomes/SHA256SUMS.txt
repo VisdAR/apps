@@ -1,0 +1,7 @@
+d79f55ec69ef90147d0253e287b0d58c0ace9e50a4f0798c9951fbeb19e084f7  screenshots/01-moe-commercial-no-derivatives.png
+5ae973c84eed6fd1a9949f6a341f444cfe5be79a2a27fc635cb6426c3ceb82f7  screenshots/02-cfdict-commercial-license.png
+1f6b306bd95372d3c506215de27b54132248a3f0e28bd7264f8221cbfcdfbdcb  screenshots/03-cc-by-sa-commercial-adaptation.png
+d6e61f48417d12209496a5ffc92459c0ced8905393a5d4b1dba089d23750b831  screenshots/04-moe-official-use-conditions.png
+a037607fb18ad96df70f4070c7d76917b47b7aad4ebd383767bcb539acace568  screenshots/05-cc-by-sa-attribution-sharealike.png
+3f941b3b89cf7b8370ceb83cc76d2120d471b58735d8ca60238a751a48d7f72f  licenses/CC-BY-SA-3.0.txt
+ce154de2a9fb1eee4a591d2fa0d8cef2437f82e72d21fecdd5098d85d81ac8ad  licenses/MOE-idioms-use-conditions.pdf
