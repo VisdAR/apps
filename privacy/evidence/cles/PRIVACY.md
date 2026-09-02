@@ -20,7 +20,7 @@ consultés à partir de cette page appliquent leurs propres politiques.
 ## Références et licences
 
 Cette section rassemble les notices détaillées retirées de l’interface. Le panneau
-de l’application conserve une seule liste courte des quatre sources, de leurs
+de l’application conserve une seule liste courte des trois sources, de leurs
 licences et des crédits nécessaires. Les droits sur les données, la police et la
 marque restent distincts.
 
@@ -47,7 +47,8 @@ ne doit donc pas être déplacée exclusivement sur une page GitHub.
 
 ### Unicode / Unihan 17.0.0
 
-**Licence : [Unicode-3.0](https://www.unicode.org/license.txt).**
+**Licence : [Unicode License v3](https://www.unicode.org/license.txt)**
+(identifiant SPDX : `Unicode-3.0`).
 © 1991–2026 Unicode, Inc.
 
 Sources : [Unihan 17.0.0](https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip),
@@ -80,19 +81,6 @@ seule. Les droits d’auteur, la licence et les noms réservés sont conservés 
 [texte OFL fourni avec la police](app/src/main/assets/fonts/OFL.txt) et dans la
 [licence officielle de l’auteur](https://github.com/lxgw/LxgwWenkaiGB/blob/main/OFL.txt).
 
-### CNS11643
-
-**Licence : Government Data Open License 1.0.**
-
-Attribution complète : **數位發展部，CNS11643中文標準交換碼全字庫網站，https://www.cns11643.gov.tw。**
-Éditeur des données à Taïwan : Ministry of Digital Affairs.
-
-La [fiche U+9FBA](https://www.cns11643.gov.tw/wordView.jsp?ID=949815) sert à vérifier
-la lecture **zhuó** de **龺** et la description de sa structure. Aucune police CNS
-n’est incorporée. Voir la [déclaration officielle de licence](https://www.cns11643.gov.tw/pageView.jsp?ID=59)
-et la [notice conservée dans le paquet](app/src/main/assets/licenses/CNS11643.txt).
-Le nom du site n’est pas répété dans le panneau de l’application.
-
 ### Noms chinois et explications françaises
 
 Les noms chinois des composants sont vérifiés d’après **GF 0014-2009**, les noms
@@ -115,6 +103,12 @@ conformité exhaustive à la norme révisée de 2022.
 
 L’édition de référence envisagée est le [新华字典, 12e édition, présenté par son éditeur](https://www.cp.com.cn/book/9c3b015f-5.html).
 La page officielle confirme la présence du tableau de recherche par clé, mais ne fournit pas sa liste complète de noms. Les noms existants issus de GF 0014-2009 ne sont donc pas présentés comme une transcription vérifiée des appellations du dictionnaire. La vérification de cette correspondance nécessite les pages de l’édition utilisée.
+
+Dans l’interface, le nom exact enregistré et le nom usuel complet sont séparés.
+Lorsqu’une forme n’a pas de caractère Unicode autonome, elle reste montrée dans
+un sinogramme réel : **好** sert ainsi à présenter **女字旁**, dont le troisième
+trait devient une montée et ne se prolonge pas comme le trait horizontal de **女**
+isolé. Cette présentation visuelle n’est pas traitée comme un nouveau caractère.
 
 ### Indépendance, logo et pied de page
 

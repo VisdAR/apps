@@ -1,6 +1,6 @@
 # Données : périmètre et limites
 
-Version 2.0 — 201 catégories, 8 736 sinogrammes.
+Version 2.2 — 201 catégories, 8 736 sinogrammes.
 
 ## Ce qui est vérifié
 
@@ -8,14 +8,16 @@ Les tests contrôlent l’unicité des catégories, les nombres de traits dispon
 
 Les noms non autonomes sont vérifiés sur les pages imprimées 7–20 de GF0014-2009. Leur page est enregistrée. Les noms correspondant simplement au sinogramme autonome utilisent la lecture et la glose des sources ouvertes. Une explication française éditoriale n’est pas présentée comme un texte officiel du ministère.
 
-Pour les 24 formes positionnelles effectivement nommées dans GF 0014-2009, le jeu de données conserve séparément le libellé exact de la norme (`standardName`) et le nom traditionnel complet affiché. Ainsi, la source **金旁** reste traçable, tandis que l’interface montre **钅 金字旁** ; de même, **氵 三点水**, **扌 提手旁**, **忄 竖心旁**, **阝 左耳旁 / 右耳旁**, etc., sont visibles dans les cartes de recherche. Les autres graphies historiques, traditionnelles ou renvois de regroupement ne sont pas présentés comme des formes positionnelles modernes.
+Pour les 24 formes positionnelles encodées et nommées dans GF 0014-2009, le jeu de données conserve séparément le libellé exact de la norme (`standardName`) et le nom traditionnel complet affiché. Ainsi, la source **金旁** reste traçable, tandis que l’interface montre **钅 金字旁** ; de même, **氵 三点水**, **扌 提手旁**, **忄 竖心旁**, **阝 左耳旁 / 右耳旁**, etc., sont visibles dans les cartes de recherche.
+
+Une 25e présentation est contextuelle : **女字旁** n’a pas de code Unicode distinct. Elle est donc montrée dans **好**, où son troisième trait est relevé. Les fiches de sinogrammes répètent le sinogramme réel à côté du nom de la clé, afin que la forme composée ne soit jamais remplacée par un glyphe isolé trompeur.
 
 ## Différences avec un dictionnaire papier
 
 - L’index primaire est Unihan 17.0.0, système Kangxi à 214 catégories. L’interface regroupe ces catégories dans 201 clés de référence. Ce n’est pas une table licenciée de l’éditeur de Xinhua.
 - Les formes simplifiées et traditionnelles peuvent avoir des décomptes différents. Une recherche par nombre de traits reste liée au décompte indiqué par la source, pas à une promesse d’identité avec chaque édition imprimée.
 - Pour 都, le `163.9` original est conservé ; huit traits restants sont ajoutés comme repère du tracé GB de 者 sans point. Voir UAX #38 §3.6.
-- 龺 : lecture zhuó vérifiée dans CNS11643 ; aucun sens « printemps ». Les relations avec 乾、朝、韩、翰 sont des recherches supplémentaires par composant visible, non des valeurs Unihan inventées.
+- 龺 : le libellé descriptif **十早 / 十早字头** ne lui attribue ni lecture autonome normalisée ni sens « printemps ». Les relations avec 乾、朝、韩、翰 sont des recherches supplémentaires par composant visible, non des valeurs Unihan inventées.
 - 斗 sous 鬥 est un renvoi par simplification pour le sens dòu ; il ne supprime pas la relation principale de 斗.
 - 肉 et 月 restent distincts. 阝 à droite relève de 邑 ; à gauche, de 阜.
 - Les dix entrées 禸、禹、禺、鬯、禽、黹、黻、黼、鬰、鬱 ne sont pas attribuées artificiellement à un autre groupe : elles restent accessibles par recherche globale.
