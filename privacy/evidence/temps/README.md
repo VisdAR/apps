@@ -9,6 +9,15 @@ Captured and checked on 28 August 2026. The images are screenshots of the offici
 - The original Visd AR logo and footer come from the owner’s calendrier project. They are not asserted to be free stock assets and are not covered by the font or article licences.
 - No external JavaScript library, analytics SDK, downloaded audio or third-party stock illustration is shipped in the app. Build-time tools are not redistributed as app resources.
 
+
+## Editorial method
+
+- Mandarin is described through temporal reference, lexical meaning, context and aspect; the app does not present Chinese verbs as carrying European-style grammatical tense conjugations.
+- Every Chinese character in learning content has matching pinyin above it. Each word group has a concise French meaning below it, followed by a natural French rendering of the complete sentence.
+- Angle brackets mark a grammatical function or contextual annotation rather than a literal translation. `guò` is written with fourth tone; neutral-tone aspect particles remain unmarked. `bù` is shown as `bú` before a fourth-tone syllable and as `bù` before other full tones in the examples.
+- When Chinese does not specify a person’s gender, French uses a compact feminine alternative such as `allé(e)` or gives the distinct feminine form in parentheses when needed.
+- The explanations, examples, translations and exercises were written for the app. The publications below are used to check grammatical distinctions and do not imply endorsement by their authors.
+
 ## Captures
 
 - [LXGW WenKai · SIL Open Font License 1.1](01-lxgw-wenkai-ofl.png) — [official source](https://github.com/lxgw/LxgwWenKai/blob/main/OFL.txt) — SIL OFL 1.1. Official repository: original copyright, licence and commercial-use permission. The unmodified font is bundled with its OFL notice.
