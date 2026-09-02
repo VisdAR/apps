@@ -105,10 +105,10 @@ L’édition de référence envisagée est le [新华字典, 12e édition, prés
 La page officielle confirme la présence du tableau de recherche par clé, mais ne fournit pas sa liste complète de noms. Les noms existants issus de GF 0014-2009 ne sont donc pas présentés comme une transcription vérifiée des appellations du dictionnaire. La vérification de cette correspondance nécessite les pages de l’édition utilisée.
 
 Dans l’interface, le nom exact enregistré et le nom usuel complet sont séparés.
-Lorsqu’une forme n’a pas de caractère Unicode autonome, elle reste montrée dans
-un sinogramme réel : **好** sert ainsi à présenter **女字旁**, dont le troisième
-trait devient une montée et ne se prolonge pas comme le trait horizontal de **女**
-isolé. Cette présentation visuelle n’est pas traitée comme un nouveau caractère.
+Lorsqu’une forme n’a pas de caractère Unicode autonome, son tracé est extrait du
+sinogramme de référence dans la police incorporée. **女字旁** est ainsi affiché
+comme un composant indépendant avec son troisième trait relevé : le sinogramme
+complet de référence n’est jamais présenté comme une clé.
 
 ### Indépendance, logo et pied de page
 

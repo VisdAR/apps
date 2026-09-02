@@ -1,6 +1,6 @@
 # Données : périmètre et limites
 
-Version 2.2 — 201 catégories, 8 736 sinogrammes.
+Version 2.3 — 201 catégories, 8 736 sinogrammes.
 
 ## Ce qui est vérifié
 
@@ -10,7 +10,7 @@ Les noms non autonomes sont vérifiés sur les pages imprimées 7–20 de GF0014
 
 Pour les 24 formes positionnelles encodées et nommées dans GF 0014-2009, le jeu de données conserve séparément le libellé exact de la norme (`standardName`) et le nom traditionnel complet affiché. Ainsi, la source **金旁** reste traçable, tandis que l’interface montre **钅 金字旁** ; de même, **氵 三点水**, **扌 提手旁**, **忄 竖心旁**, **阝 左耳旁 / 右耳旁**, etc., sont visibles dans les cartes de recherche.
 
-Une 25e présentation est contextuelle : **女字旁** n’a pas de code Unicode distinct. Elle est donc montrée dans **好**, où son troisième trait est relevé. Les fiches de sinogrammes répètent le sinogramme réel à côté du nom de la clé, afin que la forme composée ne soit jamais remplacée par un glyphe isolé trompeur.
+Une 25e présentation est contextuelle : **女字旁** n’a pas de code Unicode distinct. Son contour gauche est extrait du glyphe de référence de la police incorporée et affiché seul, avec le troisième trait relevé. Le sinogramme complet qui a servi à vérifier ce contour n’est jamais utilisé comme symbole de clé.
 
 ## Différences avec un dictionnaire papier
 
