@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes,viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#edf6ff">
+<title>数字 Nombres — 隐私政策 / Politique de confidentialité / Privacy Policy</title>
+<meta name="description" content="数字 Nombres (com.visdar.chiffres) — 三语隐私政策、离线数据说明与开放许可证据。">
+<style>
+  :root{
+    --ink:#172039;--soft:#334155;--muted:#64748b;--line:rgba(111,126,164,.20);
+    --glass:rgba(255,255,255,.72);--solid:rgba(255,255,255,.90);
+    --pinyin:#245d73;--fr:#4058a8;--violet:#6757cf;--mint:#16765f;--amber:#9a5a20;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;min-width:0;min-height:100%;overflow-x:hidden}
+  body{
+    padding:max(18px,env(safe-area-inset-top)) 12px max(52px,env(safe-area-inset-bottom));
+    color:var(--ink);font:15px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif;
+    background:radial-gradient(760px 430px at -8% -4%,rgba(96,165,250,.32),transparent 66%),radial-gradient(680px 450px at 108% 7%,rgba(196,181,253,.36),transparent 66%),radial-gradient(560px 360px at 48% 105%,rgba(94,234,212,.18),transparent 68%),linear-gradient(165deg,#edf6ff 0%,#f7f4ff 52%,#fff8fc 100%);
+  }
+  a{color:var(--fr);text-underline-offset:3px;overflow-wrap:anywhere}
+  code{padding:2px 6px;border-radius:7px;background:rgba(92,108,145,.10);font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;overflow-wrap:anywhere}
+  .wrap{width:min(100%,840px);margin:auto}
+  .glass{background:var(--glass);border:1px solid rgba(255,255,255,.86);box-shadow:0 12px 34px rgba(56,70,116,.09),inset 0 1px 0 rgba(255,255,255,.72);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px)}
+  .back{display:inline-block;margin:0 2px 11px;padding:6px 11px;border:1px solid var(--line);border-radius:11px;background:rgba(255,255,255,.55);color:var(--muted);font-size:12px;text-decoration:none}
+  .app-header{display:grid;grid-template-columns:58px minmax(0,1fr);align-items:center;gap:12px;padding:13px;border-radius:22px}
+  .brand-logo{width:58px;height:58px;border-radius:17px;object-fit:cover;background:#fff;box-shadow:0 7px 18px rgba(57,63,95,.11)}
+  .brand-pinyin{color:var(--pinyin);font-size:11px;font-weight:850;line-height:1;margin-bottom:5px}
+  .brand-line{display:flex;align-items:baseline;gap:11px;flex-wrap:wrap}
+  .brand-cn{font-size:22px;font-weight:950;line-height:1.1}.brand-fr{color:var(--fr);font-size:23px;font-weight:780;line-height:1.1}.brand-en{margin-top:5px;color:var(--muted);font-size:11px;font-weight:720}
+  .identity{display:flex;gap:7px;flex-wrap:wrap;margin:12px 2px 0}
+  .pill{padding:5px 10px;border-radius:999px;border:1px solid rgba(44,185,154,.20);background:rgba(225,249,241,.78);color:var(--mint);font-size:11px;font-weight:820}
+  .pill.blue{border-color:rgba(64,88,168,.18);background:rgba(230,235,255,.76);color:var(--fr)}
+  .pill.amber{border-color:rgba(196,124,49,.18);background:rgba(255,244,219,.74);color:var(--amber)}
+  .lang-tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin:16px 0}
+  .lang-tab{min-height:46px;border:1px solid rgba(255,255,255,.84);border-radius:15px;background:rgba(255,255,255,.64);color:var(--muted);font:inherit;font-size:12px;font-weight:800;box-shadow:0 5px 16px rgba(57,66,100,.06);cursor:pointer}
+  .lang-tab.active{color:#fff;border-color:transparent;background:linear-gradient(125deg,#2a7187,#4e5eb3);box-shadow:0 8px 20px rgba(60,77,163,.23)}
+  .js section[lang]{display:none}.js section[lang].active{display:block;animation:appear .22s ease-out}@keyframes appear{from{opacity:.35;transform:translateY(4px)}to{opacity:1;transform:none}}
+  :focus-visible{outline:3px solid #245d73;outline-offset:4px}
+  @media(prefers-reduced-motion:reduce){.js section[lang].active{animation:none}}
+  .card{padding:20px;margin:0 0 13px;border-radius:22px}
+  .eyebrow{color:var(--pinyin);font-size:10.5px;font-weight:850;letter-spacing:.02em;margin-bottom:3px}
+  h1,h2,h3,p{margin-top:0}h1{font-size:21px;line-height:1.25;margin-bottom:10px}h2{font-size:17px;line-height:1.3;margin-bottom:9px}h3{font-size:14px;margin:16px 0 7px;color:var(--soft)}
+  p{margin-bottom:9px;color:var(--soft)}ul{margin:0 0 10px;padding-left:22px}li{margin-bottom:6px;color:var(--soft)}
+  .summary{font-size:15px}.muted{color:var(--muted);font-size:12.5px}.legal-note{padding:12px 13px;border-radius:14px;border:1px solid rgba(64,88,168,.14);background:rgba(238,242,255,.62);font-size:13px}
+  table{width:100%;border-collapse:collapse;margin-top:9px;font-size:13px}th,td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left}th:last-child,td:last-child{text-align:right}th{color:var(--pinyin);font-size:11px}.no{color:var(--mint);font-weight:900}
+  .contact{padding:14px;margin-top:12px;border-radius:16px;border:1px solid rgba(196,124,49,.17);background:linear-gradient(135deg,rgba(255,250,235,.84),rgba(253,241,214,.62))}
+  .contact p:last-child{margin-bottom:0}
+  .evidence-link{display:block;padding:15px;border-radius:16px;background:linear-gradient(125deg,rgba(42,113,135,.10),rgba(78,94,179,.11));border:1px solid rgba(64,88,168,.16);text-decoration:none;font-weight:850}
+  footer{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;margin-top:28px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:11px;text-align:center}
+  .footer-logo{width:28px;height:28px;border-radius:9px;object-fit:cover;background:#fff}
+  @media(max-width:520px){body{padding-left:9px;padding-right:9px}.app-header{grid-template-columns:49px minmax(0,1fr);padding:10px;border-radius:19px}.brand-logo{width:49px;height:49px;border-radius:15px}.brand-cn{font-size:19px}.brand-fr{font-size:20px}.card{padding:17px 15px;border-radius:19px}h1{font-size:19px}h2{font-size:16px}p,li{font-size:13.5px}th,td{font-size:11.5px;padding:8px 5px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <a class="back" href="../index.html">← VisdAR Apps</a>
+  <header class="app-header glass">
+    <img class="brand-logo" src="assets/math/logo.jpg" alt="Logo 数字 Nombres">
+    <div><div class="brand-pinyin">shù zì</div><div class="brand-line"><span class="brand-cn">数字</span><span class="brand-fr">Nombres</span></div><div class="brand-en">Chinese numbers and mathematical readings</div></div>
+  </header>
+  <div class="identity"><span class="pill">com.visdar.chiffres</span><span class="pill blue">Android</span><span class="pill">100 % hors ligne</span><span class="pill amber">Dernière mise à jour : 2026-09-04</span></div>
+
+  <nav class="lang-tabs" role="tablist" aria-label="Language">
+    <button class="lang-tab active" id="tab-zh" role="tab" aria-selected="true" aria-controls="policy-zh" data-lang="zh">中文</button>
+    <button class="lang-tab" id="tab-fr" role="tab" aria-selected="false" aria-controls="policy-fr" data-lang="fr">Français</button>
+    <button class="lang-tab" id="tab-en" role="tab" aria-selected="false" aria-controls="policy-en" data-lang="en">English</button>
+  </nav>
+
+  <section id="policy-zh" lang="zh" class="active" role="tabpanel" aria-labelledby="tab-zh">
+    <article class="card glass"><div class="eyebrow">yǐn sī zhèng cè</div><h1>隐私政策</h1><p class="summary"><strong>数字 Nombres 不收集、不保存、不传输任何个人数据。</strong>应用完全离线运行，无广告、无分析、无账户，也不要求任何 Android 权限。</p><div class="identity"><span class="pill">零数据收集</span><span class="pill">无联网权限</span><span class="pill blue">无广告和追踪</span><span class="pill blue">无注册登录</span><span class="pill amber">已禁用系统备份</span></div></article>
+    <article class="card glass"><div class="eyebrow">shù jù kòng zhì zhě</div><h2>1. 数据控制者与适用范围</h2><p>本应用由 VisdAR 独立开发、出版和维护。包名为 <code>com.visdar.chiffres</code>。本政策适用于 Android 应用本身。</p><div class="contact"><strong>联系邮箱</strong><p><a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p></div></article>
+    <article class="card glass"><div class="eyebrow">shōu jí de shù jù</div><h2>2. 收集的数据：没有</h2><table><tr><th>数据类型</th><th>是否收集</th></tr><tr><td>姓名、邮箱、电话号码</td><td class="no">否</td></tr><tr><td>位置、通讯录、照片、文件、相机、麦克风</td><td class="no">否</td></tr><tr><td>设备标识符、广告 ID、使用统计、崩溃报告</td><td class="no">否</td></tr><tr><td>应用中输入的数字或算式</td><td class="no">否</td></tr></table><p>输入内容只在当前页面内存中即时计算；应用不会将其写入文件、数据库或服务器。关闭页面或应用后不会由 VisdAR 保留。</p></article>
+    <article class="card glass"><div class="eyebrow">běn dì yùn xíng</div><h2>3. 本地运行、存储与备份</h2><ul><li>Android 清单没有声明 <code>INTERNET</code> 或其它危险权限。</li><li>数字转换、拼音、法语读法、练习数据和字体都随 APK 本地提供。</li><li><code>android:allowBackup="false"</code>：本应用已明确禁用 Android 自动备份。</li><li>应用没有云端服务器、用户账户、数据库或同步服务。</li></ul></article>
+    <article class="card glass"><div class="eyebrow">dì sān fāng fú wù</div><h2>4. 第三方服务和外部链接</h2><p>APK 中没有广告、分析、推送、登录、支付或崩溃上报 SDK。主动访问外部网页时，浏览器及所访问网站的隐私政策适用。</p><p class="legal-note">本隐私政策页面托管在 GitHub Pages。访问本网页与使用离线 Android 应用是两个不同过程；GitHub 可能依据其隐私声明处理 IP 地址、浏览器信息和服务器日志。本页面不添加分析工具、广告或追踪 Cookie。参见 <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub 隐私声明</a>。</p></article>
+    <article class="card glass"><div class="eyebrow">ér tóng yǔ yòng hù quán lì</div><h2>5. 儿童隐私与您的权利</h2><p>应用本身不收集任何用户（包括儿童）的个人数据。若您主动发送邮件，VisdAR 会收到您的邮箱地址和邮件内容，仅用于处理和回复请求，不用于广告。处理依据为响应咨询的合法利益。您可通过上述邮箱请求访问、更正或删除往来邮件，或行使依法适用的其他数据权利，也可向法国 CNIL 或所在地监管机构投诉。清除本地应用状态可在 Android 设置中清除应用数据或卸载应用。</p></article>
+    <article class="card glass"><div class="eyebrow">ān quán yǔ gēng xīn</div><h2>6. 安全、保留与政策更新</h2><p>应用已禁用明文流量：<code>usesCleartextTraffic="false"</code>。VisdAR 不保留应用中的输入或练习数据；主动发送的联系邮件通过邮件服务处理，仅在答复、后续处理或履行法定义务所需期间保留。您可请求删除。</p><p>若未来版本改变数据处理方式，本政策及更新说明会相应更新；依法需要同意的处理会事先征得同意。</p><p class="muted"><strong>最后更新：2026-09-04</strong></p></article>
+    <article class="card glass"><div class="eyebrow">zī liào yǔ xǔ kě</div><h2>7. 资料、字体与开放许可</h2><p>应用内容为独立编写。开放许可证据只覆盖其明确标注的材料，不能自动延伸到所有用于事实核对的官方教材或术语网站。</p><a class="evidence-link" href="evidence/math/">查看免费可商用许可截图、完整字体许可与授权边界 →</a></article>
+  </section>
+
+  <section id="policy-fr" lang="fr" role="tabpanel" aria-labelledby="tab-fr">
+    <article class="card glass"><div class="eyebrow">Politique de confidentialité</div><h1>Politique de confidentialité</h1><p class="summary"><strong>数字 Nombres ne collecte, ne conserve et ne transmet aucune donnée personnelle.</strong> L’application fonctionne intégralement hors ligne, sans publicité, analyse, compte ni permission Android.</p><div class="identity"><span class="pill">Zéro collecte</span><span class="pill">Pas de permission Internet</span><span class="pill blue">Sans publicité ni suivi</span><span class="pill blue">Sans compte</span><span class="pill amber">Sauvegarde désactivée</span></div></article>
+    <article class="card glass"><div class="eyebrow">Responsable</div><h2>1. Responsable et champ d’application</h2><p>L’application est éditée et maintenue par VisdAR, développeur indépendant. Nom de paquet : <code>com.visdar.chiffres</code>. Cette politique concerne l’application Android.</p><div class="contact"><strong>Contact</strong><p><a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p></div></article>
+    <article class="card glass"><div class="eyebrow">Données collectées</div><h2>2. Données collectées : aucune</h2><table><tr><th>Type de donnée</th><th>Collectée ?</th></tr><tr><td>Nom, adresse électronique, téléphone</td><td class="no">Non</td></tr><tr><td>Position, contacts, photos, fichiers, caméra, microphone</td><td class="no">Non</td></tr><tr><td>Identifiants, Ad ID, statistiques, rapports de plantage</td><td class="no">Non</td></tr><tr><td>Nombres ou expressions saisis dans l’application</td><td class="no">Non</td></tr></table><p>Les saisies sont calculées uniquement en mémoire dans la page active. Elles ne sont écrites dans aucun fichier, aucune base de données et aucun serveur, et VisdAR ne les conserve pas.</p></article>
+    <article class="card glass"><div class="eyebrow">Fonctionnement local</div><h2>3. Stockage local et sauvegarde</h2><ul><li>Le manifeste ne déclare ni <code>INTERNET</code> ni permission Android dangereuse.</li><li>Conversions, pinyin, lectures françaises, exercices et police sont embarqués dans l’APK.</li><li><code>android:allowBackup="false"</code> : la sauvegarde automatique Android est désactivée.</li><li>Aucun serveur, compte, cloud, base de données ou service de synchronisation.</li></ul></article>
+    <article class="card glass"><div class="eyebrow">Services tiers</div><h2>4. Services tiers et liens externes</h2><p>L’APK ne contient aucun SDK de publicité, analyse, notification, connexion, paiement ou remontée de plantage. Si vous choisissez de consulter un site externe, les politiques du navigateur et du site visité s’appliquent.</p><p class="legal-note">Cette page publique est hébergée par GitHub Pages. Sa consultation est distincte de l’utilisation de l’application hors ligne. GitHub peut traiter l’adresse IP, les informations du navigateur et les journaux serveur selon sa <a href="https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement">Déclaration générale de confidentialité</a>. Cette page n’ajoute aucun outil d’analyse, publicité ou cookie de suivi.</p></article>
+    <article class="card glass"><div class="eyebrow">Enfants et droits</div><h2>5. Enfants et droits RGPD</h2><p>L’application elle-même ne collecte aucune donnée personnelle, y compris auprès des enfants. Si vous envoyez volontairement un courriel, VisdAR reçoit votre adresse et son contenu uniquement pour traiter votre demande et vous répondre, sans publicité. La base juridique est l’intérêt légitime à répondre aux demandes. Vous pouvez demander l’accès, la rectification ou l’effacement de ces échanges et exercer les autres droits applicables à l’adresse ci-dessus, ou saisir la CNIL ou votre autorité locale. Pour supprimer l’état local, effacez les données de l’application dans Android ou désinstallez-la.</p></article>
+    <article class="card glass"><div class="eyebrow">Sécurité et mise à jour</div><h2>6. Sécurité, conservation et mises à jour</h2><p>Le trafic en clair est désactivé : <code>usesCleartextTraffic="false"</code>. VisdAR ne conserve ni saisies ni exercices de l’application. Les courriels volontaires sont traités par le service de messagerie et conservés uniquement pendant la durée nécessaire à la réponse, au suivi ou aux obligations légales. Vous pouvez demander leur suppression.</p><p>Tout changement du traitement des données sera reflété dans cette politique et les notes de version. Tout consentement légalement nécessaire sera demandé au préalable.</p><p class="muted"><strong>Dernière mise à jour : 4 septembre 2026</strong></p></article>
+    <article class="card glass"><div class="eyebrow">Sources et licences</div><h2>7. Sources, police et licences ouvertes</h2><p>Le contenu pédagogique de l’application a été rédigé indépendamment. Les preuves de licence ouverte ne couvrent que les ressources explicitement identifiées ; elles ne s’étendent pas automatiquement à toutes les références officielles consultées.</p><a class="evidence-link" href="evidence/math/">Voir les captures de licences autorisant l’usage commercial, la licence complète de la police et les limites d’utilisation →</a></article>
+  </section>
+
+  <section id="policy-en" lang="en" role="tabpanel" aria-labelledby="tab-en">
+    <article class="card glass"><div class="eyebrow">Privacy Policy</div><h1>Privacy Policy</h1><p class="summary"><strong>数字 Nombres does not collect, retain, or transmit personal data.</strong> The app runs entirely offline, with no ads, analytics, account, or Android permission.</p><div class="identity"><span class="pill">Zero collection</span><span class="pill">No Internet permission</span><span class="pill blue">No ads or tracking</span><span class="pill blue">No account</span><span class="pill amber">Backup disabled</span></div></article>
+    <article class="card glass"><div class="eyebrow">Controller</div><h2>1. Controller and scope</h2><p>The app is published and maintained by VisdAR, an independent developer. Package name: <code>com.visdar.chiffres</code>. This policy applies to the Android app.</p><div class="contact"><strong>Contact</strong><p><a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></p></div></article>
+    <article class="card glass"><div class="eyebrow">Collected data</div><h2>2. Data collected: none</h2><table><tr><th>Data type</th><th>Collected?</th></tr><tr><td>Name, email address, telephone number</td><td class="no">No</td></tr><tr><td>Location, contacts, photos, files, camera, microphone</td><td class="no">No</td></tr><tr><td>Identifiers, Ad ID, analytics, crash reports</td><td class="no">No</td></tr><tr><td>Numbers or expressions entered in the app</td><td class="no">No</td></tr></table><p>Inputs are calculated only in memory within the active page. They are not written to a file, database, or server, and VisdAR does not retain them.</p></article>
+    <article class="card glass"><div class="eyebrow">Local operation</div><h2>3. Local storage and backup</h2><ul><li>The manifest declares neither <code>INTERNET</code> nor any dangerous Android permission.</li><li>Number conversion, pinyin, French readings, exercises, and the font are bundled in the APK.</li><li><code>android:allowBackup="false"</code>: Android automatic backup is disabled.</li><li>No server, account, cloud service, database, or synchronization service is used.</li></ul></article>
+    <article class="card glass"><div class="eyebrow">Third parties</div><h2>4. Third-party services and external links</h2><p>The APK contains no advertising, analytics, notification, login, payment, or crash-reporting SDK. If you choose to visit an external website, the browser’s and destination website’s policies apply.</p><p class="legal-note">This public page is hosted on GitHub Pages. Visiting it is separate from using the offline app. GitHub may process IP addresses, browser information, and server logs under its <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">General Privacy Statement</a>. This page adds no analytics, advertising, or tracking cookies.</p></article>
+    <article class="card glass"><div class="eyebrow">Children and rights</div><h2>5. Children’s privacy and your rights</h2><p>The app itself collects no personal data from anyone, including children. If you voluntarily email VisdAR, your email address and message are received only to handle and answer your request, not for advertising. The legal basis is the legitimate interest in responding to enquiries. You may request access, correction or deletion of correspondence and exercise other applicable data rights using the address above, or complain to the CNIL or your local authority. To remove local state, clear the app’s data in Android or uninstall it.</p></article>
+    <article class="card glass"><div class="eyebrow">Security and updates</div><h2>6. Security, retention, and policy updates</h2><p>Cleartext traffic is disabled: <code>usesCleartextTraffic="false"</code>. VisdAR retains no app inputs or exercises. Voluntary contact emails are processed through the email service and kept only as long as needed to respond, follow up or meet legal obligations. You may request deletion.</p><p>Changes to data processing will be reflected in this policy and release notes. Any legally required consent will be requested beforehand.</p><p class="muted"><strong>Last updated: September 4, 2026</strong></p></article>
+    <article class="card glass"><div class="eyebrow">Sources and licences</div><h2>7. Sources, font, and open licences</h2><p>The app’s educational content was written independently. Open-licence evidence covers only the resources explicitly identified and does not automatically extend to every official reference consulted for factual checking.</p><a class="evidence-link" href="evidence/math/">View commercial-use licence captures, the complete font licence, and the documented scope →</a></article>
+  </section>
+
+  <footer><span>© 2026 VisdAR</span><img class="footer-logo" src="assets/math/logo.jpg" alt="VisdAR"><a href="mailto:visdarfr@gmail.com">visdarfr@gmail.com</a></footer>
+</main>
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  const tabs=[...document.querySelectorAll('.lang-tab')];
+  const panels=[...document.querySelectorAll('section[lang]')];
+  function show(lang){
+    tabs.forEach(tab=>{const active=tab.dataset.lang===lang;tab.classList.toggle('active',active);tab.setAttribute('aria-selected',String(active));tab.tabIndex=active?0:-1;});
+    panels.forEach(panel=>panel.classList.toggle('active',panel.lang===lang));
+    document.documentElement.lang=lang==='zh'?'zh-CN':lang;
+  }
+  tabs.forEach((tab,index)=>{
+    tab.addEventListener('click',()=>show(tab.dataset.lang));
+    tab.addEventListener('keydown',event=>{
+      let next=index;
+      if(event.key==='ArrowRight')next=(index+1)%tabs.length;
+      else if(event.key==='ArrowLeft')next=(index+tabs.length-1)%tabs.length;
+      else if(event.key==='Home')next=0;
+      else if(event.key==='End')next=tabs.length-1;
+      else return;
+      event.preventDefault();show(tabs[next].dataset.lang);tabs[next].focus();
+    });
+  });
+  const language=(navigator.language||'en').toLowerCase();
+  show(language.startsWith('zh')?'zh':language.startsWith('fr')?'fr':'en');
+})();
+</script>
+</body>
+</html>
