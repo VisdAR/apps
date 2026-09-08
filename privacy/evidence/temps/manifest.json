@@ -90,10 +90,20 @@
       "captured": "2026-08-28",
       "sha256": "b82d9f62daa75e5a8ea10a9a19e84859e2f7afe7c53a1d4afa836f1bfa77f0ea",
       "bytes": 101570
+    },
+    {
+      "file": "10-chen-su-tamaoka-2025-cc-by.png",
+      "title": "Chen, Su & Tamaoka (2025) · time words and adverbs",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329271",
+      "license": "CC BY 4.0",
+      "note": "Direct render of the official publisher PDF, page 1. The page states open access and the Creative Commons Attribution licence.",
+      "captured": "2026-09-09",
+      "sha256": "0e61dbec7d007e9832e4927143db60b024684b95dee4cc1a737875b7125dfabf",
+      "bytes": 469083
     }
   ],
   "font": {
-    "file": "../../assets/temps/LXGWWenKai-Regular.ttf",
+    "file": "../../app/src/main/assets/LXGWWenKai-Regular.ttf",
     "source": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf",
     "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
     "modified": false
@@ -101,5 +111,11 @@
   "pdf": {
     "source": "https://edizionicafoscari.unive.it/media/pdf/article/annali-di-ca-foscari-serie-orientale/2017/53/art-10.14277-2385-3042-AnnOr-53-17-10_2Y90z9j.pdf",
     "sha256": "f41c59e01bf7162d2320a9d65230578c37ff558848c58d0968deaf214b1d1c8f"
-  }
+  },
+  "additional_documents": [
+    {
+      "source": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0329271&type=printable",
+      "sha256": "98604bf4549ee1eb7a2b7d700c0986a122f415a4f4c33828e8d2c0e4f0093e5e"
+    }
+  ]
 }

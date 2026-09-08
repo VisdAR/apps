@@ -5,7 +5,7 @@ Captured and checked on 28 August 2026. The images are screenshots of the offici
 ## Scope
 
 - LXGW WenKai is bundled unmodified under SIL OFL 1.1, including the copyright and licence text. OFL permits embedding with commercial software; selling the font by itself is not permitted.
-- The seven grammar publications identify CC BY 4.0 licences. Commercial reuse requires attribution, a licence link and an indication of changes where relevant. The application’s explanations, translations and practice examples are newly written; the articles are cited to check grammatical distinctions, not to imply author endorsement.
+- The grammar publications and curriculum pages used here identify CC BY 4.0 licences. Commercial reuse requires attribution, a licence link and an indication of changes where relevant. The application’s explanations, translations and practice examples are newly written; the sources are cited to check grammatical distinctions, not to imply author endorsement.
 - The original Visd AR logo and footer come from the owner’s calendrier project. They are not asserted to be free stock assets and are not covered by the font or article licences.
 - No external JavaScript library, analytics SDK, downloaded audio or third-party stock illustration is shipped in the app. Build-time tools are not redistributed as app resources.
 
@@ -30,6 +30,7 @@ Captured and checked on 28 August 2026. The images are screenshots of the offici
 - [Creative Commons · commercial use permitted](08-cc-by-4-commercial-use.png) — [official source](https://creativecommons.org/licenses/by/4.0/) — CC BY 4.0. Official licence deed explicitly permits commercial sharing and adaptation. Attribution and other terms still apply.
 
 - [Tamaoka & Zhang (2022) · temporal word position](09-tamaoka-zhang-2022-cc-by.png) — [official source](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.783366/full) — CC BY 4.0. Publisher copyright and attribution licence. Used for temporal reference expressions before or after the subject, not as a universal position rule for all adverbs.
+- [Chen, Su & Tamaoka (2025) · time words and adverbs](10-chen-su-tamaoka-2025-cc-by.png) — [official source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329271) — CC BY 4.0. Direct render of the official publisher PDF, page 1. The page states open access and the Creative Commons Attribution licence.
 
 ## Full bibliography
 
@@ -46,6 +47,16 @@ Captured and checked on 28 August 2026. The images are screenshots of the offici
 6. Huilin Dai, Xiaowei He, Lijun Chen & Chan Yin (2022). *Language impairments in children with developmental language disorder and children with high-functioning autism plus language impairment: Evidence from Chinese negative sentences*. [Publication](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.926897/full). CC BY 4.0.
 
 7. Katsuo Tamaoka & J. Zhang (2022). *The Effect of Chinese Proficiency on Determining Temporal Adverb Position by Native Japanese Speakers Learning Chinese*. [Publication](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.783366/full). CC BY 4.0. Published 5 January 2022; volume and DOI retain 2021.
+
+8. Yuyin He (2024). *The semantics of Mandarin futurates*. [Publication](https://doi.org/10.1075/lali.00154.he). CC BY 4.0.
+
+9. Xuefei Zhao (2024). *A Cognitive-Grounding Analysis on the Semantic Extension of Modal Auxiliary Hui from Futurity to Epistemicity*. [Publication](https://doi.org/10.22158/eltls.v6n5p111). CC BY 4.0.
+
+10. Guo Wu (2009). *A Unified Account of the Discourse Function of the Chinese Particle Ne*. [Publication](https://doi.org/10.26478/ja2009.3.3.1). CC BY 4.0.
+
+11. Jia Yi Chen, Ying Su & Katsuo Tamaoka (2025). *Positioning of Chinese time nouns and adverbs: Evidence from corpus, acceptability, and processing studies*. [Publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329271). CC BY 4.0.
+
+12. Australian Curriculum, Assessment and Reporting Authority. *Chinese, Version 8.4*. [Curriculum page](https://v8.australiancurriculum.edu.au/f-10-curriculum/languages/chinese/). [Copyright and terms of use](https://v8.australiancurriculum.edu.au/copyright-and-terms-of-use/). The curriculum page is covered by the site’s CC BY 4.0 terms; excluded logos, photographs, videos and third-party material are not used. The app cites its examples of temporal sequencing, including yī…jiù… and xiān…ránhòu…, but does not copy its page design or protected branding.
 
 ## Integrity
 
