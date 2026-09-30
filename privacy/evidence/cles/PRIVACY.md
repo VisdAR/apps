@@ -1,6 +1,6 @@
 # Confidentialité et références / 隐私与参考资料
 
-Version 2.0 — mise à jour du 31 août 2026.
+Version 2.5 — mise à jour du 30 septembre 2026.
 
 ## Confidentialité
 
@@ -20,7 +20,7 @@ consultés à partir de cette page appliquent leurs propres politiques.
 ## Références et licences
 
 Cette section rassemble les notices détaillées retirées de l’interface. Le panneau
-de l’application conserve une seule liste courte des trois sources, de leurs
+de l’application conserve une seule liste courte des quatre sources, de leurs
 licences et des crédits nécessaires. Les droits sur les données, la police et la
 marque restent distincts.
 
@@ -45,6 +45,24 @@ Les données adaptées sont redistribuées sous CC BY-SA 3.0. La source demande 
 attribution dans l’application et sur ses pages de présentation ; cette attribution
 ne doit donc pas être déplacée exclusivement sur une page GitHub.
 
+### CC-CEDICT
+
+**Licence : [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).**
+Source : [page officielle de téléchargement CC-CEDICT](https://www.mdbg.net/chinese/dictionary?lang=en&page=cc-cedict).
+
+CC-CEDICT fournit les définitions anglaises. L’application les indexe par
+**sinogramme et pinyin**, sans passer par les gloses françaises. Les entrées de
+noms propres, identifiées par la capitalisation du pinyin dans la source, sont
+placées après les sens lexicaux : 艾 affiche ainsi d’abord « Chinese mugwort » et
+non « surname Ai ». Les définitions manquantes ne sont jamais remplacées par une
+traduction automatique ou une glose française.
+
+La page de la source indique expressément que les usages non commerciaux et
+commerciaux sont permis sous réserve d’attribution et de partage dans les mêmes
+conditions. Les données adaptées restent sous CC BY-SA 4.0. L’empreinte SHA-256
+de l’instantané utilisé et les taux de couverture figurent dans
+[open-dictionary-coverage.json](docs/open-dictionary-coverage.json).
+
 ### Unicode / Unihan 17.0.0
 
 **Licence : [Unicode License v3](https://www.unicode.org/license.txt)**
@@ -55,8 +73,10 @@ Sources : [Unihan 17.0.0](https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip),
 [CJKRadicals.txt](https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt) et
 [documentation UAX #38](https://www.unicode.org/reports/tr38/).
 
-Ces données servent au classement par clé, au décompte des traits et aux lectures
-de référence. Les 214 catégories Kangxi sont reliées aux 201 catégories de
+Ces données servent au classement par clé, au décompte des traits, aux noms
+anglais des clés et aux lectures de référence. `kDefinition` complète en anglais
+les rares entrées principales absentes de CC-CEDICT, sans être attribué à une
+lecture secondaire particulière. Les 214 catégories Kangxi sont reliées aux 201 catégories de
 l’interface ; les valeurs Unihan originales sont conservées. Quelques repères
 visuels supplémentaires facilitent la recherche par composant ou forme simplifiée
 et sont signalés comme tels, sans remplacer le classement original.
@@ -90,7 +110,10 @@ des composants courants et le tableau de référence des 201 clés. Sources :
 et [annonce de révision de 2022](https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202211/t20221118_995332.html).
 
 Les gloses françaises sont des formulations pédagogiques de Visd AR, appuyées sur
-CFDICT et Unihan, et non un standard officiel en français. Les noms décrivent
+CFDICT et Unihan, et non un standard officiel en français. Les libellés anglais
+des clés partent des noms de caractères du Unicode Character Database ; les
+formulations positionnelles sont éditées pour l’apprentissage et ne sont pas
+présentées comme une norme officielle anglaise. Les noms décrivent
 parfois la position d’un composant plutôt que son sens. L’[audit des noms](docs/radicals-source-audit.csv)
 distingue le nom chinois, le pinyin, le sens court et l’explication française.
 
@@ -114,7 +137,9 @@ complet de référence n’est jamais présenté comme une clé.
 
 L’application est indépendante, sans affiliation ni approbation du dictionnaire
 Xinhua. Aucun texte de définition de ce dictionnaire n’est reproduit. La couverture
-française se limite aux entrées présentes dans les données CFDICT retenues.
+française se limite aux entrées présentes dans les données CFDICT retenues. La
+couverture anglaise repose sur CC-CEDICT et les définitions Unihan ; les rares
+lacunes sont indiquées comme indisponibles.
 
 Le logo sur fond blanc et le pied de page proviennent de l’application Calendrier
 fournie par le propriétaire du projet. Leur propriété n’est pas couverte par les
@@ -124,7 +149,9 @@ police restent applicables. Voir [LICENSE](LICENSE).
 
 ## Captures et documents de preuve
 
-Les captures de licence ont été réalisées le **28 août 2026** et sont conservées
+Les captures de licence initiales ont été réalisées le **28 août 2026** ; les
+preuves CC-CEDICT et Unicode utilisées pour l’anglais ont été actualisées le
+**29 septembre 2026**. Elles sont conservées
 dans le dossier GitHub, pas dans l’interface ni dans les ressources des APK/AAB.
 Elles documentent les pages consultées et ne constituent pas une garantie juridique.
 Voir l’[index des preuves](evidence/README.md), les [captures](evidence/screenshots),

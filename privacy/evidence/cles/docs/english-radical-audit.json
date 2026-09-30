@@ -1,0 +1,1620 @@
+{
+  "source": "Unicode Character Database 17.0.0",
+  "license": "Unicode License v3",
+  "cjkRadicalsSha256": "826f83be25cd18fb8a5015a514704504e1982e840ea14d058bf583e1cc620c83",
+  "unicodeDataSha256": "2e1efc1dcb59c575eedf5ccae60f95229f706ee6d031835247d843c11d96470c",
+  "baseRadicals": 201,
+  "positionalForms": 26,
+  "additionalContextLabels": 4,
+  "policy": "English labels are keyed by Chinese radical, never translated from French.",
+  "entries": [
+    {
+      "index": 1,
+      "character": "一",
+      "chineseName": "横",
+      "english": "one; horizontal stroke",
+      "unicodeName": "KANGXI RADICAL ONE",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 2,
+      "character": "丨",
+      "chineseName": "竖",
+      "english": "vertical stroke",
+      "unicodeName": "KANGXI RADICAL LINE",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 3,
+      "character": "丿",
+      "chineseName": "撇",
+      "english": "left-falling stroke",
+      "unicodeName": "KANGXI RADICAL SLASH",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 4,
+      "character": "丶",
+      "chineseName": "点",
+      "english": "dot",
+      "unicodeName": "KANGXI RADICAL DOT",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 5,
+      "character": "乛",
+      "chineseName": "横折",
+      "english": "horizontal hook",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 6,
+      "character": "十",
+      "chineseName": "十字儿",
+      "english": "ten",
+      "unicodeName": "KANGXI RADICAL TEN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 7,
+      "character": "厂",
+      "chineseName": "厂字旁",
+      "english": "cliff",
+      "unicodeName": "KANGXI RADICAL CLIFF",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 8,
+      "character": "匚",
+      "chineseName": "三框儿",
+      "english": "right open box",
+      "unicodeName": "KANGXI RADICAL RIGHT OPEN BOX",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 9,
+      "character": "卜",
+      "chineseName": "卜字旁",
+      "english": "divination",
+      "unicodeName": "KANGXI RADICAL DIVINATION",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 10,
+      "character": "冂",
+      "chineseName": "同字框",
+      "english": "down box",
+      "unicodeName": "KANGXI RADICAL DOWN BOX",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 11,
+      "character": "八",
+      "chineseName": "八字头",
+      "english": "eight",
+      "unicodeName": "KANGXI RADICAL EIGHT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 12,
+      "character": "人",
+      "chineseName": "人字头、单人旁",
+      "english": "person",
+      "unicodeName": "KANGXI RADICAL MAN",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 13,
+      "character": "勹",
+      "chineseName": "包字头",
+      "english": "wrap",
+      "unicodeName": "KANGXI RADICAL WRAP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 14,
+      "character": "儿",
+      "chineseName": "儿字底",
+      "english": "legs",
+      "unicodeName": "KANGXI RADICAL LEGS",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 15,
+      "character": "匕",
+      "chineseName": "匕字旁",
+      "english": "spoon",
+      "unicodeName": "KANGXI RADICAL SPOON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 16,
+      "character": "几",
+      "chineseName": "几字底",
+      "english": "table",
+      "unicodeName": "KANGXI RADICAL TABLE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 17,
+      "character": "亠",
+      "chineseName": "京字头",
+      "english": "lid",
+      "unicodeName": "KANGXI RADICAL LID",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 18,
+      "character": "冫",
+      "chineseName": "两点水",
+      "english": "ice",
+      "unicodeName": "KANGXI RADICAL ICE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 19,
+      "character": "冖",
+      "chineseName": "秃宝盖",
+      "english": "cover",
+      "unicodeName": "KANGXI RADICAL COVER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 20,
+      "character": "凵",
+      "chineseName": "凶字框",
+      "english": "open box",
+      "unicodeName": "KANGXI RADICAL OPEN BOX",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 21,
+      "character": "卩",
+      "chineseName": "单耳刀",
+      "english": "seal",
+      "unicodeName": "KANGXI RADICAL SEAL",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 22,
+      "character": "刀",
+      "chineseName": "刀字旁、立刀旁",
+      "english": "knife",
+      "unicodeName": "KANGXI RADICAL KNIFE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 23,
+      "character": "力",
+      "chineseName": "力字旁",
+      "english": "power",
+      "unicodeName": "KANGXI RADICAL POWER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 24,
+      "character": "又",
+      "chineseName": "又字旁",
+      "english": "again",
+      "unicodeName": "KANGXI RADICAL AGAIN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 25,
+      "character": "厶",
+      "chineseName": "私字儿",
+      "english": "private",
+      "unicodeName": "KANGXI RADICAL PRIVATE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 26,
+      "character": "廴",
+      "chineseName": "建之旁",
+      "english": "long stride",
+      "unicodeName": "KANGXI RADICAL LONG STRIDE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 27,
+      "character": "干",
+      "chineseName": "干字旁",
+      "english": "dry",
+      "unicodeName": "KANGXI RADICAL DRY",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 28,
+      "character": "工",
+      "chineseName": "工字旁",
+      "english": "work",
+      "unicodeName": "KANGXI RADICAL WORK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 29,
+      "character": "土",
+      "chineseName": "土",
+      "english": "earth",
+      "unicodeName": "KANGXI RADICAL EARTH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 30,
+      "character": "艹",
+      "chineseName": "草字头",
+      "english": "grass",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 31,
+      "character": "寸",
+      "chineseName": "寸字旁",
+      "english": "inch",
+      "unicodeName": "KANGXI RADICAL INCH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 32,
+      "character": "廾",
+      "chineseName": "弄字底",
+      "english": "two hands",
+      "unicodeName": "KANGXI RADICAL TWO HANDS",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 33,
+      "character": "大",
+      "chineseName": "大字头",
+      "english": "big",
+      "unicodeName": "KANGXI RADICAL BIG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 34,
+      "character": "尢",
+      "chineseName": "尤字旁",
+      "english": "lame",
+      "unicodeName": "KANGXI RADICAL LAME",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 35,
+      "character": "弋",
+      "chineseName": "弋字旁",
+      "english": "shoot",
+      "unicodeName": "KANGXI RADICAL SHOOT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 36,
+      "character": "小",
+      "chineseName": "小字头",
+      "english": "small",
+      "unicodeName": "KANGXI RADICAL SMALL",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 37,
+      "character": "口",
+      "chineseName": "口字旁",
+      "english": "mouth",
+      "unicodeName": "KANGXI RADICAL MOUTH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 38,
+      "character": "囗",
+      "chineseName": "国字框",
+      "english": "enclosure",
+      "unicodeName": "KANGXI RADICAL ENCLOSURE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 39,
+      "character": "山",
+      "chineseName": "山字旁",
+      "english": "mountain",
+      "unicodeName": "KANGXI RADICAL MOUNTAIN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 40,
+      "character": "巾",
+      "chineseName": "巾字旁",
+      "english": "turban",
+      "unicodeName": "KANGXI RADICAL TURBAN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 41,
+      "character": "彳",
+      "chineseName": "双人旁",
+      "english": "step",
+      "unicodeName": "KANGXI RADICAL STEP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 42,
+      "character": "彡",
+      "chineseName": "三撇儿",
+      "english": "bristle",
+      "unicodeName": "KANGXI RADICAL BRISTLE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 43,
+      "character": "夕",
+      "chineseName": "夕字旁",
+      "english": "evening",
+      "unicodeName": "KANGXI RADICAL EVENING",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 44,
+      "character": "夂",
+      "chineseName": "折文",
+      "english": "go",
+      "unicodeName": "KANGXI RADICAL GO",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 45,
+      "character": "丬",
+      "chineseName": "将字旁",
+      "english": "half tree trunk",
+      "unicodeName": "CJK RADICAL SIMPLIFIED HALF TREE TRUNK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 46,
+      "character": "广",
+      "chineseName": "广字旁",
+      "english": "dotted cliff",
+      "unicodeName": "KANGXI RADICAL DOTTED CLIFF",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 47,
+      "character": "门",
+      "chineseName": "门字框",
+      "english": "gate",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED GATE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 48,
+      "character": "宀",
+      "chineseName": "宝盖头",
+      "english": "roof",
+      "unicodeName": "KANGXI RADICAL ROOF",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 49,
+      "character": "辶",
+      "chineseName": "走之底",
+      "english": "walk; movement",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 50,
+      "character": "彐",
+      "chineseName": "雪字底",
+      "english": "snout",
+      "unicodeName": "KANGXI RADICAL SNOUT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 51,
+      "character": "尸",
+      "chineseName": "尸字头",
+      "english": "corpse",
+      "unicodeName": "KANGXI RADICAL CORPSE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 52,
+      "character": "己",
+      "chineseName": "己字旁",
+      "english": "oneself",
+      "unicodeName": "KANGXI RADICAL ONESELF",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 53,
+      "character": "弓",
+      "chineseName": "弓字旁",
+      "english": "bow",
+      "unicodeName": "KANGXI RADICAL BOW",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 54,
+      "character": "子",
+      "chineseName": "子字旁",
+      "english": "child",
+      "unicodeName": "KANGXI RADICAL CHILD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 55,
+      "character": "屮",
+      "chineseName": "屮字旁",
+      "english": "sprout",
+      "unicodeName": "KANGXI RADICAL SPROUT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 56,
+      "character": "女",
+      "chineseName": "女字旁",
+      "english": "woman",
+      "unicodeName": "KANGXI RADICAL WOMAN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 57,
+      "character": "飞",
+      "chineseName": "飞字旁",
+      "english": "fly",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED FLY",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 58,
+      "character": "马",
+      "chineseName": "马字旁",
+      "english": "horse",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED HORSE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 59,
+      "character": "幺",
+      "chineseName": "幺字旁",
+      "english": "short thread",
+      "unicodeName": "KANGXI RADICAL SHORT THREAD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 60,
+      "character": "巛",
+      "chineseName": "三拐儿",
+      "english": "river",
+      "unicodeName": "KANGXI RADICAL RIVER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 61,
+      "character": "王",
+      "chineseName": "王字旁、斜玉旁",
+      "english": "jade; king-shaped form",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 62,
+      "character": "无",
+      "chineseName": "无字旁",
+      "english": "not",
+      "unicodeName": "KANGXI RADICAL NOT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 63,
+      "character": "韦",
+      "chineseName": "韦字旁",
+      "english": "tanned leather",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED TANNED LEATHER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 64,
+      "character": "木",
+      "chineseName": "木字旁",
+      "english": "tree; wood",
+      "unicodeName": "KANGXI RADICAL TREE",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 65,
+      "character": "支",
+      "chineseName": "支字旁",
+      "english": "branch",
+      "unicodeName": "KANGXI RADICAL BRANCH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 66,
+      "character": "犬",
+      "chineseName": "犬字旁、反犬旁",
+      "english": "dog",
+      "unicodeName": "KANGXI RADICAL DOG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 67,
+      "character": "歹",
+      "chineseName": "歹字旁",
+      "english": "death",
+      "unicodeName": "KANGXI RADICAL DEATH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 68,
+      "character": "车",
+      "chineseName": "车字旁",
+      "english": "cart",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED CART",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 69,
+      "character": "牙",
+      "chineseName": "牙字旁",
+      "english": "fang",
+      "unicodeName": "KANGXI RADICAL FANG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 70,
+      "character": "戈",
+      "chineseName": "戈字旁",
+      "english": "halberd",
+      "unicodeName": "KANGXI RADICAL HALBERD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 71,
+      "character": "比",
+      "chineseName": "比字旁",
+      "english": "compare",
+      "unicodeName": "KANGXI RADICAL COMPARE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 72,
+      "character": "瓦",
+      "chineseName": "瓦字旁",
+      "english": "tile",
+      "unicodeName": "KANGXI RADICAL TILE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 73,
+      "character": "止",
+      "chineseName": "止字旁",
+      "english": "stop",
+      "unicodeName": "KANGXI RADICAL STOP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 74,
+      "character": "攴",
+      "chineseName": "攴字旁、反文旁",
+      "english": "rap",
+      "unicodeName": "KANGXI RADICAL RAP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 75,
+      "character": "日",
+      "chineseName": "日字旁",
+      "english": "sun",
+      "unicodeName": "KANGXI RADICAL SUN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 76,
+      "character": "贝",
+      "chineseName": "贝字旁",
+      "english": "shell",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED SHELL",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 77,
+      "character": "水",
+      "chineseName": "水字旁、三点水",
+      "english": "water",
+      "unicodeName": "KANGXI RADICAL WATER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 78,
+      "character": "见",
+      "chineseName": "见字旁",
+      "english": "see",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED SEE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 79,
+      "character": "牛",
+      "chineseName": "牛字旁",
+      "english": "ox; cow",
+      "unicodeName": "KANGXI RADICAL COW",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 80,
+      "character": "手",
+      "chineseName": "手字旁、提手旁",
+      "english": "hand",
+      "unicodeName": "KANGXI RADICAL HAND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 81,
+      "character": "气",
+      "chineseName": "气字头",
+      "english": "steam",
+      "unicodeName": "KANGXI RADICAL STEAM",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 82,
+      "character": "毛",
+      "chineseName": "毛字旁",
+      "english": "fur",
+      "unicodeName": "KANGXI RADICAL FUR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 83,
+      "character": "长",
+      "chineseName": "长字旁",
+      "english": "long",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED LONG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 84,
+      "character": "片",
+      "chineseName": "片字旁",
+      "english": "slice",
+      "unicodeName": "KANGXI RADICAL SLICE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 85,
+      "character": "斤",
+      "chineseName": "斤字旁",
+      "english": "axe",
+      "unicodeName": "KANGXI RADICAL AXE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 86,
+      "character": "爪",
+      "chineseName": "爪字头",
+      "english": "claw",
+      "unicodeName": "KANGXI RADICAL CLAW",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 87,
+      "character": "父",
+      "chineseName": "父字头",
+      "english": "father",
+      "unicodeName": "KANGXI RADICAL FATHER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 88,
+      "character": "月",
+      "chineseName": "月字旁",
+      "english": "moon",
+      "unicodeName": "KANGXI RADICAL MOON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 89,
+      "character": "氏",
+      "chineseName": "氏字旁",
+      "english": "clan",
+      "unicodeName": "KANGXI RADICAL CLAN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 90,
+      "character": "欠",
+      "chineseName": "欠字旁",
+      "english": "lack",
+      "unicodeName": "KANGXI RADICAL LACK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 91,
+      "character": "风",
+      "chineseName": "风字旁",
+      "english": "wind",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED WIND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 92,
+      "character": "殳",
+      "chineseName": "殳字旁",
+      "english": "weapon",
+      "unicodeName": "KANGXI RADICAL WEAPON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 93,
+      "character": "文",
+      "chineseName": "文字旁",
+      "english": "script",
+      "unicodeName": "KANGXI RADICAL SCRIPT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 94,
+      "character": "方",
+      "chineseName": "方字旁",
+      "english": "square",
+      "unicodeName": "KANGXI RADICAL SQUARE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 95,
+      "character": "火",
+      "chineseName": "火字旁、四点底",
+      "english": "fire",
+      "unicodeName": "KANGXI RADICAL FIRE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 96,
+      "character": "斗",
+      "chineseName": "斗字旁",
+      "english": "dipper",
+      "unicodeName": "KANGXI RADICAL DIPPER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 97,
+      "character": "户",
+      "chineseName": "户字头",
+      "english": "door; household",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 98,
+      "character": "心",
+      "chineseName": "心字底、竖心旁",
+      "english": "heart",
+      "unicodeName": "KANGXI RADICAL HEART",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 99,
+      "character": "毋",
+      "chineseName": "毋字旁",
+      "english": "do not",
+      "unicodeName": "KANGXI RADICAL DO NOT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 100,
+      "character": "示",
+      "chineseName": "示字旁",
+      "english": "spirit; altar",
+      "unicodeName": "KANGXI RADICAL SPIRIT",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 101,
+      "character": "甘",
+      "chineseName": "甘字旁",
+      "english": "sweet",
+      "unicodeName": "KANGXI RADICAL SWEET",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 102,
+      "character": "石",
+      "chineseName": "石字旁",
+      "english": "stone",
+      "unicodeName": "KANGXI RADICAL STONE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 103,
+      "character": "龙",
+      "chineseName": "龙字旁",
+      "english": "dragon",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED DRAGON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 104,
+      "character": "业",
+      "chineseName": "业字旁",
+      "english": "work; activity",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 105,
+      "character": "目",
+      "chineseName": "目字旁",
+      "english": "eye",
+      "unicodeName": "KANGXI RADICAL EYE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 106,
+      "character": "田",
+      "chineseName": "田字旁",
+      "english": "field",
+      "unicodeName": "KANGXI RADICAL FIELD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 107,
+      "character": "罒",
+      "chineseName": "四字头",
+      "english": "net",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 108,
+      "character": "皿",
+      "chineseName": "皿字底",
+      "english": "dish",
+      "unicodeName": "KANGXI RADICAL DISH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 109,
+      "character": "生",
+      "chineseName": "生字旁",
+      "english": "life",
+      "unicodeName": "KANGXI RADICAL LIFE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 110,
+      "character": "矢",
+      "chineseName": "矢字旁",
+      "english": "arrow",
+      "unicodeName": "KANGXI RADICAL ARROW",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 111,
+      "character": "禾",
+      "chineseName": "禾木旁",
+      "english": "grain",
+      "unicodeName": "KANGXI RADICAL GRAIN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 112,
+      "character": "白",
+      "chineseName": "白字旁",
+      "english": "white",
+      "unicodeName": "KANGXI RADICAL WHITE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 113,
+      "character": "瓜",
+      "chineseName": "瓜字旁",
+      "english": "melon",
+      "unicodeName": "KANGXI RADICAL MELON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 114,
+      "character": "鸟",
+      "chineseName": "鸟字旁",
+      "english": "bird",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED BIRD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 115,
+      "character": "疒",
+      "chineseName": "病字旁",
+      "english": "sickness",
+      "unicodeName": "KANGXI RADICAL SICKNESS",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 116,
+      "character": "立",
+      "chineseName": "立字旁",
+      "english": "stand",
+      "unicodeName": "KANGXI RADICAL STAND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 117,
+      "character": "穴",
+      "chineseName": "穴宝盖",
+      "english": "cave",
+      "unicodeName": "KANGXI RADICAL CAVE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 118,
+      "character": "疋",
+      "chineseName": "疋字旁",
+      "english": "bolt of cloth",
+      "unicodeName": "KANGXI RADICAL BOLT OF CLOTH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 119,
+      "character": "皮",
+      "chineseName": "皮字旁",
+      "english": "skin",
+      "unicodeName": "KANGXI RADICAL SKIN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 120,
+      "character": "癶",
+      "chineseName": "登字头",
+      "english": "dotted tent",
+      "unicodeName": "KANGXI RADICAL DOTTED TENT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 121,
+      "character": "矛",
+      "chineseName": "矛字旁",
+      "english": "spear",
+      "unicodeName": "KANGXI RADICAL SPEAR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 122,
+      "character": "耒",
+      "chineseName": "耒字旁",
+      "english": "plow",
+      "unicodeName": "KANGXI RADICAL PLOW",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 123,
+      "character": "老",
+      "chineseName": "老字头",
+      "english": "old",
+      "unicodeName": "KANGXI RADICAL OLD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 124,
+      "character": "耳",
+      "chineseName": "耳字旁",
+      "english": "ear",
+      "unicodeName": "KANGXI RADICAL EAR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 125,
+      "character": "臣",
+      "chineseName": "臣字旁",
+      "english": "minister",
+      "unicodeName": "KANGXI RADICAL MINISTER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 126,
+      "character": "覀",
+      "chineseName": "西字头",
+      "english": "cover",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 127,
+      "character": "而",
+      "chineseName": "而字旁",
+      "english": "and",
+      "unicodeName": "KANGXI RADICAL AND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 128,
+      "character": "页",
+      "chineseName": "页字旁",
+      "english": "page; head",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED LEAF",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 129,
+      "character": "至",
+      "chineseName": "至字旁",
+      "english": "arrive",
+      "unicodeName": "KANGXI RADICAL ARRIVE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 130,
+      "character": "虍",
+      "chineseName": "虎字头",
+      "english": "tiger",
+      "unicodeName": "KANGXI RADICAL TIGER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 131,
+      "character": "虫",
+      "chineseName": "虫字旁",
+      "english": "insect",
+      "unicodeName": "KANGXI RADICAL INSECT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 132,
+      "character": "肉",
+      "chineseName": "肉月旁",
+      "english": "flesh; meat",
+      "unicodeName": "KANGXI RADICAL MEAT",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 133,
+      "character": "缶",
+      "chineseName": "缶字旁",
+      "english": "jar",
+      "unicodeName": "KANGXI RADICAL JAR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 134,
+      "character": "舌",
+      "chineseName": "舌字旁",
+      "english": "tongue",
+      "unicodeName": "KANGXI RADICAL TONGUE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 135,
+      "character": "竹",
+      "chineseName": "竹字头",
+      "english": "bamboo",
+      "unicodeName": "KANGXI RADICAL BAMBOO",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 136,
+      "character": "臼",
+      "chineseName": "臼字旁",
+      "english": "mortar",
+      "unicodeName": "KANGXI RADICAL MORTAR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 137,
+      "character": "自",
+      "chineseName": "自字旁",
+      "english": "self",
+      "unicodeName": "KANGXI RADICAL SELF",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 138,
+      "character": "血",
+      "chineseName": "血字旁",
+      "english": "blood",
+      "unicodeName": "KANGXI RADICAL BLOOD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 139,
+      "character": "舟",
+      "chineseName": "舟字旁",
+      "english": "boat",
+      "unicodeName": "KANGXI RADICAL BOAT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 140,
+      "character": "色",
+      "chineseName": "色字旁",
+      "english": "color",
+      "unicodeName": "KANGXI RADICAL COLOR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 141,
+      "character": "齐",
+      "chineseName": "齐字旁",
+      "english": "even",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED EVEN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 142,
+      "character": "衣",
+      "chineseName": "衣字旁",
+      "english": "clothes",
+      "unicodeName": "KANGXI RADICAL CLOTHES",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 143,
+      "character": "羊",
+      "chineseName": "羊字旁",
+      "english": "sheep",
+      "unicodeName": "KANGXI RADICAL SHEEP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 144,
+      "character": "米",
+      "chineseName": "米字旁",
+      "english": "rice",
+      "unicodeName": "KANGXI RADICAL RICE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 145,
+      "character": "聿",
+      "chineseName": "聿字旁",
+      "english": "brush",
+      "unicodeName": "KANGXI RADICAL BRUSH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 146,
+      "character": "艮",
+      "chineseName": "艮字旁",
+      "english": "stopping",
+      "unicodeName": "KANGXI RADICAL STOPPING",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 147,
+      "character": "羽",
+      "chineseName": "羽字旁",
+      "english": "feather",
+      "unicodeName": "KANGXI RADICAL FEATHER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 148,
+      "character": "糸",
+      "chineseName": "绞丝旁",
+      "english": "silk",
+      "unicodeName": "KANGXI RADICAL SILK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 149,
+      "character": "麦",
+      "chineseName": "麦字旁",
+      "english": "wheat",
+      "unicodeName": "CJK RADICAL SIMPLIFIED WHEAT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 150,
+      "character": "走",
+      "chineseName": "走字旁",
+      "english": "run",
+      "unicodeName": "KANGXI RADICAL RUN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 151,
+      "character": "赤",
+      "chineseName": "赤字旁",
+      "english": "red",
+      "unicodeName": "KANGXI RADICAL RED",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 152,
+      "character": "豆",
+      "chineseName": "豆字旁",
+      "english": "bean",
+      "unicodeName": "KANGXI RADICAL BEAN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 153,
+      "character": "酉",
+      "chineseName": "酉字旁",
+      "english": "wine",
+      "unicodeName": "KANGXI RADICAL WINE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 154,
+      "character": "辰",
+      "chineseName": "辰字旁",
+      "english": "morning",
+      "unicodeName": "KANGXI RADICAL MORNING",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 155,
+      "character": "豕",
+      "chineseName": "豕字旁",
+      "english": "pig",
+      "unicodeName": "KANGXI RADICAL PIG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 156,
+      "character": "卤",
+      "chineseName": "卤字旁",
+      "english": "salt",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED SALT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 157,
+      "character": "里",
+      "chineseName": "里字旁",
+      "english": "village",
+      "unicodeName": "KANGXI RADICAL VILLAGE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 158,
+      "character": "足",
+      "chineseName": "足字旁",
+      "english": "foot",
+      "unicodeName": "KANGXI RADICAL FOOT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 159,
+      "character": "邑",
+      "chineseName": "右耳旁",
+      "english": "city",
+      "unicodeName": "KANGXI RADICAL CITY",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 160,
+      "character": "身",
+      "chineseName": "身字旁",
+      "english": "body",
+      "unicodeName": "KANGXI RADICAL BODY",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 161,
+      "character": "釆",
+      "chineseName": "釆字旁",
+      "english": "distinguish",
+      "unicodeName": "KANGXI RADICAL DISTINGUISH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 162,
+      "character": "谷",
+      "chineseName": "谷字旁",
+      "english": "valley",
+      "unicodeName": "KANGXI RADICAL VALLEY",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 163,
+      "character": "豸",
+      "chineseName": "豸字旁",
+      "english": "badger",
+      "unicodeName": "KANGXI RADICAL BADGER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 164,
+      "character": "龟",
+      "chineseName": "龟字旁",
+      "english": "turtle",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED TURTLE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 165,
+      "character": "角",
+      "chineseName": "角字旁",
+      "english": "horn",
+      "unicodeName": "KANGXI RADICAL HORN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 166,
+      "character": "言",
+      "chineseName": "言字旁",
+      "english": "speech",
+      "unicodeName": "KANGXI RADICAL SPEECH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 167,
+      "character": "辛",
+      "chineseName": "辛字旁",
+      "english": "bitter",
+      "unicodeName": "KANGXI RADICAL BITTER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 168,
+      "character": "青",
+      "chineseName": "青字旁",
+      "english": "blue-green",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 169,
+      "character": "龺",
+      "chineseName": "十早字头",
+      "english": "shízǎo component (descriptive name)",
+      "unicodeName": null,
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 170,
+      "character": "雨",
+      "chineseName": "雨字头",
+      "english": "rain",
+      "unicodeName": "KANGXI RADICAL RAIN",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 171,
+      "character": "非",
+      "chineseName": "非字旁",
+      "english": "wrong",
+      "unicodeName": "KANGXI RADICAL WRONG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 172,
+      "character": "齿",
+      "chineseName": "齿字旁",
+      "english": "tooth",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED TOOTH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 173,
+      "character": "黾",
+      "chineseName": "黾字旁",
+      "english": "frog",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED FROG",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 174,
+      "character": "隹",
+      "chineseName": "隹字旁",
+      "english": "short-tailed bird",
+      "unicodeName": "KANGXI RADICAL SHORT TAILED BIRD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 175,
+      "character": "阜",
+      "chineseName": "左耳旁",
+      "english": "mound",
+      "unicodeName": "KANGXI RADICAL MOUND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 176,
+      "character": "金",
+      "chineseName": "金字旁",
+      "english": "metal; gold",
+      "unicodeName": "KANGXI RADICAL GOLD",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 177,
+      "character": "鱼",
+      "chineseName": "鱼字旁",
+      "english": "fish",
+      "unicodeName": "CJK RADICAL C-SIMPLIFIED FISH",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 178,
+      "character": "隶",
+      "chineseName": "隶字旁",
+      "english": "slave",
+      "unicodeName": "KANGXI RADICAL SLAVE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 179,
+      "character": "革",
+      "chineseName": "革字旁",
+      "english": "leather",
+      "unicodeName": "KANGXI RADICAL LEATHER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 180,
+      "character": "面",
+      "chineseName": "面字旁",
+      "english": "face",
+      "unicodeName": "KANGXI RADICAL FACE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 181,
+      "character": "韭",
+      "chineseName": "韭字旁",
+      "english": "leek",
+      "unicodeName": "KANGXI RADICAL LEEK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 182,
+      "character": "骨",
+      "chineseName": "骨字旁",
+      "english": "bone",
+      "unicodeName": "KANGXI RADICAL BONE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 183,
+      "character": "香",
+      "chineseName": "香字旁",
+      "english": "fragrant",
+      "unicodeName": "KANGXI RADICAL FRAGRANT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 184,
+      "character": "鬼",
+      "chineseName": "鬼字旁",
+      "english": "ghost",
+      "unicodeName": "KANGXI RADICAL GHOST",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 185,
+      "character": "食",
+      "chineseName": "食字旁",
+      "english": "food; eat",
+      "unicodeName": "KANGXI RADICAL EAT",
+      "method": "reviewed learner label"
+    },
+    {
+      "index": 186,
+      "character": "音",
+      "chineseName": "音字旁",
+      "english": "sound",
+      "unicodeName": "KANGXI RADICAL SOUND",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 187,
+      "character": "首",
+      "chineseName": "首字旁",
+      "english": "head",
+      "unicodeName": "KANGXI RADICAL HEAD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 188,
+      "character": "髟",
+      "chineseName": "髟字头",
+      "english": "hair",
+      "unicodeName": "KANGXI RADICAL HAIR",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 189,
+      "character": "鬲",
+      "chineseName": "鬲字旁",
+      "english": "cauldron",
+      "unicodeName": "KANGXI RADICAL CAULDRON",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 190,
+      "character": "鬥",
+      "chineseName": "鬥字框",
+      "english": "fight",
+      "unicodeName": "KANGXI RADICAL FIGHT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 191,
+      "character": "高",
+      "chineseName": "高字旁",
+      "english": "tall",
+      "unicodeName": "KANGXI RADICAL TALL",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 192,
+      "character": "黄",
+      "chineseName": "黄字旁",
+      "english": "yellow",
+      "unicodeName": "CJK RADICAL SIMPLIFIED YELLOW",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 193,
+      "character": "麻",
+      "chineseName": "麻字旁",
+      "english": "hemp",
+      "unicodeName": "KANGXI RADICAL HEMP",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 194,
+      "character": "鹿",
+      "chineseName": "鹿字旁",
+      "english": "deer",
+      "unicodeName": "KANGXI RADICAL DEER",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 195,
+      "character": "鼎",
+      "chineseName": "鼎字旁",
+      "english": "tripod",
+      "unicodeName": "KANGXI RADICAL TRIPOD",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 196,
+      "character": "黑",
+      "chineseName": "黑字旁",
+      "english": "black",
+      "unicodeName": "KANGXI RADICAL BLACK",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 197,
+      "character": "黍",
+      "chineseName": "黍字旁",
+      "english": "millet",
+      "unicodeName": "KANGXI RADICAL MILLET",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 198,
+      "character": "鼓",
+      "chineseName": "鼓字旁",
+      "english": "drum",
+      "unicodeName": "KANGXI RADICAL DRUM",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 199,
+      "character": "鼠",
+      "chineseName": "鼠字旁",
+      "english": "rat",
+      "unicodeName": "KANGXI RADICAL RAT",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 200,
+      "character": "鼻",
+      "chineseName": "鼻字旁",
+      "english": "nose",
+      "unicodeName": "KANGXI RADICAL NOSE",
+      "method": "Unicode radical name"
+    },
+    {
+      "index": 201,
+      "character": "龠",
+      "chineseName": "龠字旁",
+      "english": "flute",
+      "unicodeName": "KANGXI RADICAL FLUTE",
+      "method": "Unicode radical name"
+    }
+  ]
+}

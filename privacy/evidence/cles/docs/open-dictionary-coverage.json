@@ -1,0 +1,27 @@
+{
+  "totalEntries": 8736,
+  "totalReadings": 9437,
+  "languages": {
+    "en": {
+      "readings": 9437,
+      "coveredReadings": 9383,
+      "cardEntries": 8724,
+      "readingCoverage": 0.994278,
+      "cardCoverage": 0.998626
+    }
+  },
+  "sources": {
+    "en": {
+      "name": "CC-CEDICT",
+      "license": "CC BY-SA 4.0",
+      "sha256": "ac561f16bf85ec5115231e32b7f93266bf7a68ee3d63c645d5a2d427123fe03e"
+    },
+    "unihan": {
+      "name": "Unicode Unihan 17.0.0",
+      "license": "Unicode License v3",
+      "sha256": "2c02b5f18ff5d68b49e5f9c310c325cab2ea8423dab3eb1fab6efc0c49f5ed71",
+      "use": "English fallback for primary readings missing from CC-CEDICT"
+    }
+  },
+  "policy": "Missing definitions stay missing; no machine-translation fallback."
+}
