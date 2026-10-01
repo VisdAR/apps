@@ -1,15 +1,10 @@
-# 成语 · Expressions idiomatiques — license evidence
+# 成语 Expressions idiomatiques — 许可证据
 
-Captured on **2026-08-28**. The PNG files are unmodified screenshots of the cited pages. Their source URLs, claims, byte sizes, and SHA-256 hashes are recorded in `manifest.json`.
+更新日期：2026-10-01
 
-## Scope
+本目录保存应用实际使用数据来源的公开许可截图和完整许可文本。
 
-- CFDICT-derived and adapted educational data: CC BY-SA 3.0, including attribution and share-alike obligations.
-- Taiwan Ministry of Education idiom dictionary: bibliographic and source-reference checking only. No modern MOE entry, translation, or adaptation is bundled in the app.
-- These records document displayed license terms. They do not replace the complete license texts and are not blanket clearance for every asset or page on the cited sites.
-
-## Verification
-
-Run `shasum -a 256 -c SHA256SUMS.txt` from this directory.
-
-Privacy policy: <https://visdar.github.io/apps/privacy/idiomes.html>
+- CFDICT 改编数据：CC BY-SA 3.0。
+- CC-CEDICT 英语逐词gloses改编数据：CC BY-SA 4.0。
+- 截图用于记录查询时显示的商用和改编条件，不替代完整许可正文。
+- `manifest.json` 保存来源地址、文件大小和 SHA-256。

@@ -1,0 +1,15 @@
+CC-CEDICT Chinese–English dictionary
+
+Source: MDBG / CC-CEDICT contributors
+https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+Source snapshot: CC-CEDICT-2026-09-29.txt.gz
+SHA-256: ac561f16bf85ec5115231e32b7f93266bf7a68ee3d63c645d5a2d427123fe03e
+
+Licence: Creative Commons Attribution-ShareAlike 4.0 International.
+The licence text is included as CC-BY-SA-4.0.txt.
+
+The application includes an adapted, compact index that retains entries only
+when a Chinese written form and its complete pinyin tone sequence match a
+CFDICT example. Cross-reference-only and unqualified religious glosses are
+excluded. This adapted English index is shared under CC BY-SA 4.0. The
+French CFDICT data and English CC-CEDICT data remain separate sources.
