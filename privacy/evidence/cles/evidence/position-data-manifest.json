@@ -1,0 +1,52 @@
+{
+  "purpose": "Evidence for the licensed graphical decomposition sources used to derive positional radical classifications.",
+  "generated": "2026-10-03",
+  "sources": [
+    {
+      "name": "Make Me a Hanzi dictionary.txt",
+      "upstream": "https://github.com/skishore/makemeahanzi",
+      "commit": "bddc96d41bef78427ed0e034e9f7e31d71fd1b92",
+      "commitDate": "2026-03-08T18:32:20Z",
+      "retrieved": "2026-10-03",
+      "license": "LGPL-3.0",
+      "file": "data/raw/makemeahanzi-dictionary.txt",
+      "bytes": 2570140,
+      "sha256": "744bb05d5b0742e9ee35c37791f94d56a173349b3367569e7ca11e510364d203",
+      "licenseEvidence": [
+        {
+          "file": "data/raw/MakeMeAHanzi-COPYING.txt",
+          "sha256": "26fa6b699b32401de4b75a4af574c2e0a99b3df6cb12df9313d257ee4634359c"
+        },
+        {
+          "file": "data/raw/MakeMeAHanzi-LGPL.txt",
+          "sha256": "eeb6fd06beac4a94a12ffb66876ecd6af68d5b6f38650d5f11aa90125933098b"
+        },
+        {
+          "file": "data/raw/MakeMeAHanzi-README.md",
+          "sha256": "6ffcf76fe14ff4c4a57b40fe1e2f40fadf7398a0ad8dca68e6c169e8843756d1"
+        }
+      ]
+    },
+    {
+      "name": "CJK Decomposition cjk-decomp.txt",
+      "upstream": "https://github.com/amake/cjk-decomp",
+      "commit": "c29b391fd6267e7a3541387e03a3dd60b1cd34d1",
+      "commitDate": "2018-06-09T11:26:04Z",
+      "retrieved": "2026-10-03",
+      "license": "Apache-2.0",
+      "file": "data/raw/cjk-decomp.txt",
+      "bytes": 1422452,
+      "sha256": "5accf5661dd509d4bc5966afaeb7f763231a39f23b00acda89d6c040740b8ab6",
+      "licenseEvidence": [
+        {
+          "file": "data/raw/cjk-decomp-LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "file": "data/raw/cjk-decomp-README.md",
+          "sha256": "0290385aa3c762bd2788c57c7419338c5f73a080dea5d8752c37af4d12dd60c2"
+        }
+      ]
+    }
+  ]
+}

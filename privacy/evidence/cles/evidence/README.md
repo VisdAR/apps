@@ -1,6 +1,6 @@
 # 免费商用许可证据 / Preuves de licence
 
-记录日期：**2026-08-28**；英语词库与 Unicode 许可复核于 **2026-09-29**。以下为实际浏览器截图，未改写网页文字。截图不是单独的授权合同，应连同全文和原始网址理解。
+记录日期：**2026-08-28**；英语词库与 Unicode 许可复核于 **2026-09-29**；字形分解数据复核于 **2026-10-03**。以下为实际浏览器截图，未改写网页文字。截图不是单独的授权合同，应连同全文和原始网址理解。
 
 | 文件 | 官方来源 | 证明范围 |
 | --- | --- | --- |
@@ -13,6 +13,13 @@
 | [08-Unicode-license-policy.png](screenshots/08-Unicode-license-policy.png) | [Unicode 官方许可政策](https://www.unicode.org/policies/licensing_policy.html) | Unicode 数据文件采用 OSI 批准的 Unicode License v3，允许开放再利用 |
 
 `licenses/` 保存 OFL、Unicode 与 CC BY-SA 全文。Unicode 文本从 unicode.org 下载；03 保留早期官方 GitHub 许可截图，08 是 2026-09-29 重新取得的 Unicode 官方许可政策页。
+
+## 字形位置数据（2026-10-03）
+
+- **Make Me a Hanzi**：`dictionary.txt` 使用 LGPL-3.0；本项目保存了上游许可原文和 README。固定提交：`bddc96d41bef78427ed0e034e9f7e31d71fd1b92`。
+- **CJK Decomposition**：作为生僻字补充结构源，选用上游明确提供的 Apache-2.0 条款。固定提交：`c29b391fd6267e7a3541387e03a3dd60b1cd34d1`。
+- [position-data-manifest.json](position-data-manifest.json) 记录上游地址、提交日期、下载日期、文件字节数和 SHA-256；[SHA256SUMS.txt](SHA256SUMS.txt) 覆盖整个证据目录。
+- 应用只使用字形结构来识别部件在字中的位置。人工审校记录优先；来源无法确认时不凭 Unihan 部首编号猜测。
 
 LXGW WenKai GB 原始 v1.522 字体文件与独立官方下载的 SHA-256 完全相同。记录见 `../data/reference-hashes.json`。所有汉字统一使用该楷体，未把普通宋体或系统字体作为已验证的主要字体。
 

@@ -1,6 +1,6 @@
 # Confidentialité et références / 隐私与参考资料
 
-Version 2.5 — mise à jour du 30 septembre 2026.
+Version 2.8 — mise à jour du 3 octobre 2026.
 
 ## Confidentialité
 
@@ -20,7 +20,7 @@ consultés à partir de cette page appliquent leurs propres politiques.
 ## Références et licences
 
 Cette section rassemble les notices détaillées retirées de l’interface. Le panneau
-de l’application conserve une seule liste courte des quatre sources, de leurs
+de l’application conserve une seule liste courte des six sources, de leurs
 licences et des crédits nécessaires. Les droits sur les données, la police et la
 marque restent distincts.
 
@@ -85,6 +85,30 @@ Le classement peut différer d’une édition papier. Par exemple, la partie gau
 都 peut compter huit ou neuf traits suivant le tracé : l’index `163.9` est conservé
 et un repère à huit traits restants est ajouté. Voir
 [UAX #38, section 3.6](https://www.unicode.org/reports/tr38/#Radical-Stroke_Counts).
+
+### Make Me a Hanzi
+
+**Licence : LGPL-3.0.** Source : [dépôt Make Me a Hanzi](https://github.com/skishore/makemeahanzi),
+fichier `dictionary.txt`, révision
+`bddc96d41bef78427ed0e034e9f7e31d71fd1b92` du 8 mars 2026.
+
+La décomposition IDS sert à déterminer la forme et la position visibles d’un
+composant dans un sinogramme. Les 139 décisions éditoriales relues ont priorité.
+Le fichier source, le README, la notice `COPYING`, la LGPL-3.0 complète et leurs
+empreintes sont conservés dans le dossier de preuves. Les données adaptées
+restent traçables vers cette révision fixe.
+
+### CJK Decomposition
+
+**Licence retenue : Apache-2.0.** Source : [dépôt CJK Decomposition](https://github.com/amake/cjk-decomp),
+fichier `cjk-decomp.txt`, révision
+`c29b391fd6267e7a3541387e03a3dd60b1cd34d1` du 9 juin 2018.
+
+Cette source intervient uniquement comme repli pour les signes sans
+décomposition exploitable dans Make Me a Hanzi. L’amont propose plusieurs
+licences au choix ; la redistribution de ce projet est placée sous l’option
+Apache-2.0, dont le texte complet est fourni. Aucune position n’est déduite du
+seul numéro de clé Unihan.
 
 ### LXGW WenKai GB 1.522 / 霞鹜文楷
 
@@ -151,7 +175,8 @@ police restent applicables. Voir [LICENSE](LICENSE).
 
 Les captures de licence initiales ont été réalisées le **28 août 2026** ; les
 preuves CC-CEDICT et Unicode utilisées pour l’anglais ont été actualisées le
-**29 septembre 2026**. Elles sont conservées
+**29 septembre 2026** et les preuves des sources de décomposition le
+**3 octobre 2026**. Elles sont conservées
 dans le dossier GitHub, pas dans l’interface ni dans les ressources des APK/AAB.
 Elles documentent les pages consultées et ne constituent pas une garantie juridique.
 Voir l’[index des preuves](evidence/README.md), les [captures](evidence/screenshots),
