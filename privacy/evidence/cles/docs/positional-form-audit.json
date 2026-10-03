@@ -18,7 +18,13 @@
   "classifiedPairCount": 8741,
   "unresolvedPairCount": 50,
   "coverage": 0.994312,
-  "formCount": 875,
+  "formCount": 867,
+  "displayEquivalentNormalization": {
+    "㇐": "一",
+    "㇑": "丨",
+    "㇓": "丿",
+    "㇔": "丶"
+  },
   "provenance": {
     "CJK Decomposition Apache-2.0 fallback": 2233,
     "Curated editorial review": 139,
@@ -1813,7 +1819,7 @@
     {
       "char": "丐",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1843,7 +1849,7 @@
     {
       "char": "世",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-inner",
+      "form": "auto-u4e00-u4e00-inner",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1873,7 +1879,7 @@
     {
       "char": "东",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1891,13 +1897,13 @@
     {
       "char": "両",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
       "char": "丢",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1909,13 +1915,13 @@
     {
       "char": "严",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
       "char": "丧",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1951,7 +1957,7 @@
     {
       "char": "丱",
       "radical": "丨",
-      "form": "auto-u4e28-u31d1-multiple",
+      "form": "auto-u4e28-u4e28-multiple",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1969,7 +1975,7 @@
     {
       "char": "丵",
       "radical": "丨",
-      "form": "auto-u4e28-u31d1-multiple",
+      "form": "auto-u4e28-u4e28-multiple",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -1987,7 +1993,7 @@
     {
       "char": "丹",
       "radical": "丶",
-      "form": "auto-u4e36-u31d4-overlap",
+      "form": "auto-u4e36-u4e36-overlap",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -2005,7 +2011,7 @@
     {
       "char": "丽",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -2041,7 +2047,7 @@
     {
       "char": "义",
       "radical": "丶",
-      "form": "auto-u4e36-u31d4-inner",
+      "form": "auto-u4e36-u4e36-inner",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -2083,13 +2089,13 @@
     {
       "char": "乓",
       "radical": "丿",
-      "form": "auto-u4e3f-u31d3-top",
+      "form": "auto-u4e3f-u4e3f-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
       "char": "乓",
       "radical": "丶",
-      "form": "auto-u4e36-u31d4-bottom",
+      "form": "auto-u4e36-u4e36-bottom",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -2143,7 +2149,7 @@
     {
       "char": "乡",
       "radical": "丿",
-      "form": "auto-u4e3f-u31d3-bottom",
+      "form": "auto-u4e3f-u4e3f-bottom",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -2323,7 +2329,7 @@
     {
       "char": "亟",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-bottom",
+      "form": "auto-u4e00-u4e00-bottom",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -4465,7 +4471,7 @@
     {
       "char": "兰",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-multiple",
+      "form": "auto-u4e00-u4e00-multiple",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -5845,7 +5851,7 @@
     {
       "char": "卄",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-overlap",
+      "form": "auto-u4e00-u4e00-overlap",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -13885,7 +13891,7 @@
     {
       "char": "开",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -20173,7 +20179,7 @@
     {
       "char": "来",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-outer",
+      "form": "auto-u4e00-u4e00-outer",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -29155,7 +29161,7 @@
     {
       "char": "画",
       "radical": "一",
-      "form": "auto-u4e00-u31d0-top",
+      "form": "auto-u4e00-u4e00-top",
       "source": "CJK Decomposition Apache-2.0 fallback"
     },
     {
@@ -53935,7 +53941,7 @@
     {
       "char": "老",
       "radical": "老",
-      "form": "auto-u8001-uf934-alone",
+      "form": "auto-u8001-u8001-alone",
       "source": "Unihan zero additional strokes"
     }
   ],
