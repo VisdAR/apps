@@ -1,0 +1,852 @@
+{
+  "schema": 1,
+  "version": 3,
+  "publishedAt": "2026-10-08T21:19:55Z",
+  "entries": [
+    {
+      "term": "textile",
+      "pronunciation": "[tɛkstil]",
+      "grammar": "nom masculin · adjectif",
+      "meanings": [
+        {
+          "context": [
+            "产品",
+            "chǎn pǐn"
+          ],
+          "contextFrench": "Produit textile",
+          "chinese": [
+            "纺织品",
+            "fǎng zhī pǐn"
+          ],
+          "french": "textile comme produit fabriqué à partir de fibres",
+          "usage": "linge, tissu ou article fini ; 纺 « filer », 织 « tisser », 品 « produit »",
+          "syntax": "",
+          "sentence": "Cette entreprise exporte des <mark>textiles</mark> en Europe.",
+          "translation": [
+            "这家公司出口纺织品",
+            "zhè jiā gōng sī chū kǒu fǎng zhī pǐn"
+          ]
+        },
+        {
+          "context": [
+            "材料",
+            "cái liào"
+          ],
+          "contextFrench": "Matière textile",
+          "chinese": [
+            "织物",
+            "zhī wù"
+          ],
+          "french": "textile considéré comme matière ou surface souple",
+          "usage": "matière tissée ou tricotée ; 织 « tisser », 物 « matière ou objet »",
+          "syntax": "",
+          "sentence": "Ce <mark>textile</mark> est léger et résistant.",
+          "translation": [
+            "这种织物轻而结实",
+            "zhè zhǒng zhī wù qīng ér jiē shi"
+          ]
+        },
+        {
+          "context": [
+            "行业",
+            "háng yè"
+          ],
+          "contextFrench": "Secteur économique",
+          "chinese": [
+            "纺织业",
+            "fǎng zhī yè"
+          ],
+          "french": "le textile comme industrie ou secteur économique",
+          "usage": "industrie, production et commerce des fibres et des tissus ; 纺织 « filature et tissage », 业 « secteur d’activité »",
+          "syntax": "le textile",
+          "sentence": "Le <mark>textile</mark> emploie de nombreux techniciens.",
+          "translation": [
+            "纺织业雇用很多技术人员",
+            "fǎng zhī yè gù yòng hěn duō jì shù rén yuán"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "texture",
+      "pronunciation": "[tɛkstyʁ]",
+      "grammar": "nom féminin",
+      "meanings": [
+        {
+          "context": [
+            "表面",
+            "biǎo miàn"
+          ],
+          "contextFrench": "Motif visible",
+          "chinese": [
+            "纹理",
+            "wén lǐ"
+          ],
+          "french": "texture formée par les lignes ou le grain visibles d’une surface",
+          "usage": "bois, pierre, peau ou image ; 纹 « motif ou ligne », 理 « organisation des lignes »",
+          "syntax": "",
+          "sentence": "La lumière fait ressortir la <mark>texture</mark> du bois.",
+          "translation": [
+            "木材纹理很清楚",
+            "mù cái wén lǐ hěn qīng chu"
+          ]
+        },
+        {
+          "context": [
+            "材质",
+            "cái zhì"
+          ],
+          "contextFrench": "Nature matérielle",
+          "chinese": [
+            "质地",
+            "zhì dì"
+          ],
+          "french": "texture comme nature concrète d’une matière au toucher",
+          "usage": "tissu, papier, bois ou autre matériau ; 质 « matière ou qualité », 地 « nature propre » dans ce mot",
+          "syntax": "",
+          "sentence": "Ce tissu a une <mark>texture</mark> souple et légère.",
+          "translation": [
+            "这种布料质地轻柔",
+            "zhè zhǒng bù liào zhì dì qīng róu"
+          ]
+        },
+        {
+          "context": [
+            "感受",
+            "gǎn shòu"
+          ],
+          "contextFrench": "Impression sensorielle",
+          "chinese": [
+            "质感",
+            "zhì gǎn"
+          ],
+          "french": "texture comme impression tactile ou visuelle produite par une matière",
+          "usage": "design, photographie, finition ou objet ; 质 « matière », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette finition donne une <mark>texture</mark> métallique à l’image.",
+          "translation": [
+            "画面呈现金属质感",
+            "huà miàn chéng xiàn jīn shǔ zhì gǎn"
+          ]
+        },
+        {
+          "context": [
+            "饮食",
+            "yǐn shí"
+          ],
+          "contextFrench": "Sensation en bouche",
+          "chinese": [
+            "口感",
+            "kǒu gǎn"
+          ],
+          "french": "texture perçue en mangeant ou en buvant",
+          "usage": "aliment ou boisson ; 口 « bouche », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette soupe a une <mark>texture</mark> très onctueuse.",
+          "translation": [
+            "这汤口感很顺滑",
+            "zhè tāng kǒu gǎn hěn shùn huá"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "de",
+      "aliases": [
+        "d'",
+        "d’"
+      ],
+      "pronunciation": "[də]",
+      "grammar": "préposition",
+      "meanings": [
+        {
+          "context": [
+            "所属",
+            "suǒ shǔ"
+          ],
+          "contextFrench": "Possession ou précision",
+          "chinese": [
+            "的",
+            "de"
+          ],
+          "french": "de marquant la possession ou la relation entre deux noms",
+          "usage": "propriétaire, appartenance, contenu ou précision du nom ; 的 relie le déterminant au nom",
+          "syntax": "nom + de + nom",
+          "sentence": "C’est le livre <mark>de</mark> Marie.",
+          "translation": [
+            "的",
+            "de"
+          ]
+        },
+        {
+          "context": [
+            "来源",
+            "lái yuán"
+          ],
+          "contextFrench": "Origine",
+          "chinese": [
+            "从",
+            "cóng"
+          ],
+          "french": "de indiquant le point de départ ou l’origine",
+          "usage": "lieu, moment ou origine d’un déplacement",
+          "syntax": "venir / partir de + lieu",
+          "sentence": "Il revient <mark>de</mark> Paris.",
+          "translation": [
+            "从",
+            "cóng"
+          ]
+        },
+        {
+          "context": [
+            "施事",
+            "shī shì"
+          ],
+          "contextFrench": "Auteur ou cause",
+          "chinese": [
+            "由",
+            "yóu"
+          ],
+          "french": "de introduisant l’auteur, l’origine ou la cause",
+          "usage": "auteur d’une action, source d’une décision ou cause",
+          "syntax": "participe passé + de",
+          "sentence": "Cette décision est connue <mark>de</mark> tous.",
+          "translation": [
+            "由",
+            "yóu"
+          ]
+        },
+        {
+          "context": [
+            "材料",
+            "cái liào"
+          ],
+          "contextFrench": "Matière",
+          "chinese": [
+            "用",
+            "yòng"
+          ],
+          "french": "de indiquant la matière dont une chose est faite",
+          "usage": "matière ou composant ; le chinois emploie souvent 用…做成",
+          "syntax": "être fait de + matière",
+          "sentence": "Une table <mark>de</mark> bois.",
+          "translation": [
+            "用",
+            "yòng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "je",
+      "pronunciation": "[ʒə]",
+      "grammar": "pronom personnel · 1re personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "自称",
+            "zì chēng"
+          ],
+          "contextFrench": "Locuteur",
+          "chinese": [
+            "我",
+            "wǒ"
+          ],
+          "french": "je désignant la personne qui parle",
+          "usage": "forme neutre et courante, sans distinction de genre",
+          "syntax": "je + verbe",
+          "sentence": "<mark>Je</mark> comprends.",
+          "translation": [
+            "我",
+            "wǒ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ne",
+      "pronunciation": "[nə]",
+      "grammar": "adverbe de négation",
+      "meanings": [
+        {
+          "context": [
+            "否定",
+            "fǒu dìng"
+          ],
+          "contextFrench": "Négation verbale",
+          "chinese": [
+            "不",
+            "bù"
+          ],
+          "french": "ne servant à construire une négation",
+          "usage": "action habituelle, présente ou future ; 不 se place avant le verbe",
+          "syntax": "ne… pas / jamais / plus",
+          "sentence": "Je <mark>ne</mark> comprends pas.",
+          "translation": [
+            "不",
+            "bù"
+          ]
+        },
+        {
+          "context": [
+            "禁止",
+            "jìn zhǐ"
+          ],
+          "contextFrench": "Ordre négatif",
+          "chinese": [
+            "别",
+            "bié"
+          ],
+          "french": "ne… pas dans un ordre ou un conseil négatif",
+          "usage": "interdiction ou demande de ne pas faire une action",
+          "syntax": "ne + impératif + pas",
+          "sentence": "<mark>Ne</mark> touchez pas à ce bouton.",
+          "translation": [
+            "别",
+            "bié"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "et",
+      "pronunciation": "[e]",
+      "grammar": "conjonction de coordination",
+      "meanings": [
+        {
+          "context": [
+            "并列",
+            "bìng liè"
+          ],
+          "contextFrench": "Noms coordonnés",
+          "chinese": [
+            "和",
+            "hé"
+          ],
+          "french": "et reliant des noms ou groupes nominaux",
+          "usage": "personnes, objets ou éléments placés sur le même plan",
+          "syntax": "nom + et + nom",
+          "sentence": "Paul <mark>et</mark> Marie arrivent.",
+          "translation": [
+            "和",
+            "hé"
+          ]
+        },
+        {
+          "context": [
+            "递进",
+            "dì jìn"
+          ],
+          "contextFrench": "Addition renforcée",
+          "chinese": [
+            "而且",
+            "ér qiě"
+          ],
+          "french": "et ajoutant une information qui renforce la précédente",
+          "usage": "deux qualités, actions ou propositions cumulées",
+          "sentence": "Ce livre est clair <mark>et</mark> très complet.",
+          "translation": [
+            "而且",
+            "ér qiě"
+          ]
+        },
+        {
+          "context": [
+            "书面",
+            "shū miàn"
+          ],
+          "contextFrench": "Enchaînement formel",
+          "chinese": [
+            "并且",
+            "bìng qiě"
+          ],
+          "french": "et reliant deux actions ou propositions dans un registre neutre ou écrit",
+          "usage": "actions successives ou informations coordonnées",
+          "sentence": "Il vérifie les données <mark>et</mark> rédige le rapport.",
+          "translation": [
+            "并且",
+            "bìng qiě"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "à",
+      "pronunciation": "[a]",
+      "grammar": "préposition",
+      "meanings": [
+        {
+          "context": [
+            "位置",
+            "wèi zhì"
+          ],
+          "contextFrench": "Lieu ou moment",
+          "chinese": [
+            "在",
+            "zài"
+          ],
+          "french": "à situant une personne, une chose ou un événement",
+          "usage": "lieu où l’on se trouve ou moment fixé",
+          "syntax": "être à + lieu / à + heure",
+          "sentence": "Je suis <mark>à</mark> la gare.",
+          "translation": [
+            "在",
+            "zài"
+          ]
+        },
+        {
+          "context": [
+            "目的地",
+            "mù dì dì"
+          ],
+          "contextFrench": "Destination",
+          "chinese": [
+            "到",
+            "dào"
+          ],
+          "french": "à indiquant le lieu que l’on atteint",
+          "usage": "destination d’un déplacement",
+          "syntax": "aller à + lieu",
+          "sentence": "Nous allons <mark>à</mark> Lyon.",
+          "translation": [
+            "到",
+            "dào"
+          ]
+        },
+        {
+          "context": [
+            "方向",
+            "fāng xiàng"
+          ],
+          "contextFrench": "Direction",
+          "chinese": [
+            "向",
+            "xiàng"
+          ],
+          "french": "à indiquant la direction d’un geste ou d’une action",
+          "usage": "direction, personne visée ou orientation",
+          "sentence": "Il parle <mark>à</mark> son professeur.",
+          "translation": [
+            "向",
+            "xiàng"
+          ]
+        },
+        {
+          "context": [
+            "对象",
+            "duì xiàng"
+          ],
+          "contextFrench": "Destinataire",
+          "chinese": [
+            "给",
+            "gěi"
+          ],
+          "french": "à introduisant la personne qui reçoit quelque chose",
+          "usage": "destinataire d’un objet, d’un message ou d’une action",
+          "sentence": "Elle donne le document <mark>à</mark> Paul.",
+          "translation": [
+            "给",
+            "gěi"
+          ]
+        },
+        {
+          "context": [
+            "比率",
+            "bǐ lǜ"
+          ],
+          "contextFrench": "Prix ou unité",
+          "chinese": [
+            "每",
+            "měi"
+          ],
+          "french": "à indiquant un prix ou une quantité par unité",
+          "usage": "prix, vitesse ou quantité calculés pour chaque unité",
+          "sentence": "Ces pommes sont <mark>à</mark> trois euros le kilo.",
+          "translation": [
+            "每",
+            "měi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "le",
+      "aliases": [
+        "l'",
+        "l’"
+      ],
+      "pronunciation": "[lə]",
+      "grammar": "article défini masculin singulier · forme élidée l’",
+      "meanings": [
+        {
+          "context": [
+            "定指",
+            "dìng zhǐ"
+          ],
+          "contextFrench": "Nom déjà identifié",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "le ou l’ devant un nom défini",
+          "usage": "le chinois n’emploie pas d’article ; le nom est généralement exprimé sans équivalent direct",
+          "syntax": "le / l’ + nom",
+          "sentence": "Fermez <mark>le</mark> livre.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "pas",
+      "pronunciation": "[pɑ]",
+      "grammar": "adverbe de négation · nom masculin",
+      "meanings": [
+        {
+          "context": [
+            "一般",
+            "yì bān"
+          ],
+          "contextFrench": "Négation courante",
+          "chinese": [
+            "不",
+            "bù"
+          ],
+          "french": "pas niant une action ou une qualité",
+          "usage": "présent, habitude, volonté ou jugement",
+          "syntax": "ne… pas",
+          "sentence": "Je ne comprends <mark>pas</mark>.",
+          "translation": [
+            "不",
+            "bù"
+          ]
+        },
+        {
+          "context": [
+            "过去",
+            "guò qù"
+          ],
+          "contextFrench": "Passé ou absence",
+          "chinese": [
+            "没有",
+            "méi yǒu"
+          ],
+          "french": "pas niant un fait accompli, une existence ou une possession",
+          "usage": "passé, absence de chose ou fait non réalisé",
+          "sentence": "Il n’a <mark>pas</mark> répondu.",
+          "translation": [
+            "没有",
+            "méi yǒu"
+          ]
+        },
+        {
+          "context": [
+            "命令",
+            "mìng lìng"
+          ],
+          "contextFrench": "Interdiction",
+          "chinese": [
+            "别",
+            "bié"
+          ],
+          "french": "pas dans un ordre négatif",
+          "usage": "interdiction ou conseil négatif",
+          "syntax": "ne + impératif + pas",
+          "sentence": "Ne partez <mark>pas</mark>.",
+          "translation": [
+            "别",
+            "bié"
+          ]
+        },
+        {
+          "context": [
+            "脚步",
+            "jiǎo bù"
+          ],
+          "contextFrench": "Mouvement du pied",
+          "chinese": [
+            "步伐",
+            "bù fá"
+          ],
+          "french": "pas comme mouvement ou rythme de la marche",
+          "usage": "marche, danse ou manière d’avancer",
+          "sentence": "Il avance d’un <mark>pas</mark> rapide.",
+          "translation": [
+            "步伐",
+            "bù fá"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "il",
+      "pronunciation": "[il]",
+      "grammar": "pronom personnel · 3e personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "男性",
+            "nán xìng"
+          ],
+          "contextFrench": "Personne masculine",
+          "chinese": [
+            "他",
+            "tā"
+          ],
+          "french": "il désignant un homme ou un garçon",
+          "usage": "personne masculine déjà mentionnée",
+          "sentence": "<mark>Il</mark> arrive demain.",
+          "translation": [
+            "他",
+            "tā"
+          ]
+        },
+        {
+          "context": [
+            "事物",
+            "shì wù"
+          ],
+          "contextFrench": "Objet ou animal",
+          "chinese": [
+            "它",
+            "tā"
+          ],
+          "french": "il reprenant un objet, un animal ou une notion",
+          "usage": "chose non humaine ; le chinois emploie 它 à l’écrit",
+          "sentence": "Ce train est rapide : <mark>il</mark> part à huit heures.",
+          "translation": [
+            "它",
+            "tā"
+          ]
+        },
+        {
+          "context": [
+            "无人称",
+            "wú rén chēng"
+          ],
+          "contextFrench": "Construction impersonnelle",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "il sans personne précise dans une tournure impersonnelle",
+          "usage": "météo, heure, nécessité ou existence ; la phrase chinoise n’a souvent aucun pronom",
+          "syntax": "il faut / il pleut / il y a",
+          "sentence": "<mark>Il</mark> faut partir.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "les",
+      "pronunciation": "[le]",
+      "grammar": "article défini pluriel",
+      "meanings": [
+        {
+          "context": [
+            "复数定指",
+            "fù shù dìng zhǐ"
+          ],
+          "contextFrench": "Noms pluriels identifiés",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "les devant des personnes ou choses définies au pluriel",
+          "usage": "le chinois n’emploie ni article défini ni marque obligatoire du pluriel",
+          "syntax": "les + nom pluriel",
+          "sentence": "Je ferme <mark>les</mark> fenêtres.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "tu",
+      "pronunciation": "[ty]",
+      "grammar": "pronom personnel · 2e personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "熟人",
+            "shú rén"
+          ],
+          "contextFrench": "Adresse familière",
+          "chinese": [
+            "你",
+            "nǐ"
+          ],
+          "french": "tu pour s’adresser à une seule personne familièrement",
+          "usage": "ami, proche, enfant ou personne que l’on tutoie",
+          "sentence": "<mark>Tu</mark> viens avec nous ?",
+          "translation": [
+            "你",
+            "nǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "vous",
+      "pronunciation": "[vu]",
+      "grammar": "pronom personnel · 2e personne",
+      "meanings": [
+        {
+          "context": [
+            "复数",
+            "fù shù"
+          ],
+          "contextFrench": "Plusieurs personnes",
+          "chinese": [
+            "你们",
+            "nǐ men"
+          ],
+          "french": "vous pour s’adresser à plusieurs personnes",
+          "usage": "deux destinataires ou davantage",
+          "sentence": "<mark>Vous</mark> êtes prêts ?",
+          "translation": [
+            "你们",
+            "nǐ men"
+          ]
+        },
+        {
+          "context": [
+            "礼貌",
+            "lǐ mào"
+          ],
+          "contextFrench": "Une personne avec respect",
+          "chinese": [
+            "您",
+            "nín"
+          ],
+          "french": "vous de politesse adressé à une seule personne",
+          "usage": "relation formelle, respect ou distance sociale",
+          "sentence": "<mark>Vous</mark> désirez, Madame ?",
+          "translation": [
+            "您",
+            "nín"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "un",
+      "pronunciation": "[œ̃]",
+      "grammar": "nombre · article indéfini masculin",
+      "meanings": [
+        {
+          "context": [
+            "数字",
+            "shù zì"
+          ],
+          "contextFrench": "Nombre",
+          "chinese": [
+            "一",
+            "yī"
+          ],
+          "french": "un comme nombre exact",
+          "usage": "chiffre ou quantité égale à un",
+          "sentence": "J’en prends <mark>un</mark>.",
+          "translation": [
+            "一",
+            "yī"
+          ]
+        },
+        {
+          "context": [
+            "单个",
+            "dān gè"
+          ],
+          "contextFrench": "Un élément compté",
+          "chinese": [
+            "一个",
+            "yí ge"
+          ],
+          "french": "un devant un nom comptable",
+          "usage": "le chinois ajoute normalement un classificateur adapté au nom",
+          "syntax": "un + nom",
+          "sentence": "Il achète <mark>un</mark> livre.",
+          "translation": [
+            "一个",
+            "yí ge"
+          ]
+        },
+        {
+          "context": [
+            "泛指",
+            "fàn zhǐ"
+          ],
+          "contextFrench": "Article indéfini",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "un présentant une personne ou une chose non encore identifiée",
+          "usage": "l’article peut ne pas avoir d’équivalent direct lorsque la quantité n’est pas mise en relief",
+          "sentence": "C’est <mark>un</mark> médecin.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    }
+  ],
+  "dailyTerms": [
+    "gauche",
+    "couper",
+    "passer",
+    "danser",
+    "boire",
+    "boîte",
+    "bon marché",
+    "cher",
+    "trouver",
+    "boîte à outils",
+    "bonjour",
+    "merci",
+    "pardon",
+    "au revoir",
+    "oui",
+    "non",
+    "aller",
+    "faire",
+    "manger",
+    "dormir",
+    "travailler",
+    "maison",
+    "acheter",
+    "voici",
+    "voilà",
+    "la",
+    "là",
+    "chercher",
+    "chanter",
+    "masquer",
+    "parler",
+    "écouter",
+    "aimer",
+    "vouloir",
+    "pouvoir",
+    "venir",
+    "prendre",
+    "mettre",
+    "introduire",
+    "présenter",
+    "avaler",
+    "intéressant",
+    "changer",
+    "tester",
+    "projeter",
+    "contexte",
+    "textile",
+    "texture"
+  ]
+}

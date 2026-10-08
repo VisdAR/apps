@@ -11,14 +11,14 @@
 
 ## 本次统计
 
-- curated: 36
+- curated: 50
 - context-reviewed: 90
-- source-audited: 873
+- source-audited: 859
 - missing: 1
 
 ## 已完成完整语境卡片
 
-4. la、19. aller、22. faire、32. pouvoir、36. vouloir、50. non、59. oui、63. venir、73. là、75. parler、76. prendre、84. aimer、93. passer、102. trouver、117. mettre、132. merci、169. voilà、172. chercher、195. maison、206. bonjour、238. travailler、240. écouter、245. manger、276. changer、289. dormir、325. boire、367. acheter、386. voici、483. pardon、498. cher、589. chanter、590. présenter、627. couper、705. danser、715. gauche、720. boîte
+1. de、3. je、4. la、5. ne、6. et、7. à、9. le、10. pas、11. il、12. les、13. tu、14. vous、15. un、16. l'、17. d'、19. aller、22. faire、32. pouvoir、36. vouloir、50. non、59. oui、63. venir、73. là、75. parler、76. prendre、84. aimer、93. passer、102. trouver、117. mettre、132. merci、169. voilà、172. chercher、195. maison、206. bonjour、238. travailler、240. écouter、245. manger、276. changer、289. dormir、325. boire、367. acheter、386. voici、483. pardon、498. cher、589. chanter、590. présenter、627. couper、705. danser、715. gauche、720. boîte
 
 ## 已完成人工语境排序
 
@@ -26,29 +26,29 @@
 
 ## 前 1000 以外、已完成完整语境卡片
 
-bon marché、boîte à outils、au revoir、masquer、introduire、avaler、intéressant、tester、projeter、contexte、textile、texture
+bon marché、boîte à outils、au revoir、masquer、introduire、avaler、intéressant、tester、projeter、textile、texture、contexte
 
 ## 逐词台账
 
 | 排名 | 法语原形 | 当前状态 | 当前基础候选（最多 5 项，供下轮复查） |
 |---:|---|---|---|
-| 1 | de | 基础覆盖已查，待逐义校订 | 的、从、与、于、由 |
+| 1 | de | 完整语境卡片 | 的、从、与、于、由 |
 | 2 | être | 人工语境排序 | 是、在 |
-| 3 | je | 基础覆盖已查，待逐义校订 | 我、咱家、阿拉、予、伲 |
+| 3 | je | 完整语境卡片 | 我、咱家、阿拉、予、伲 |
 | 4 | la | 完整语境卡片 | — |
-| 5 | ne | 基础覆盖已查，待逐义校订 | 不很 |
-| 6 | et | 基础覆盖已查，待逐义校订 | 和、而、又、与、并 |
-| 7 | à | 基础覆盖已查，待逐义校订 | 有、具有、有着、持有、带有 |
+| 5 | ne | 完整语境卡片 | 不很 |
+| 6 | et | 完整语境卡片 | 和、而、又、与、并 |
+| 7 | à | 完整语境卡片 | 有、具有、有着、持有、带有 |
 | 8 | avoir | 人工语境排序 | 有、具有、有着、持有、带有 |
-| 9 | le | 基础覆盖已查，待逐义校订 | 最、最后、其他、最近、尽 |
-| 10 | pas | 基础覆盖已查，待逐义校订 | 步、脚步、未经、步伐、不可 |
-| 11 | il | 基础覆盖已查，待逐义校订 | 他、它、其、伊、丌 |
-| 12 | les | 基础覆盖已查，待逐义校订 | 其他、别人、人们、人家、经典 |
-| 13 | tu | 基础覆盖已查，待逐义校订 | 你、尔、妳、祢 |
-| 14 | vous | 基础覆盖已查，待逐义校订 | 你们、您、贵方、倷、侬 |
-| 15 | un | 基础覆盖已查，待逐义校订 | 一、幺、一把、壹 |
-| 16 | l' | 基础覆盖已查，待逐义校订 | 骚包、创收、低谷、推重、高仿 |
-| 17 | d' | 基础覆盖已查，待逐义校订 | 政变、空心菜、开赛、消火栓、消防栓 |
+| 9 | le | 完整语境卡片 | 最、最后、其他、最近、尽 |
+| 10 | pas | 完整语境卡片 | 步、脚步、未经、步伐、不可 |
+| 11 | il | 完整语境卡片 | 他、它、其、伊、丌 |
+| 12 | les | 完整语境卡片 | 其他、别人、人们、人家、经典 |
+| 13 | tu | 完整语境卡片 | 你、尔、妳、祢 |
+| 14 | vous | 完整语境卡片 | 你们、您、贵方、倷、侬 |
+| 15 | un | 完整语境卡片 | 一、幺、一把、壹 |
+| 16 | l' | 完整语境卡片 | 骚包、创收、低谷、推重、高仿 |
+| 17 | d' | 完整语境卡片 | 政变、空心菜、开赛、消火栓、消防栓 |
 | 18 | des | 基础覆盖已查，待逐义校订 | 有些 |
 | 19 | aller | 完整语境卡片 | 去、走、之、过去、往 |
 | 20 | une | 基础覆盖已查，待逐义校订 | 再、又、曾、曾经、再次 |
