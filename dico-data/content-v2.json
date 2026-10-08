@@ -1,0 +1,141 @@
+{
+  "schema": 1,
+  "version": 2,
+  "publishedAt": "2026-10-08T20:30:00Z",
+  "entries": [
+    {
+      "term": "textile",
+      "pronunciation": "[tɛkstil]",
+      "grammar": "nom masculin · adjectif",
+      "meanings": [
+        {
+          "context": ["产品", "chǎn pǐn"],
+          "contextFrench": "Produit textile",
+          "chinese": ["纺织品", "fǎng zhī pǐn"],
+          "french": "textile comme produit fabriqué à partir de fibres",
+          "usage": "linge, tissu ou article fini ; 纺 « filer », 织 « tisser », 品 « produit »",
+          "syntax": "",
+          "sentence": "Cette entreprise exporte des <mark>textiles</mark> en Europe.",
+          "translation": ["这家公司出口纺织品", "zhè jiā gōng sī chū kǒu fǎng zhī pǐn"]
+        },
+        {
+          "context": ["材料", "cái liào"],
+          "contextFrench": "Matière textile",
+          "chinese": ["织物", "zhī wù"],
+          "french": "textile considéré comme matière ou surface souple",
+          "usage": "matière tissée ou tricotée ; 织 « tisser », 物 « matière ou objet »",
+          "syntax": "",
+          "sentence": "Ce <mark>textile</mark> est léger et résistant.",
+          "translation": ["这种织物轻而结实", "zhè zhǒng zhī wù qīng ér jiē shi"]
+        },
+        {
+          "context": ["行业", "háng yè"],
+          "contextFrench": "Secteur économique",
+          "chinese": ["纺织业", "fǎng zhī yè"],
+          "french": "le textile comme industrie ou secteur économique",
+          "usage": "industrie, production et commerce des fibres et des tissus ; 纺织 « filature et tissage », 业 « secteur d’activité »",
+          "syntax": "le textile",
+          "sentence": "Le <mark>textile</mark> emploie de nombreux techniciens.",
+          "translation": ["纺织业雇用很多技术人员", "fǎng zhī yè gù yòng hěn duō jì shù rén yuán"]
+        }
+      ]
+    },
+    {
+      "term": "texture",
+      "pronunciation": "[tɛkstyʁ]",
+      "grammar": "nom féminin",
+      "meanings": [
+        {
+          "context": ["表面", "biǎo miàn"],
+          "contextFrench": "Motif visible",
+          "chinese": ["纹理", "wén lǐ"],
+          "french": "texture formée par les lignes ou le grain visibles d’une surface",
+          "usage": "bois, pierre, peau ou image ; 纹 « motif ou ligne », 理 « organisation des lignes »",
+          "syntax": "",
+          "sentence": "La lumière fait ressortir la <mark>texture</mark> du bois.",
+          "translation": ["木材纹理很清楚", "mù cái wén lǐ hěn qīng chu"]
+        },
+        {
+          "context": ["材质", "cái zhì"],
+          "contextFrench": "Nature matérielle",
+          "chinese": ["质地", "zhì dì"],
+          "french": "texture comme nature concrète d’une matière au toucher",
+          "usage": "tissu, papier, bois ou autre matériau ; 质 « matière ou qualité », 地 « nature propre » dans ce mot",
+          "syntax": "",
+          "sentence": "Ce tissu a une <mark>texture</mark> souple et légère.",
+          "translation": ["这种布料质地轻柔", "zhè zhǒng bù liào zhì dì qīng róu"]
+        },
+        {
+          "context": ["感受", "gǎn shòu"],
+          "contextFrench": "Impression sensorielle",
+          "chinese": ["质感", "zhì gǎn"],
+          "french": "texture comme impression tactile ou visuelle produite par une matière",
+          "usage": "design, photographie, finition ou objet ; 质 « matière », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette finition donne une <mark>texture</mark> métallique à l’image.",
+          "translation": ["画面呈现金属质感", "huà miàn chéng xiàn jīn shǔ zhì gǎn"]
+        },
+        {
+          "context": ["饮食", "yǐn shí"],
+          "contextFrench": "Sensation en bouche",
+          "chinese": ["口感", "kǒu gǎn"],
+          "french": "texture perçue en mangeant ou en buvant",
+          "usage": "aliment ou boisson ; 口 « bouche », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette soupe a une <mark>texture</mark> très onctueuse.",
+          "translation": ["这汤口感很顺滑", "zhè tāng kǒu gǎn hěn shùn huá"]
+        }
+      ]
+    }
+  ],
+  "dailyTerms": [
+    "gauche",
+    "couper",
+    "passer",
+    "danser",
+    "boire",
+    "boîte",
+    "bon marché",
+    "cher",
+    "trouver",
+    "boîte à outils",
+    "bonjour",
+    "merci",
+    "pardon",
+    "au revoir",
+    "oui",
+    "non",
+    "aller",
+    "faire",
+    "manger",
+    "dormir",
+    "travailler",
+    "maison",
+    "acheter",
+    "voici",
+    "voilà",
+    "la",
+    "là",
+    "chercher",
+    "chanter",
+    "masquer",
+    "parler",
+    "écouter",
+    "aimer",
+    "vouloir",
+    "pouvoir",
+    "venir",
+    "prendre",
+    "mettre",
+    "introduire",
+    "présenter",
+    "avaler",
+    "intéressant",
+    "changer",
+    "tester",
+    "projeter",
+    "contexte",
+    "textile",
+    "texture"
+  ]
+}
