@@ -1,6 +1,6 @@
 {
-  "captureDate": "2026-10-01",
-  "method": "Unmodified screenshots captured with the in-app browser. Source URLs recorded here; browser chrome is not included.",
+  "captureDate": "2026-10-21",
+  "method": "Unmodified screenshots captured from the cited official or publisher pages in the in-app browser. Source URLs and SHA-256 hashes are recorded here.",
   "scope": "Evidence of the cited license conditions only, not an assurance for all assets or textbook completeness.",
   "items": [
     {
@@ -30,6 +30,20 @@
       "claim": "CC-CEDICT may be reused commercially under CC BY-SA 4.0 with attribution and share-alike.",
       "sha256": "d351251b02f40dcf0b9c19d2766413bfe10c0fd8cdba13d139d3b2bca6b3972f",
       "size": 875159
+    },
+    {
+      "file": "screenshots/android-aosp-apache-license.jpg",
+      "url": "https://source.android.com/docs/setup/about/faqs?hl=zh-cn#what-kind-of-open-source-project-is-android",
+      "claim": "Official AOSP FAQ states that most Android source code uses the permissive Apache License 2.0.",
+      "sha256": "3a378ad3f675f73ccac8dc22714340e59b7fa3f35b9df227bd7a00c9333accdd",
+      "size": 113111
+    },
+    {
+      "file": "screenshots/android-text-to-speech-api.jpg",
+      "url": "https://developer.android.com/reference/android/speech/tts/TextToSpeech#speak(java.lang.CharSequence,int,android.os.Bundle,java.lang.String)",
+      "claim": "Official Android API reference documents the TextToSpeech speak method used by the app.",
+      "sha256": "e39d1a7eef07f3eeca20e739f220df191fa5ca77bc37c0fb9b9f76cd31b30a9b",
+      "size": 103556
     }
   ]
 }
