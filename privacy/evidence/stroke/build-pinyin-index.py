@@ -5,8 +5,13 @@ Modifications 2026-10-30: strip tone numbers and punctuation, retain Hanzi-only 
 of up to 8 characters, merge duplicate pairs, and create a compact lookup object.
 """
 from pathlib import Path
-import gzip, re, json, hashlib, unicodedata
-source=Path('data/pinyin/CC-CEDICT-2026-09-29.txt.gz')
+import gzip, re, json, hashlib, argparse
+parser=argparse.ArgumentParser(description="Generate a CC-CEDICT pinyin index")
+parser.add_argument("--source",default="data/pinyin/CC-CEDICT-2026-09-29.txt.gz")
+parser.add_argument("--output",default="app/src/main/assets/pinyin-index.js")
+parser.add_argument("--notice",default="data/pinyin/README.md")
+args=parser.parse_args()
+source=Path(args.source)
 rows={}
 for line in gzip.open(source,'rt',encoding='utf-8'):
  if line.startswith('#'):continue
@@ -28,7 +33,7 @@ def order(pair):
  return (1,len(s),sum(rank.get(c,5000) for c in s),s,t)
 index={k:sorted(v,key=order) for k,v in sorted(rows.items())}
 out='window.pinyinIndex='+json.dumps(index,ensure_ascii=False,separators=(',',':'))+';\n'
-Path('app/src/main/assets/pinyin-index.js').write_text(out,encoding='utf-8')
-Path('data/pinyin/README.md').write_text('CC-CEDICT lookup index, derived 2026-10-30 from MDBG CC-CEDICT 2026-09-29, CC BY-SA 4.0. Source archive SHA-256: '+hashlib.sha256(source.read_bytes()).hexdigest()+'\nTransformation: scripts/build_pinyin_index.py. Derived index: app/src/main/assets/pinyin-index.js. Simplified and traditional forms retained; tone numbers and punctuation removed; Hanzi-only headwords up to eight characters. Entries are ranked using a hand-written list of common characters, then length and Unicode order. Attribution: CC-CEDICT contributors, published by MDBG, https://www.mdbg.net/chinese/dictionary?page=cc-cedict . Full licence is app/src/main/assets/licenses/CEDICT-CC-BY-SA-4.0.txt.\n',encoding='utf-8')
+Path(args.output).write_text(out,encoding='utf-8')
+Path(args.notice).write_text('CC-CEDICT lookup index, derived 2026-10-30 from MDBG CC-CEDICT 2026-09-29, CC BY-SA 4.0. Source archive SHA-256: '+hashlib.sha256(source.read_bytes()).hexdigest()+'\nTransformation: scripts/build_pinyin_index.py. Derived index: app/src/main/assets/pinyin-index.js. Simplified and traditional forms retained; tone numbers and punctuation removed; Hanzi-only headwords up to eight characters. Entries are ranked using a hand-written list of common characters, then length and Unicode order. Attribution: CC-CEDICT contributors, published by MDBG, https://www.mdbg.net/chinese/dictionary?page=cc-cedict . Full licence is app/src/main/assets/licenses/CEDICT-CC-BY-SA-4.0.txt.\n',encoding='utf-8')
 print(f'{len(index)} keys; {sum(map(len,index.values()))} headword pairs; {len(out.encode())} bytes')
 for k in ('ni','hao','nihao','zhongguo','xue','nvyu'):print(k,index.get(k,[])[:5])
