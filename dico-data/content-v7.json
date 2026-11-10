@@ -1,0 +1,4701 @@
+{
+  "schema": 1,
+  "version": 7,
+  "publishedAt": "2026-11-10T17:09:39Z",
+  "entries": [
+    {
+      "term": "textile",
+      "pronunciation": "[tɛkstil]",
+      "grammar": "nom masculin · adjectif",
+      "meanings": [
+        {
+          "context": [
+            "产品",
+            "chǎn pǐn"
+          ],
+          "contextFrench": "Produit textile",
+          "chinese": [
+            "纺织品",
+            "fǎng zhī pǐn"
+          ],
+          "french": "textile comme produit fabriqué à partir de fibres",
+          "usage": "linge, tissu ou article fini ; 纺 « filer », 织 « tisser », 品 « produit »",
+          "syntax": "",
+          "sentence": "Cette entreprise exporte des <mark>textiles</mark> en Europe.",
+          "translation": [
+            "这家公司出口纺织品",
+            "zhè jiā gōng sī chū kǒu fǎng zhī pǐn"
+          ]
+        },
+        {
+          "context": [
+            "材料",
+            "cái liào"
+          ],
+          "contextFrench": "Matière textile",
+          "chinese": [
+            "织物",
+            "zhī wù"
+          ],
+          "french": "textile considéré comme matière ou surface souple",
+          "usage": "matière tissée ou tricotée ; 织 « tisser », 物 « matière ou objet »",
+          "syntax": "",
+          "sentence": "Ce <mark>textile</mark> est léger et résistant.",
+          "translation": [
+            "这种织物轻而结实",
+            "zhè zhǒng zhī wù qīng ér jiē shi"
+          ]
+        },
+        {
+          "context": [
+            "行业",
+            "háng yè"
+          ],
+          "contextFrench": "Secteur économique",
+          "chinese": [
+            "纺织业",
+            "fǎng zhī yè"
+          ],
+          "french": "le textile comme industrie ou secteur économique",
+          "usage": "industrie, production et commerce des fibres et des tissus ; 纺织 « filature et tissage », 业 « secteur d’activité »",
+          "syntax": "le textile",
+          "sentence": "Le <mark>textile</mark> emploie de nombreux techniciens.",
+          "translation": [
+            "纺织业雇用很多技术人员",
+            "fǎng zhī yè gù yòng hěn duō jì shù rén yuán"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "texture",
+      "pronunciation": "[tɛkstyʁ]",
+      "grammar": "nom féminin",
+      "meanings": [
+        {
+          "context": [
+            "表面",
+            "biǎo miàn"
+          ],
+          "contextFrench": "Motif visible",
+          "chinese": [
+            "纹理",
+            "wén lǐ"
+          ],
+          "french": "texture formée par les lignes ou le grain visibles d’une surface",
+          "usage": "bois, pierre, peau ou image ; 纹 « motif ou ligne », 理 « organisation des lignes »",
+          "syntax": "",
+          "sentence": "La lumière fait ressortir la <mark>texture</mark> du bois.",
+          "translation": [
+            "木材纹理很清楚",
+            "mù cái wén lǐ hěn qīng chu"
+          ]
+        },
+        {
+          "context": [
+            "材质",
+            "cái zhì"
+          ],
+          "contextFrench": "Nature matérielle",
+          "chinese": [
+            "质地",
+            "zhì dì"
+          ],
+          "french": "texture comme nature concrète d’une matière au toucher",
+          "usage": "tissu, papier, bois ou autre matériau ; 质 « matière ou qualité », 地 « nature propre » dans ce mot",
+          "syntax": "",
+          "sentence": "Ce tissu a une <mark>texture</mark> souple et légère.",
+          "translation": [
+            "这种布料质地轻柔",
+            "zhè zhǒng bù liào zhì dì qīng róu"
+          ]
+        },
+        {
+          "context": [
+            "感受",
+            "gǎn shòu"
+          ],
+          "contextFrench": "Impression sensorielle",
+          "chinese": [
+            "质感",
+            "zhì gǎn"
+          ],
+          "french": "texture comme impression tactile ou visuelle produite par une matière",
+          "usage": "design, photographie, finition ou objet ; 质 « matière », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette finition donne une <mark>texture</mark> métallique à l’image.",
+          "translation": [
+            "画面呈现金属质感",
+            "huà miàn chéng xiàn jīn shǔ zhì gǎn"
+          ]
+        },
+        {
+          "context": [
+            "饮食",
+            "yǐn shí"
+          ],
+          "contextFrench": "Sensation en bouche",
+          "chinese": [
+            "口感",
+            "kǒu gǎn"
+          ],
+          "french": "texture perçue en mangeant ou en buvant",
+          "usage": "aliment ou boisson ; 口 « bouche », 感 « sensation »",
+          "syntax": "",
+          "sentence": "Cette soupe a une <mark>texture</mark> très onctueuse.",
+          "translation": [
+            "这汤口感很顺滑",
+            "zhè tāng kǒu gǎn hěn shùn huá"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "de",
+      "aliases": [
+        "d'",
+        "d’"
+      ],
+      "pronunciation": "[də]",
+      "grammar": "préposition",
+      "meanings": [
+        {
+          "context": [
+            "所属",
+            "suǒ shǔ"
+          ],
+          "contextFrench": "Possession ou précision",
+          "chinese": [
+            "的",
+            "de"
+          ],
+          "french": "de marquant la possession ou la relation entre deux noms",
+          "usage": "propriétaire, appartenance, contenu ou précision du nom",
+          "syntax": "nom + de + nom ; déterminant + 的 + nom",
+          "sentence": "C’est le livre <mark>de</mark> Marie.",
+          "translation": [
+            "的",
+            "de"
+          ]
+        },
+        {
+          "context": [
+            "来源",
+            "lái yuán"
+          ],
+          "contextFrench": "Origine",
+          "chinese": [
+            "从",
+            "cóng"
+          ],
+          "french": "de indiquant le point de départ ou l’origine",
+          "usage": "lieu, moment ou origine d’un déplacement",
+          "syntax": "venir / partir de + lieu",
+          "sentence": "Il revient <mark>de</mark> Paris.",
+          "translation": [
+            "从",
+            "cóng"
+          ]
+        },
+        {
+          "context": [
+            "施事",
+            "shī shì"
+          ],
+          "contextFrench": "Auteur ou cause",
+          "chinese": [
+            "由",
+            "yóu"
+          ],
+          "french": "de introduisant l’auteur, l’origine ou la cause",
+          "usage": "auteur d’une action, source d’une décision ou cause",
+          "syntax": "participe passé + de",
+          "sentence": "Cette décision est connue <mark>de</mark> tous.",
+          "translation": [
+            "由",
+            "yóu"
+          ]
+        },
+        {
+          "context": [
+            "材料",
+            "cái liào"
+          ],
+          "contextFrench": "Matière",
+          "chinese": [
+            "用",
+            "yòng"
+          ],
+          "french": "de indiquant la matière dont une chose est faite",
+          "usage": "matière ou composant ; le chinois emploie souvent 用…做成",
+          "syntax": "être fait de + matière",
+          "sentence": "Une table <mark>de</mark> bois.",
+          "translation": [
+            "用",
+            "yòng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "je",
+      "pronunciation": "[ʒə]",
+      "grammar": "pronom personnel · 1re personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "自称",
+            "zì chēng"
+          ],
+          "contextFrench": "Locuteur",
+          "chinese": [
+            "我",
+            "wǒ"
+          ],
+          "french": "je désignant la personne qui parle",
+          "usage": "forme neutre et courante, sans distinction de genre",
+          "syntax": "je + verbe",
+          "sentence": "<mark>Je</mark> comprends.",
+          "translation": [
+            "我",
+            "wǒ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ne",
+      "pronunciation": "[nə]",
+      "grammar": "adverbe de négation",
+      "meanings": [
+        {
+          "context": [
+            "否定",
+            "fǒu dìng"
+          ],
+          "contextFrench": "Négation verbale",
+          "chinese": [
+            "不",
+            "bù"
+          ],
+          "french": "ne servant à construire une négation",
+          "usage": "action habituelle, présente ou future",
+          "syntax": "ne… pas / jamais / plus ; 不 + verbe",
+          "sentence": "Je <mark>ne</mark> comprends pas.",
+          "translation": [
+            "不",
+            "bù"
+          ]
+        },
+        {
+          "context": [
+            "禁止",
+            "jìn zhǐ"
+          ],
+          "contextFrench": "Ordre négatif",
+          "chinese": [
+            "别",
+            "bié"
+          ],
+          "french": "ne… pas dans un ordre ou un conseil négatif",
+          "usage": "interdiction ou demande de ne pas faire une action",
+          "syntax": "ne + impératif + pas",
+          "sentence": "<mark>Ne</mark> touchez pas à ce bouton.",
+          "translation": [
+            "别",
+            "bié"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "et",
+      "pronunciation": "[e]",
+      "grammar": "conjonction de coordination",
+      "meanings": [
+        {
+          "context": [
+            "并列",
+            "bìng liè"
+          ],
+          "contextFrench": "Noms coordonnés",
+          "chinese": [
+            "和",
+            "hé"
+          ],
+          "french": "et reliant des noms ou groupes nominaux",
+          "usage": "personnes, objets ou éléments placés sur le même plan",
+          "syntax": "nom + et + nom",
+          "sentence": "Paul <mark>et</mark> Marie arrivent.",
+          "translation": [
+            "和",
+            "hé"
+          ]
+        },
+        {
+          "context": [
+            "递进",
+            "dì jìn"
+          ],
+          "contextFrench": "Addition renforcée",
+          "chinese": [
+            "而且",
+            "ér qiě"
+          ],
+          "french": "et ajoutant une information qui renforce la précédente",
+          "usage": "deux qualités, actions ou propositions cumulées",
+          "sentence": "Ce livre est clair <mark>et</mark> très complet.",
+          "translation": [
+            "而且",
+            "ér qiě"
+          ]
+        },
+        {
+          "context": [
+            "书面",
+            "shū miàn"
+          ],
+          "contextFrench": "Enchaînement formel",
+          "chinese": [
+            "并且",
+            "bìng qiě"
+          ],
+          "french": "et reliant deux actions ou propositions dans un registre neutre ou écrit",
+          "usage": "actions successives ou informations coordonnées",
+          "sentence": "Il vérifie les données <mark>et</mark> rédige le rapport.",
+          "translation": [
+            "并且",
+            "bìng qiě"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "à",
+      "pronunciation": "[a]",
+      "grammar": "préposition",
+      "meanings": [
+        {
+          "context": [
+            "位置",
+            "wèi zhì"
+          ],
+          "contextFrench": "Lieu ou moment",
+          "chinese": [
+            "在",
+            "zài"
+          ],
+          "french": "à situant une personne, une chose ou un événement",
+          "usage": "lieu où l’on se trouve ou moment fixé",
+          "syntax": "être à + lieu / à + heure",
+          "sentence": "Je suis <mark>à</mark> la gare.",
+          "translation": [
+            "在",
+            "zài"
+          ]
+        },
+        {
+          "context": [
+            "目的地",
+            "mù dì dì"
+          ],
+          "contextFrench": "Destination",
+          "chinese": [
+            "到",
+            "dào"
+          ],
+          "french": "à indiquant le lieu que l’on atteint",
+          "usage": "destination d’un déplacement",
+          "syntax": "aller à + lieu",
+          "sentence": "Nous allons <mark>à</mark> Lyon.",
+          "translation": [
+            "到",
+            "dào"
+          ]
+        },
+        {
+          "context": [
+            "方向",
+            "fāng xiàng"
+          ],
+          "contextFrench": "Direction",
+          "chinese": [
+            "向",
+            "xiàng"
+          ],
+          "french": "à indiquant la direction d’un geste ou d’une action",
+          "usage": "direction, personne visée ou orientation",
+          "sentence": "Il parle <mark>à</mark> son professeur.",
+          "translation": [
+            "向",
+            "xiàng"
+          ]
+        },
+        {
+          "context": [
+            "对象",
+            "duì xiàng"
+          ],
+          "contextFrench": "Destinataire",
+          "chinese": [
+            "给",
+            "gěi"
+          ],
+          "french": "à introduisant la personne qui reçoit quelque chose",
+          "usage": "destinataire d’un objet, d’un message ou d’une action",
+          "sentence": "Elle donne le document <mark>à</mark> Paul.",
+          "translation": [
+            "给",
+            "gěi"
+          ]
+        },
+        {
+          "context": [
+            "比率",
+            "bǐ lǜ"
+          ],
+          "contextFrench": "Prix ou unité",
+          "chinese": [
+            "每",
+            "měi"
+          ],
+          "french": "à indiquant un prix ou une quantité par unité",
+          "usage": "prix, vitesse ou quantité calculés pour chaque unité",
+          "sentence": "Ces pommes sont <mark>à</mark> trois euros le kilo.",
+          "translation": [
+            "每",
+            "měi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "le",
+      "aliases": [
+        "l'",
+        "l’"
+      ],
+      "pronunciation": "[lə]",
+      "grammar": "article défini masculin singulier · forme élidée l’",
+      "meanings": [
+        {
+          "context": [
+            "定指",
+            "dìng zhǐ"
+          ],
+          "contextFrench": "Référence déjà identifiée",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "le ou l’ devant un nom défini",
+          "usage": "personne ou chose déjà identifiée dans le contexte",
+          "syntax": "le / l’ + nom masculin singulier ; article généralement omis en chinois",
+          "sentence": "Fermez <mark>le</mark> livre.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "pas",
+      "pronunciation": "[pɑ]",
+      "grammar": "adverbe de négation · nom masculin",
+      "meanings": [
+        {
+          "context": [
+            "一般",
+            "yì bān"
+          ],
+          "contextFrench": "Négation courante",
+          "chinese": [
+            "不",
+            "bù"
+          ],
+          "french": "pas niant une action ou une qualité",
+          "usage": "présent, habitude, volonté ou jugement",
+          "syntax": "ne… pas",
+          "sentence": "Je ne comprends <mark>pas</mark>.",
+          "translation": [
+            "不",
+            "bù"
+          ]
+        },
+        {
+          "context": [
+            "过去",
+            "guò qù"
+          ],
+          "contextFrench": "Passé ou absence",
+          "chinese": [
+            "没有",
+            "méi yǒu"
+          ],
+          "french": "pas niant un fait accompli, une existence ou une possession",
+          "usage": "passé, absence de chose ou fait non réalisé",
+          "sentence": "Il n’a <mark>pas</mark> répondu.",
+          "translation": [
+            "没有",
+            "méi yǒu"
+          ]
+        },
+        {
+          "context": [
+            "命令",
+            "mìng lìng"
+          ],
+          "contextFrench": "Interdiction",
+          "chinese": [
+            "别",
+            "bié"
+          ],
+          "french": "pas dans un ordre négatif",
+          "usage": "interdiction ou conseil négatif",
+          "syntax": "ne + impératif + pas",
+          "sentence": "Ne partez <mark>pas</mark>.",
+          "translation": [
+            "别",
+            "bié"
+          ]
+        },
+        {
+          "context": [
+            "脚步",
+            "jiǎo bù"
+          ],
+          "contextFrench": "Mouvement du pied",
+          "chinese": [
+            "步伐",
+            "bù fá"
+          ],
+          "french": "pas comme mouvement ou rythme de la marche",
+          "usage": "marche, danse ou manière d’avancer",
+          "sentence": "Il avance d’un <mark>pas</mark> rapide.",
+          "translation": [
+            "步伐",
+            "bù fá"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "il",
+      "pronunciation": "[il]",
+      "grammar": "pronom personnel · 3e personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "男性",
+            "nán xìng"
+          ],
+          "contextFrench": "Personne masculine",
+          "chinese": [
+            "他",
+            "tā"
+          ],
+          "french": "il désignant un homme ou un garçon",
+          "usage": "personne masculine déjà mentionnée",
+          "sentence": "<mark>Il</mark> arrive demain.",
+          "translation": [
+            "他",
+            "tā"
+          ]
+        },
+        {
+          "context": [
+            "事物",
+            "shì wù"
+          ],
+          "contextFrench": "Objet ou animal",
+          "chinese": [
+            "它",
+            "tā"
+          ],
+          "french": "il reprenant un objet, un animal ou une notion",
+          "usage": "chose non humaine ; le chinois emploie 它 à l’écrit",
+          "sentence": "Ce train est rapide : <mark>il</mark> part à huit heures.",
+          "translation": [
+            "它",
+            "tā"
+          ]
+        },
+        {
+          "context": [
+            "无人称",
+            "wú rén chēng"
+          ],
+          "contextFrench": "Phrase sans sujet réel",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "il sans personne précise dans une tournure impersonnelle",
+          "usage": "météo, heure, nécessité ou existence",
+          "syntax": "il faut / il pleut / il y a ; sujet souvent omis en chinois",
+          "sentence": "<mark>Il</mark> faut partir.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "les",
+      "pronunciation": "[le]",
+      "grammar": "article défini pluriel",
+      "meanings": [
+        {
+          "context": [
+            "复数定指",
+            "fù shù dìng zhǐ"
+          ],
+          "contextFrench": "Ensemble déjà identifié",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "les devant des personnes ou choses définies au pluriel",
+          "usage": "personnes ou choses déjà identifiées au pluriel",
+          "syntax": "les + nom pluriel ; article et pluriel souvent non marqués en chinois",
+          "sentence": "Je ferme <mark>les</mark> fenêtres.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "tu",
+      "pronunciation": "[ty]",
+      "grammar": "pronom personnel · 2e personne du singulier",
+      "meanings": [
+        {
+          "context": [
+            "熟人",
+            "shú rén"
+          ],
+          "contextFrench": "Adresse familière",
+          "chinese": [
+            "你",
+            "nǐ"
+          ],
+          "french": "tu pour s’adresser à une seule personne familièrement",
+          "usage": "ami, proche, enfant ou personne que l’on tutoie",
+          "sentence": "<mark>Tu</mark> viens avec nous ?",
+          "translation": [
+            "你",
+            "nǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "vous",
+      "pronunciation": "[vu]",
+      "grammar": "pronom personnel · 2e personne",
+      "meanings": [
+        {
+          "context": [
+            "复数",
+            "fù shù"
+          ],
+          "contextFrench": "Plusieurs personnes",
+          "chinese": [
+            "你们",
+            "nǐ men"
+          ],
+          "french": "vous pour s’adresser à plusieurs personnes",
+          "usage": "deux destinataires ou davantage",
+          "sentence": "<mark>Vous</mark> êtes prêts ?",
+          "translation": [
+            "你们",
+            "nǐ men"
+          ]
+        },
+        {
+          "context": [
+            "礼貌",
+            "lǐ mào"
+          ],
+          "contextFrench": "Une personne avec respect",
+          "chinese": [
+            "您",
+            "nín"
+          ],
+          "french": "vous de politesse adressé à une seule personne",
+          "usage": "relation formelle, respect ou distance sociale",
+          "sentence": "<mark>Vous</mark> désirez, Madame ?",
+          "translation": [
+            "您",
+            "nín"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "un",
+      "pronunciation": "[œ̃]",
+      "grammar": "nombre · article indéfini masculin",
+      "meanings": [
+        {
+          "context": [
+            "数字",
+            "shù zì"
+          ],
+          "contextFrench": "Nombre",
+          "chinese": [
+            "一",
+            "yī"
+          ],
+          "french": "un comme nombre exact",
+          "usage": "chiffre ou quantité égale à un",
+          "sentence": "J’en prends <mark>un</mark>.",
+          "translation": [
+            "一",
+            "yī"
+          ]
+        },
+        {
+          "context": [
+            "单个",
+            "dān gè"
+          ],
+          "contextFrench": "Élément compté",
+          "chinese": [
+            "一个",
+            "yí ge"
+          ],
+          "french": "un devant un nom comptable",
+          "usage": "personne ou objet compté",
+          "syntax": "un + nom ; 一 + classificateur + nom",
+          "sentence": "Il achète <mark>un</mark> livre.",
+          "translation": [
+            "一个",
+            "yí ge"
+          ]
+        },
+        {
+          "context": [
+            "泛指",
+            "fàn zhǐ"
+          ],
+          "contextFrench": "Élément non identifié",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "un présentant une personne ou une chose non encore identifiée",
+          "usage": "personne ou chose non encore identifiée, quantité non mise en relief",
+          "syntax": "un + nom ; article parfois omis en chinois",
+          "sentence": "C’est <mark>un</mark> médecin.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "la",
+      "pronunciation": "[la]",
+      "grammar": "article défini féminin singulier",
+      "meanings": [
+        {
+          "context": [
+            "定指",
+            "dìng zhǐ"
+          ],
+          "contextFrench": "Référence féminine identifiée",
+          "chinese": [
+            "不译",
+            "bù yì"
+          ],
+          "french": "la devant un nom défini féminin",
+          "usage": "personne ou chose féminine déjà identifiée dans le contexte",
+          "syntax": "la + nom féminin singulier ; article généralement omis en chinois",
+          "sentence": "<mark>La</mark> maison est près de la gare.",
+          "translation": [
+            "不译",
+            "bù yì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "oui",
+      "pronunciation": "",
+      "grammar": "adv. · réponse elliptique",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "对",
+            "duì"
+          ],
+          "french": "oui",
+          "usage": "confirmation que l’affirmation correspond à la réalité",
+          "syntax": "adv.",
+          "sentence": "— C’est bien ici ? — <mark>Oui</mark>.",
+          "translation": [
+            "—是在这里吗？—对。",
+            "shì zài zhè lǐ ma duì"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "是的",
+            "shì de"
+          ],
+          "french": "oui",
+          "usage": "confirmation explicite ou polie",
+          "syntax": "adv.",
+          "sentence": "— Vous êtes madame Li ? — <mark>Oui</mark>.",
+          "translation": [
+            "—您是李女士吗？—是的。",
+            "nín shì lǐ nǚ shì ma shì de"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "来、吃、要",
+            "lái chī yào"
+          ],
+          "french": "oui",
+          "usage": "réponse affirmative formée en répétant le prédicat de la question",
+          "syntax": "réponse elliptique",
+          "sentence": "— Tu viens demain ? — <mark>Oui</mark>.",
+          "translation": [
+            "—你明天来吗？—来。",
+            "nǐ míng tiān lái ma lái"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "好",
+            "hǎo"
+          ],
+          "french": "oui",
+          "usage": "acceptation d’une proposition, d’une demande ou d’un arrangement",
+          "syntax": "adv.",
+          "sentence": "— On se retrouve à huit heures ? — <mark>Oui</mark>.",
+          "translation": [
+            "—我们八点见好吗？—好。",
+            "wǒ men bā diǎn jiàn hǎo ma hǎo"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "descendre",
+      "pronunciation": "[desɑ̃dʁ]",
+      "grammar": "verbe irrégulier du 3e groupe",
+      "meanings": [
+        {
+          "context": [
+            "向下",
+            "xiàng xià"
+          ],
+          "contextFrench": "Mouvement général",
+          "chinese": [
+            "下",
+            "xià"
+          ],
+          "french": "descendre",
+          "usage": "mouvement général vers le bas ; en chinois, la destination ou la direction est souvent précisée",
+          "syntax": "下 + lieu / 下来 / 下去",
+          "sentence": "Il <mark>descend</mark> lentement.",
+          "translation": [
+            "他慢慢往下走。",
+            "tā màn màn wǎng xià zǒu."
+          ]
+        },
+        {
+          "context": [
+            "朝这边",
+            "cháo zhè biān"
+          ],
+          "contextFrench": "Vers le point de repère",
+          "chinese": [
+            "下来",
+            "xià lái"
+          ],
+          "french": "descendre ; venir en bas",
+          "usage": "mouvement vers le locuteur ou vers le point de repère",
+          "syntax": "下来",
+          "sentence": "<mark>Descends</mark>, s’il te plaît !",
+          "translation": [
+            "请下来！",
+            "qǐng xià lái!"
+          ]
+        },
+        {
+          "context": [
+            "离开这边",
+            "lí kāi zhè biān"
+          ],
+          "contextFrench": "En s’éloignant",
+          "chinese": [
+            "下去",
+            "xià qù"
+          ],
+          "french": "descendre ; aller plus bas",
+          "usage": "mouvement vers le bas en s’éloignant du locuteur ou en poursuivant le mouvement",
+          "syntax": "下去",
+          "sentence": "Il <mark>descend</mark> dans la cave.",
+          "translation": [
+            "他下到地下室去。",
+            "tā xià dào dì xià shì qù."
+          ]
+        },
+        {
+          "context": [
+            "交通",
+            "jiāo tōng"
+          ],
+          "contextFrench": "Quitter un véhicule",
+          "chinese": [
+            "下车",
+            "xià chē"
+          ],
+          "french": "descendre d’un véhicule",
+          "usage": "voiture, bus, train, taxi ou autre véhicule terrestre",
+          "syntax": "从 + véhicule + 下车",
+          "sentence": "Nous <mark>descendons</mark> du bus au prochain arrêt.",
+          "translation": [
+            "我们下一站下车。",
+            "wǒ men xià yí zhàn xià chē."
+          ]
+        },
+        {
+          "context": [
+            "楼层",
+            "lóu céng"
+          ],
+          "contextFrench": "Étage ou escalier",
+          "chinese": [
+            "下楼",
+            "xià lóu"
+          ],
+          "french": "descendre",
+          "usage": "quitter un étage supérieur ou emprunter l’escalier vers le bas",
+          "sentence": "Elle <mark>descend</mark> au rez-de-chaussée.",
+          "translation": [
+            "她下楼到一层。",
+            "tā xià lóu dào yì céng."
+          ]
+        },
+        {
+          "context": [
+            "山坡",
+            "shān pō"
+          ],
+          "contextFrench": "Montagne ou pente",
+          "chinese": [
+            "下山",
+            "xià shān"
+          ],
+          "french": "descendre",
+          "usage": "quitter la montagne ou parcourir une pente vers le bas",
+          "sentence": "Ils <mark>descendent</mark> de la montagne avant la nuit.",
+          "translation": [
+            "他们天黑前下山。",
+            "tā men tiān hēi qián xià shān."
+          ]
+        },
+        {
+          "context": [
+            "数值",
+            "shù zhí"
+          ],
+          "contextFrench": "Baisse mesurée",
+          "chinese": [
+            "下降",
+            "xià jiàng"
+          ],
+          "french": "descendre ; baisser",
+          "usage": "température, niveau, prix, taux ou valeur qui diminue",
+          "syntax": "sujet + 下降",
+          "sentence": "La température <mark>descend</mark> rapidement.",
+          "translation": [
+            "气温迅速下降。",
+            "qì wēn xùn sù xià jiàng."
+          ]
+        },
+        {
+          "context": [
+            "降低",
+            "jiàng dī"
+          ],
+          "contextFrench": "Faire baisser",
+          "chinese": [
+            "降低",
+            "jiàng dī"
+          ],
+          "french": "faire descendre ; réduire",
+          "usage": "prix, volume, niveau, vitesse ou risque que l’on fait baisser",
+          "syntax": "降低 + nom",
+          "sentence": "Ils ont fait <mark>descendre</mark> le prix.",
+          "translation": [
+            "他们降低了价格。",
+            "tā men jiàng dī le jià gé."
+          ]
+        }
+      ]
+    },
+    {
+      "term": "sinogramme",
+      "aliases": [
+        "sinogrammes",
+        "caractère chinois",
+        "caractères chinois",
+        "caractere chinois",
+        "caracteres chinois"
+      ],
+      "pronunciation": "[sinɔɡʁam]",
+      "grammar": "nom masculin",
+      "meanings": [
+        {
+          "context": [
+            "汉字",
+            "hàn zì"
+          ],
+          "contextFrench": "Écriture chinoise",
+          "chinese": [
+            "汉字",
+            "hàn zì"
+          ],
+          "french": "sinogramme ; caractère chinois",
+          "usage": "caractère de l’écriture chinoise ; le terme japonais « kanji » n’est pas employé ici comme équivalent français général",
+          "sentence": "Ce <mark>sinogramme</mark> comporte huit traits.",
+          "translation": [
+            "这个汉字有八画。",
+            "zhè ge hàn zì yǒu bā huà."
+          ]
+        }
+      ]
+    },
+    {
+      "term": "dessin",
+      "pronunciation": "[desɛ̃]",
+      "grammar": "nom masculin",
+      "meanings": [
+        {
+          "context": [
+            "一般",
+            "yì bān"
+          ],
+          "contextFrench": "Dessin courant",
+          "chinese": [
+            "画",
+            "huà"
+          ],
+          "french": "dessin",
+          "usage": "image dessinée à la main, langue courante",
+          "sentence": "L’enfant montre son <mark>dessin</mark>.",
+          "translation": [
+            "孩子给我们看他的画",
+            "hái zi gěi wǒ men kàn tā de huà"
+          ]
+        },
+        {
+          "context": [
+            "艺术",
+            "yì shù"
+          ],
+          "contextFrench": "Art ou activité",
+          "chinese": [
+            "绘画",
+            "huì huà"
+          ],
+          "french": "dessin comme activité ou discipline artistique",
+          "usage": "activité, cours, apprentissage ou technique artistique",
+          "sentence": "Elle apprend le <mark>dessin</mark> depuis deux ans.",
+          "translation": [
+            "她学绘画两年了",
+            "tā xué huì huà liǎng nián le"
+          ]
+        },
+        {
+          "context": [
+            "素描",
+            "sù miáo"
+          ],
+          "contextFrench": "Crayon ou fusain",
+          "chinese": [
+            "素描",
+            "sù miáo"
+          ],
+          "french": "dessin au crayon ou au fusain",
+          "usage": "traits, ombres et volumes, généralement sans couleur",
+          "sentence": "Il a fait un <mark>dessin</mark> au crayon.",
+          "translation": [
+            "他画了一幅铅笔素描",
+            "tā huà le yì fú qiān bǐ sù miáo"
+          ]
+        },
+        {
+          "context": [
+            "装饰",
+            "zhuāng shì"
+          ],
+          "contextFrench": "Motif décoratif",
+          "chinese": [
+            "图案",
+            "tú àn"
+          ],
+          "french": "dessin décoratif ou motif",
+          "usage": "tissu, papier, objet, logo ou décoration",
+          "sentence": "Ce tissu porte un <mark>dessin</mark> géométrique.",
+          "translation": [
+            "这种布料有几何图案",
+            "zhè zhǒng bù liào yǒu jǐ hé tú àn"
+          ]
+        },
+        {
+          "context": [
+            "技术",
+            "jì shù"
+          ],
+          "contextFrench": "Plan technique",
+          "chinese": [
+            "图纸",
+            "tú zhǐ"
+          ],
+          "french": "dessin technique",
+          "usage": "architecture, mécanique, fabrication ou construction",
+          "syntax": "dessin technique",
+          "sentence": "L’ingénieur vérifie le <mark>dessin</mark> technique.",
+          "translation": [
+            "工程师在检查技术图纸",
+            "gōng chéng shī zài jiǎn chá jì shù tú zhǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "demander",
+      "pronunciation": "[dəmɑ̃de]",
+      "grammar": "verbe du 1er groupe",
+      "meanings": [
+        {
+          "context": [
+            "提问",
+            "tí wèn"
+          ],
+          "contextFrench": "Poser une question",
+          "chinese": [
+            "问",
+            "wèn"
+          ],
+          "french": "demander une information",
+          "usage": "question, renseignement, nom, heure ou raison",
+          "sentence": "Je vais lui <mark>demander</mark> son nom.",
+          "translation": [
+            "我要问他的名字",
+            "wǒ yào wèn tā de míng zi"
+          ]
+        },
+        {
+          "context": [
+            "礼貌",
+            "lǐ mào"
+          ],
+          "contextFrench": "Faire faire poliment",
+          "chinese": [
+            "请",
+            "qǐng"
+          ],
+          "french": "demander à quelqu’un de faire quelque chose",
+          "usage": "consigne ou service formulé poliment",
+          "syntax": "demander à quelqu’un de + infinitif",
+          "sentence": "Je lui <mark>demande</mark> de patienter.",
+          "translation": [
+            "我请他稍等",
+            "wǒ qǐng tā shāo děng"
+          ]
+        },
+        {
+          "context": [
+            "正式",
+            "zhèng shì"
+          ],
+          "contextFrench": "Solliciter",
+          "chinese": [
+            "请求",
+            "qǐng qiú"
+          ],
+          "french": "demander officiellement une aide ou une autorisation",
+          "usage": "aide, autorisation, soutien ou intervention",
+          "sentence": "Ils <mark>demandent</mark> l’autorisation de partir.",
+          "translation": [
+            "他们请求离开",
+            "tā men qǐng qiú lí kāi"
+          ]
+        },
+        {
+          "context": [
+            "条件",
+            "tiáo jiàn"
+          ],
+          "contextFrench": "Exiger",
+          "chinese": [
+            "要求",
+            "yāo qiú"
+          ],
+          "french": "demander avec l’idée d’une exigence",
+          "usage": "condition, résultat, qualité ou comportement attendu",
+          "sentence": "Le client <mark>demande</mark> un remboursement.",
+          "translation": [
+            "客户要求退款",
+            "kè hù yāo qiú tuì kuǎn"
+          ]
+        },
+        {
+          "context": [
+            "询问",
+            "xún wèn"
+          ],
+          "contextFrench": "Se renseigner",
+          "chinese": [
+            "打听",
+            "dǎ ting"
+          ],
+          "french": "demander des renseignements autour de soi",
+          "usage": "adresse, personne, nouvelles ou situation mal connue",
+          "sentence": "Elle <mark>demande</mark> où se trouve la gare.",
+          "translation": [
+            "她在打听火车站在哪里",
+            "tā zài dǎ ting huǒ chē zhàn zài nǎ lǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "avoir besoin de",
+      "aliases": [
+        "besoin de"
+      ],
+      "pronunciation": "[avwaʁ bəzwɛ̃ də]",
+      "grammar": "locution verbale",
+      "meanings": [
+        {
+          "context": [
+            "必要",
+            "bì yào"
+          ],
+          "contextFrench": "Nécessité",
+          "chinese": [
+            "需要",
+            "xū yào"
+          ],
+          "french": "avoir besoin de",
+          "usage": "objet, aide, temps, argent ou personne nécessaire",
+          "syntax": "avoir besoin de + nom",
+          "sentence": "J’ai <mark>besoin de</mark> temps.",
+          "translation": [
+            "我需要时间",
+            "wǒ xū yào shí jiān"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "te",
+      "pronunciation": "",
+      "grammar": "pron. pers. obj. dir. 2s. · pron. pers. obj. indir. 2s. · pron. réfl. 2s.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "你",
+            "nǐ"
+          ],
+          "french": "te",
+          "usage": "personne tutoyée qui reçoit directement l’action",
+          "syntax": "pron. pers. obj. dir. 2s.",
+          "sentence": "Je <mark>te</mark> vois.",
+          "translation": [
+            "我看见你。",
+            "wǒ kàn jiàn nǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "给你、对你、跟你",
+            "gěi nǐ duì nǐ gēn nǐ"
+          ],
+          "french": "te",
+          "usage": "personne tutoyée comme destinataire ou interlocuteur",
+          "syntax": "pron. pers. obj. indir. 2s.",
+          "sentence": "Je <mark>te</mark> donne le livre.",
+          "translation": [
+            "我把书给你。",
+            "wǒ bǎ shū gěi nǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "自己",
+            "zì jǐ"
+          ],
+          "french": "te",
+          "usage": "action du sujet tu dirigée vers lui-même, souvent non exprimée séparément en chinois",
+          "syntax": "pron. réfl. 2s.",
+          "sentence": "Tu <mark>te</mark> regardes dans le miroir.",
+          "translation": [
+            "你照镜子。",
+            "nǐ zhào jìng zi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "avec",
+      "pronunciation": "",
+      "grammar": "prép.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "和、跟",
+            "hé gēn"
+          ],
+          "french": "avec",
+          "usage": "personne ou groupe qui accompagne le sujet",
+          "syntax": "prép.",
+          "sentence": "Je viens <mark>avec</mark> elle.",
+          "translation": [
+            "我跟她一起来。",
+            "wǒ gēn tā yì qǐ lái"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "用",
+            "yòng"
+          ],
+          "french": "avec",
+          "usage": "instrument, moyen ou manière employés",
+          "syntax": "prép.",
+          "sentence": "Il écrit <mark>avec</mark> un stylo.",
+          "translation": [
+            "他用钢笔写字。",
+            "tā yòng gāng bǐ xiě zì"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "带着",
+            "dài zhe"
+          ],
+          "french": "avec",
+          "usage": "objet que l’on porte ou garde avec soi",
+          "syntax": "prép.",
+          "sentence": "Elle est sortie <mark>avec</mark> son sac.",
+          "translation": [
+            "她带着包出门了。",
+            "tā dài zhe bāo chū mén le"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "有、带有",
+            "yǒu dài yǒu"
+          ],
+          "french": "avec",
+          "usage": "caractéristique physique ou propriété associée",
+          "syntax": "prép.",
+          "sentence": "un homme <mark>avec</mark> une barbe",
+          "translation": [
+            "一个留着胡子的男人",
+            "yí gè liú zhe hú zi de nán rén"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "mon",
+      "pronunciation": "",
+      "grammar": "dét. poss. 1s.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "我的",
+            "wǒ de"
+          ],
+          "french": "mon",
+          "usage": "possession du locuteur devant un nom masculin singulier, ou féminin commençant par une voyelle ou un h muet",
+          "syntax": "dét. poss. 1s.",
+          "sentence": "<mark>Mon</mark> frère est là.",
+          "translation": [
+            "我哥哥在那里。",
+            "wǒ gē ge zài nà lǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "自己的",
+            "zì jǐ de"
+          ],
+          "french": "mon",
+          "usage": "possession du locuteur mise en relief ou rapportée au sujet je",
+          "syntax": "dét. poss. 1s.",
+          "sentence": "Je défends <mark>mon</mark> propre choix.",
+          "translation": [
+            "我坚持自己的选择。",
+            "wǒ jiān chí zì jǐ de xuǎn zé"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "sa",
+      "pronunciation": "",
+      "grammar": "dét. poss. 3s.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "他的、她的、它的",
+            "tā de tā de tā de"
+          ],
+          "french": "sa",
+          "usage": "possession devant un nom féminin singulier, selon l’identité du possesseur",
+          "syntax": "dét. poss. 3s.",
+          "sentence": "Paul cherche <mark>sa</mark> voiture.",
+          "translation": [
+            "保罗在找他的车。",
+            "bǎo luó zài zhǎo tā de chē"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "自己的",
+            "zì jǐ de"
+          ],
+          "french": "sa",
+          "usage": "possession rapportée au sujet de la phrase",
+          "syntax": "dét. poss. 3s.",
+          "sentence": "Elle aime <mark>sa</mark> maison.",
+          "translation": [
+            "她喜欢自己的房子。",
+            "tā xǐ huan zì jǐ de fáng zi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "par",
+      "pronunciation": "",
+      "grammar": "prép.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "通过、用",
+            "tōng guò yòng"
+          ],
+          "french": "par",
+          "usage": "moyen, procédé ou canal utilisé",
+          "syntax": "prép.",
+          "sentence": "Envoyez-le <mark>par</mark> courriel.",
+          "translation": [
+            "请通过电子邮件发送。",
+            "qǐng tōng guò diàn zǐ yóu jiàn fā sòng"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "被、由",
+            "bèi yóu"
+          ],
+          "french": "par",
+          "usage": "auteur d’une action dans une construction passive",
+          "syntax": "prép.",
+          "sentence": "Ce livre a été écrit <mark>par</mark> elle.",
+          "translation": [
+            "这本书是她写的。",
+            "zhè běn shū shì tā xiě de"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "每",
+            "měi"
+          ],
+          "french": "par",
+          "usage": "fréquence, répartition ou quantité par unité",
+          "syntax": "prép.",
+          "sentence": "trois fois <mark>par</mark> semaine",
+          "translation": [
+            "每周三次",
+            "měi zhōu sān cì"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "经由、从",
+            "jīng yóu cóng"
+          ],
+          "french": "par",
+          "usage": "lieu ou itinéraire par lequel on passe",
+          "syntax": "prép.",
+          "sentence": "Nous sommes passés <mark>par</mark> Lyon.",
+          "translation": [
+            "我们经由里昂。",
+            "wǒ men jīng yóu lǐ áng"
+          ]
+        },
+        {
+          "context": [
+            "语境5",
+            "yǔ jìng 5"
+          ],
+          "contextFrench": "Sens 5",
+          "chinese": [
+            "按",
+            "àn"
+          ],
+          "french": "par",
+          "usage": "classement, ordre ou critère appliqué",
+          "syntax": "prép.",
+          "sentence": "classer les dossiers <mark>par</mark> date",
+          "translation": [
+            "按日期给文件分类",
+            "àn rì qī gěi wén jiàn fēn lèi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "moi",
+      "pronunciation": "",
+      "grammar": "pron. tonique 1s.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "我",
+            "wǒ"
+          ],
+          "french": "moi",
+          "usage": "locuteur sous forme tonique, notamment après une préposition",
+          "syntax": "pron. tonique 1s.",
+          "sentence": "C’est <mark>moi</mark>.",
+          "translation": [
+            "是我。",
+            "shì wǒ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "我本人",
+            "wǒ běn rén"
+          ],
+          "french": "moi",
+          "usage": "locuteur mis en contraste ou fortement en relief",
+          "syntax": "pron. tonique 1s.",
+          "sentence": "<mark>Moi</mark>, je préfère rester.",
+          "translation": [
+            "我本人更愿意留下。",
+            "wǒ běn rén gèng yuàn yì liú xià"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "comme",
+      "pronunciation": "",
+      "grammar": "conj. · prép.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "像、如同",
+            "xiàng rú tóng"
+          ],
+          "french": "comme",
+          "usage": "comparaison entre deux personnes, choses ou manières d’agir",
+          "syntax": "conj.",
+          "sentence": "Il court <mark>comme</mark> un fou.",
+          "translation": [
+            "他跑得像疯了一样。",
+            "tā pǎo dé xiàng fēng le yí yàng"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "作为",
+            "zuò wéi"
+          ],
+          "french": "comme",
+          "usage": "fonction, qualité ou rôle attribués à quelqu’un ou quelque chose",
+          "syntax": "prép.",
+          "sentence": "<mark>Comme</mark> professeur, elle est exigeante.",
+          "translation": [
+            "作为老师，她要求很高。",
+            "zuò wéi lǎo shī tā yāo qiú hěn gāo"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "比如、例如",
+            "bǐ rú lì rú"
+          ],
+          "french": "comme",
+          "usage": "élément introduit comme exemple",
+          "syntax": "prép.",
+          "sentence": "des fruits <mark>comme</mark> les pommes",
+          "translation": [
+            "比如苹果之类的水果",
+            "bǐ rú píng guǒ zhī lèi de shuǐ guǒ"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "由于、既然",
+            "yóu yú jì rán"
+          ],
+          "french": "comme",
+          "usage": "cause déjà connue ou placée au début de la proposition",
+          "syntax": "conj.",
+          "sentence": "<mark>Comme</mark> il pleut, nous restons chez nous.",
+          "translation": [
+            "由于下雨，我们待在家里。",
+            "yóu yú xià yǔ wǒ men dài zài jiā lǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "devoir",
+      "pronunciation": "",
+      "grammar": "v. · n. m.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "得、必须",
+            "dé bì xū"
+          ],
+          "french": "devoir",
+          "usage": "nécessité concrète ou obligation forte",
+          "syntax": "v.",
+          "sentence": "Je dois partir.",
+          "translation": [
+            "我得走了。",
+            "wǒ dé zǒu le"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "应该",
+            "yīng gāi"
+          ],
+          "french": "devoir",
+          "usage": "devoir atténué, conseil ou déduction probable",
+          "syntax": "v.",
+          "sentence": "Tu devrais te reposer.",
+          "translation": [
+            "你应该休息。",
+            "nǐ yīng gāi xiū xi"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "欠",
+            "qiàn"
+          ],
+          "french": "devoir",
+          "usage": "argent, objet ou service restant à rendre",
+          "syntax": "v.",
+          "sentence": "Il me doit cent euros.",
+          "translation": [
+            "他欠我一百欧元。",
+            "tā qiàn wǒ yì bǎi ōu yuán"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "作业",
+            "zuò yè"
+          ],
+          "french": "devoir",
+          "usage": "travail scolaire à faire",
+          "syntax": "n. m.",
+          "sentence": "J’ai fini mes devoirs.",
+          "translation": [
+            "我做完作业了。",
+            "wǒ zuò wán zuò yè le"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "tout",
+      "pronunciation": "",
+      "grammar": "pron. indéf. · dét. indéf. · adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "全部、一切",
+            "quán bù yí qiè"
+          ],
+          "french": "tout",
+          "usage": "ensemble complet pris comme pronom",
+          "syntax": "pron. indéf.",
+          "sentence": "<mark>Tout</mark> est prêt.",
+          "translation": [
+            "一切都准备好了。",
+            "yí qiè dōu zhǔn bèi hǎo le"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "整个、所有",
+            "zhěng gè suǒ yǒu"
+          ],
+          "french": "tout",
+          "usage": "totalité d’une durée, d’un espace ou d’un ensemble nominal",
+          "syntax": "dét. indéf.",
+          "sentence": "Il a plu toute la journée.",
+          "translation": [
+            "下了一整天雨。",
+            "xià le yì zhěng tiān yǔ"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "每个、任何",
+            "měi gè rèn hé"
+          ],
+          "french": "tout",
+          "usage": "ensemble envisagé élément par élément avec un nom singulier",
+          "syntax": "dét. indéf.",
+          "sentence": "Toute personne peut participer.",
+          "translation": [
+            "任何人都可以参加。",
+            "rèn hé rén dōu kě yǐ cān jiā"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "完全、很",
+            "wán quán hěn"
+          ],
+          "french": "tout",
+          "usage": "renforcement d’un adjectif ou d’un adverbe",
+          "syntax": "adv.",
+          "sentence": "C’est <mark>tout</mark> à fait normal.",
+          "translation": [
+            "这完全正常。",
+            "zhè wán quán zhèng cháng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ses",
+      "pronunciation": "",
+      "grammar": "dét. poss. 3s. plur.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "他的、她的、它的",
+            "tā de tā de tā de"
+          ],
+          "french": "ses",
+          "usage": "possession devant plusieurs objets possédés",
+          "syntax": "dét. poss. 3s. plur.",
+          "sentence": "Paul a perdu <mark>ses</mark> clés.",
+          "translation": [
+            "保罗丢了他的钥匙。",
+            "bǎo luó diū le tā de yào shi"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "自己的",
+            "zì jǐ de"
+          ],
+          "french": "ses",
+          "usage": "plusieurs objets possédés par le sujet de la phrase",
+          "syntax": "dét. poss. 3s. plur.",
+          "sentence": "Elle range <mark>ses</mark> affaires.",
+          "translation": [
+            "她在收拾自己的东西。",
+            "tā zài shōu shí zì jǐ de dōng xī"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ils",
+      "pronunciation": "",
+      "grammar": "pron. pers. suj. 3m. plur.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "他们",
+            "tā men"
+          ],
+          "french": "ils",
+          "usage": "plusieurs personnes comprenant au moins un homme, ou groupe de genre non précisé",
+          "syntax": "pron. pers. suj. 3m. plur.",
+          "sentence": "<mark>Ils</mark> arrivent demain.",
+          "translation": [
+            "他们明天到。",
+            "tā men míng tiān dào"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "它们",
+            "tā men"
+          ],
+          "french": "ils",
+          "usage": "plusieurs animaux ou choses repris par un nom masculin ou un groupe mixte en français",
+          "syntax": "pron. pers. suj. 3m. plur.",
+          "sentence": "Ces appareils sont neufs, mais <mark>ils</mark> coûtent cher.",
+          "translation": [
+            "这些设备是新的，但是它们很贵。",
+            "zhè xiē shè bèi shì xīn de dàn shì tā men hěn guì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "venir",
+      "pronunciation": "",
+      "grammar": "v. · v. venir de",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "来、过来",
+            "lái guò lái"
+          ],
+          "french": "venir",
+          "usage": "déplacement vers le locuteur ou le point de référence",
+          "syntax": "v.",
+          "sentence": "Viens ici.",
+          "translation": [
+            "到这里来。",
+            "dào zhè lǐ lái"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "来到",
+            "lái dào"
+          ],
+          "french": "venir",
+          "usage": "arrivée en un lieu",
+          "syntax": "v.",
+          "sentence": "Elle est venue à Paris en juin.",
+          "translation": [
+            "她六月来到了巴黎。",
+            "tā liù yuè lái dào le bā lí"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "来访",
+            "lái fǎng"
+          ],
+          "french": "venir",
+          "usage": "visite rendue à une personne ou à une institution",
+          "syntax": "v.",
+          "sentence": "Le médecin viendra demain.",
+          "translation": [
+            "医生明天来访。",
+            "yī shēng míng tiān lái fǎng"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "来自",
+            "lái zì"
+          ],
+          "french": "venir",
+          "usage": "origine géographique, sociale ou matérielle",
+          "syntax": "v. venir de",
+          "sentence": "Ce café vient du Brésil.",
+          "translation": [
+            "这种咖啡来自巴西。",
+            "zhè zhǒng kā fēi lái zì bā xī"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "toi",
+      "pronunciation": "",
+      "grammar": "pron. tonique 2s.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "你",
+            "nǐ"
+          ],
+          "french": "toi",
+          "usage": "personne tutoyée sous forme tonique, notamment après une préposition",
+          "syntax": "pron. tonique 2s.",
+          "sentence": "Je viens avec <mark>toi</mark>.",
+          "translation": [
+            "我跟你一起来。",
+            "wǒ gēn nǐ yì qǐ lái"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "你本人",
+            "nǐ běn rén"
+          ],
+          "french": "toi",
+          "usage": "personne tutoyée mise en contraste ou fortement en relief",
+          "syntax": "pron. tonique 2s.",
+          "sentence": "<mark>Toi</mark>, tu peux décider.",
+          "translation": [
+            "你本人可以决定。",
+            "nǐ běn rén kě yǐ jué dìng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ou",
+      "pronunciation": "",
+      "grammar": "conj. · conj. interr.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "或、或者",
+            "huò huò zhě"
+          ],
+          "french": "ou",
+          "usage": "choix ou possibilité dans une déclaration",
+          "syntax": "conj.",
+          "sentence": "Vous pouvez payer en espèces <mark>ou</mark> par carte.",
+          "translation": [
+            "您可以付现金或者刷卡。",
+            "nín kě yǐ fù xiàn jīn huò zhě shuā kǎ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "还是",
+            "hái shì"
+          ],
+          "french": "ou",
+          "usage": "choix proposé dans une question",
+          "syntax": "conj. interr.",
+          "sentence": "Tu veux du thé <mark>ou</mark> du café ?",
+          "translation": [
+            "你想喝茶还是咖啡？",
+            "nǐ xiǎng hē chá hái shì kā fēi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ici",
+      "pronunciation": "",
+      "grammar": "adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "这里、这儿",
+            "zhè lǐ zhè ér"
+          ],
+          "french": "ici",
+          "usage": "lieu où se trouve le locuteur ou situé tout près de lui",
+          "syntax": "adv.",
+          "sentence": "Je travaille <mark>ici</mark>.",
+          "translation": [
+            "我在这里工作。",
+            "wǒ zài zhè lǐ gōng zuò"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "在这里、到这里",
+            "zài zhè lǐ dào zhè lǐ"
+          ],
+          "french": "ici",
+          "usage": "position ou destination correspondant à ce lieu",
+          "syntax": "adv.",
+          "sentence": "Venez <mark>ici</mark>, s’il vous plaît.",
+          "translation": [
+            "请到这里来。",
+            "qǐng dào zhè lǐ lái"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "rien",
+      "pronunciation": "",
+      "grammar": "pron. indéf. nég. · adv. nég. soutenu",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "没什么、没有什么",
+            "méi shén me méi yǒu shén me"
+          ],
+          "french": "rien",
+          "usage": "absence totale de chose, de fait ou de contenu",
+          "syntax": "pron. indéf. nég.",
+          "sentence": "Je n’ai <mark>rien</mark> trouvé.",
+          "translation": [
+            "我什么也没找到。",
+            "wǒ shén me yě méi zhǎo dào"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "什么也不……",
+            "shén me yě bù"
+          ],
+          "french": "rien",
+          "usage": "négation portant sur toute chose ou toute action possible",
+          "syntax": "pron. indéf. nég.",
+          "sentence": "<mark>Rien</mark> ne bouge.",
+          "translation": [
+            "什么也没有动。",
+            "shén me yě méi yǒu dòng"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "丝毫不……",
+            "sī háo bù"
+          ],
+          "french": "rien",
+          "usage": "négation renforcée d’un degré ou d’un effet",
+          "syntax": "adv. nég. soutenu",
+          "sentence": "Cela ne change <mark>rien</mark> du tout.",
+          "translation": [
+            "这丝毫不会改变什么。",
+            "zhè sī háo bú huì gǎi biàn shén me"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ma",
+      "pronunciation": "",
+      "grammar": "dét. poss. 1s. f.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "我的",
+            "wǒ de"
+          ],
+          "french": "ma",
+          "usage": "possession du locuteur devant un nom féminin singulier commençant par une consonne",
+          "syntax": "dét. poss. 1s. f.",
+          "sentence": "<mark>Ma</mark> sœur habite ici.",
+          "translation": [
+            "我姐姐住在这里。",
+            "wǒ jiě jie zhù zài zhè lǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "自己的",
+            "zì jǐ de"
+          ],
+          "french": "ma",
+          "usage": "possession du locuteur rapportée au sujet je",
+          "syntax": "dét. poss. 1s. f.",
+          "sentence": "Je prends <mark>ma</mark> propre décision.",
+          "translation": [
+            "我自己做决定。",
+            "wǒ zì jǐ zuò jué dìng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "cette",
+      "pronunciation": "",
+      "grammar": "dét. dém. f.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "这、这个",
+            "zhè zhè ge"
+          ],
+          "french": "cette",
+          "usage": "nom féminin proche, présent ou au centre du propos",
+          "syntax": "dét. dém. f.",
+          "sentence": "<mark>Cette</mark> table est libre.",
+          "translation": [
+            "这张桌子空着。",
+            "zhè zhāng zhuō zi kōng zhe"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "那、那个",
+            "nà nà ge"
+          ],
+          "french": "cette",
+          "usage": "nom féminin plus éloigné ou déjà évoqué",
+          "syntax": "dét. dém. f.",
+          "sentence": "Je n’ai pas oublié <mark>cette</mark> histoire.",
+          "translation": [
+            "我没有忘记那件事。",
+            "wǒ méi yǒu wàng jì nà jiàn shì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "sans",
+      "pronunciation": "",
+      "grammar": "prép. · prép. + inf. · prép. soutenu",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "没有、不带",
+            "méi yǒu bú dài"
+          ],
+          "french": "sans",
+          "usage": "absence d’une personne, d’un objet ou d’une caractéristique",
+          "syntax": "prép.",
+          "sentence": "un café <mark>sans</mark> sucre",
+          "translation": [
+            "一杯不加糖的咖啡",
+            "yì bēi bù jiā táng de kā fēi"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "不、未",
+            "bù wèi"
+          ],
+          "french": "sans",
+          "usage": "action non réalisée dans la construction sans + infinitif",
+          "syntax": "prép. + inf.",
+          "sentence": "Il est parti <mark>sans</mark> dire au revoir.",
+          "translation": [
+            "他没告别就走了。",
+            "tā méi gào bié jiù zǒu le"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "无",
+            "wú"
+          ],
+          "french": "sans",
+          "usage": "absence exprimée dans un composé ou un registre écrit",
+          "syntax": "prép. soutenu",
+          "sentence": "un service <mark>sans</mark> frais",
+          "translation": [
+            "一项免费服务",
+            "yí xiàng miǎn fèi fú wù"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "où",
+      "pronunciation": "",
+      "grammar": "adv. interr. · adv. rel. · adv. interr., rel.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "哪里、哪儿",
+            "nǎ lǐ nǎ ér"
+          ],
+          "french": "où",
+          "usage": "lieu demandé dans une question directe ou indirecte",
+          "syntax": "adv. interr.",
+          "sentence": "<mark>Où</mark> habitez-vous ?",
+          "translation": [
+            "您住在哪里？",
+            "nín zhù zài nǎ lǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "在……的地方",
+            "zài de dì fāng"
+          ],
+          "french": "où",
+          "usage": "lieu repris par une proposition relative",
+          "syntax": "adv. rel.",
+          "sentence": "Voici la maison <mark>où</mark> je suis né.",
+          "translation": [
+            "这就是我出生的地方。",
+            "zhè jiù shì wǒ chū shēng de dì fāng"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "什么时候、……的时候",
+            "shén me shí hòu de shí hòu"
+          ],
+          "french": "où",
+          "usage": "moment demandé ou repris dans un emploi temporel",
+          "syntax": "adv. interr., rel.",
+          "sentence": "Le jour <mark>où</mark> il est arrivé, il pleuvait.",
+          "translation": [
+            "他到的那天下着雨。",
+            "tā dào de nà tiān xià zhe yǔ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "si",
+      "pronunciation": "",
+      "grammar": "conj. · adv. · adv. de réponse",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "如果、要是",
+            "rú guǒ yào shi"
+          ],
+          "french": "si",
+          "usage": "condition nécessaire ou hypothétique",
+          "syntax": "conj.",
+          "sentence": "<mark>Si</mark> tu veux, nous pouvons partir.",
+          "translation": [
+            "如果你愿意，我们可以走。",
+            "rú guǒ nǐ yuàn yì wǒ men kě yǐ zǒu"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "是否",
+            "shì fǒu"
+          ],
+          "french": "si",
+          "usage": "question indirecte portant sur une alternative oui ou non",
+          "syntax": "conj.",
+          "sentence": "Je ne sais pas s’il viendra.",
+          "translation": [
+            "我不知道他是否会来。",
+            "wǒ bù zhī dào tā shì fǒu huì lái"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "这么、那么",
+            "zhè me nà me"
+          ],
+          "french": "si",
+          "usage": "degré particulièrement élevé",
+          "syntax": "adv.",
+          "sentence": "Il n’est pas <mark>si</mark> grand.",
+          "translation": [
+            "他没有那么高。",
+            "tā méi yǒu nà me gāo"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "不，我……",
+            "bù wǒ"
+          ],
+          "french": "si",
+          "usage": "réponse qui contredit une question ou une affirmation négative",
+          "syntax": "adv. de réponse",
+          "sentence": "— Tu ne viens pas ? — <mark>Si</mark>, je viens.",
+          "translation": [
+            "—你不来吗？—不，我来。",
+            "nǐ bù lái ma bù wǒ lái"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "là",
+      "pronunciation": "",
+      "grammar": "adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "那里、那儿",
+            "nà lǐ nà ér"
+          ],
+          "french": "là",
+          "usage": "lieu désigné comme distinct d’ici",
+          "syntax": "adv.",
+          "sentence": "Posez le sac <mark>là</mark>.",
+          "translation": [
+            "把包放在那里。",
+            "bǎ bāo fàng zài nà lǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "在这里、在那里",
+            "zài zhè lǐ zài nà lǐ"
+          ],
+          "french": "là",
+          "usage": "position précise indiquée dans la situation",
+          "syntax": "adv.",
+          "sentence": "Je suis <mark>là</mark>.",
+          "translation": [
+            "我在这里。",
+            "wǒ zài zhè lǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "这、那",
+            "zhè nà"
+          ],
+          "french": "là",
+          "usage": "élément montré ou repris dans le discours, souvent en opposition à ici",
+          "syntax": "adv.",
+          "sentence": "Cette fois-<mark>là</mark>, nous avons gagné.",
+          "translation": [
+            "那一次我们赢了。",
+            "nà yí cì wǒ men yíng le"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "suivre",
+      "pronunciation": "",
+      "grammar": "v.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "跟随、跟",
+            "gēn suí gēn"
+          ],
+          "french": "suivre",
+          "usage": "déplacement derrière une personne ou un objet",
+          "syntax": "v.",
+          "sentence": "Le chien suit son maître.",
+          "translation": [
+            "狗跟着主人。",
+            "gǒu gēn zhe zhǔ rén"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "遵循、按照",
+            "zūn xún àn zhào"
+          ],
+          "french": "suivre",
+          "usage": "application d’une règle, d’un conseil ou d’un itinéraire",
+          "syntax": "v.",
+          "sentence": "Suivez les instructions.",
+          "translation": [
+            "请遵循说明。",
+            "qǐng zūn xún shuō míng"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "接着、继续",
+            "jiē zhe jì xù"
+          ],
+          "french": "suivre",
+          "usage": "enchaînement dans le temps, un récit ou une procédure",
+          "syntax": "v.",
+          "sentence": "La suite du récit suivra demain.",
+          "translation": [
+            "故事明天继续。",
+            "gù shì míng tiān jì xù"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "听懂、跟上",
+            "tīng dǒng gēn shàng"
+          ],
+          "french": "suivre",
+          "usage": "capacité à comprendre une explication ou à suivre un rythme",
+          "syntax": "v.",
+          "sentence": "Je n’arrive pas à <mark>suivre</mark>.",
+          "translation": [
+            "我跟不上。",
+            "wǒ gēn bú shàng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "parler",
+      "pronunciation": "",
+      "grammar": "v.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "说、说话",
+            "shuō shuō huà"
+          ],
+          "french": "parler",
+          "usage": "production de paroles",
+          "syntax": "v.",
+          "sentence": "Il parle doucement.",
+          "translation": [
+            "他说话很轻。",
+            "tā shuō huà hěn qīng"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "讲、说",
+            "jiǎng shuō"
+          ],
+          "french": "parler",
+          "usage": "usage ou maîtrise d’une langue",
+          "syntax": "v.",
+          "sentence": "Elle parle chinois.",
+          "translation": [
+            "她会说汉语。",
+            "tā huì shuō hàn yǔ"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "谈、谈论",
+            "tán tán lùn"
+          ],
+          "french": "parler",
+          "usage": "sujet abordé dans parler de",
+          "syntax": "v.",
+          "sentence": "Nous parlons de ce problème.",
+          "translation": [
+            "我们在谈这个问题。",
+            "wǒ men zài tán zhè ge wèn tí"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "跟……说话、对……说",
+            "gēn shuō huà duì shuō"
+          ],
+          "french": "parler",
+          "usage": "interlocuteur auquel on s’adresse dans parler à",
+          "syntax": "v.",
+          "sentence": "Je dois <mark>parler</mark> au directeur.",
+          "translation": [
+            "我得跟经理说话。",
+            "wǒ dé gēn jīng lǐ shuō huà"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "prendre",
+      "pronunciation": "",
+      "grammar": "v.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "拿、取",
+            "ná qǔ"
+          ],
+          "french": "prendre",
+          "usage": "objet saisi, choisi ou emporté",
+          "syntax": "v.",
+          "sentence": "Prenez ce livre.",
+          "translation": [
+            "拿这本书。",
+            "ná zhè běn shū"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "坐、乘",
+            "zuò chéng"
+          ],
+          "french": "prendre",
+          "usage": "moyen de transport utilisé",
+          "syntax": "v.",
+          "sentence": "Je prends le métro.",
+          "translation": [
+            "我坐地铁。",
+            "wǒ zuò dì tiě"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "吃、喝",
+            "chī hē"
+          ],
+          "french": "prendre",
+          "usage": "repas, aliment, boisson ou médicament consommés",
+          "syntax": "v.",
+          "sentence": "Il prend un café.",
+          "translation": [
+            "他喝咖啡。",
+            "tā hē kā fēi"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "需要、花",
+            "xū yào huā"
+          ],
+          "french": "prendre",
+          "usage": "temps nécessaire à une action",
+          "syntax": "v.",
+          "sentence": "Cela prend deux heures.",
+          "translation": [
+            "这需要两个小时。",
+            "zhè xū yào liǎng gè xiǎo shí"
+          ]
+        },
+        {
+          "context": [
+            "语境5",
+            "yǔ jìng 5"
+          ],
+          "contextFrench": "Sens 5",
+          "chinese": [
+            "做出、采取",
+            "zuò chū cǎi qǔ"
+          ],
+          "french": "prendre",
+          "usage": "décision, mesure ou position adoptée",
+          "syntax": "v.",
+          "sentence": "Elle a pris une décision.",
+          "translation": [
+            "她做出了决定。",
+            "tā zuò chū le jué dìng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "aux",
+      "pronunciation": "",
+      "grammar": "art. contracté",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "在、到",
+            "zài dào"
+          ],
+          "french": "aux",
+          "usage": "lieu ou destination avec à + les",
+          "syntax": "art. contracté",
+          "sentence": "Nous allons <mark>aux</mark> États-Unis.",
+          "translation": [
+            "我们要去美国。",
+            "wǒ men yào qù měi guó"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "向、给、跟",
+            "xiàng gěi gēn"
+          ],
+          "french": "aux",
+          "usage": "plusieurs destinataires, bénéficiaires ou interlocuteurs avec à + les",
+          "syntax": "art. contracté",
+          "sentence": "Il parle <mark>aux</mark> étudiants.",
+          "translation": [
+            "他在跟学生们说话。",
+            "tā zài gēn xué shēng men shuō huà"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "用于、关于",
+            "yòng yú guān yú"
+          ],
+          "french": "aux",
+          "usage": "usage, domaine ou thème avec à + les",
+          "syntax": "art. contracté",
+          "sentence": "un médicament destiné <mark>aux</mark> enfants",
+          "translation": [
+            "一种儿童用药",
+            "yì zhǒng ér tóng yòng yào"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "votre",
+      "pronunciation": "",
+      "grammar": "dét. poss. 2s. politesse · dét. poss. 2p.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "您的",
+            "nín de"
+          ],
+          "french": "votre",
+          "usage": "possession d’une personne à laquelle on s’adresse poliment",
+          "syntax": "dét. poss. 2s. politesse",
+          "sentence": "<mark>Votre</mark> passeport, s’il vous plaît.",
+          "translation": [
+            "请出示您的护照。",
+            "qǐng chū shì nín de hù zhào"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "你们的",
+            "nǐ men de"
+          ],
+          "french": "votre",
+          "usage": "possession de plusieurs interlocuteurs",
+          "syntax": "dét. poss. 2p.",
+          "sentence": "<mark>Votre</mark> maison est très belle.",
+          "translation": [
+            "你们的房子很漂亮。",
+            "nǐ men de fáng zi hěn piào liang"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "quand",
+      "pronunciation": "",
+      "grammar": "adv. interr. · conj. temp.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "什么时候",
+            "shén me shí hòu"
+          ],
+          "french": "quand",
+          "usage": "moment demandé dans une question directe ou indirecte",
+          "syntax": "adv. interr.",
+          "sentence": "<mark>Quand</mark> partez-vous ?",
+          "translation": [
+            "您什么时候走？",
+            "nín shén me shí hòu zǒu"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "当……时、……的时候",
+            "dāng shí de shí hòu"
+          ],
+          "french": "quand",
+          "usage": "moment auquel se produit une autre action",
+          "syntax": "conj. temp.",
+          "sentence": "Appelez-moi <mark>quand</mark> vous arriverez.",
+          "translation": [
+            "您到了以后给我打电话。",
+            "nín dào le yǐ hòu gěi wǒ dǎ diàn huà"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "alors",
+      "pronunciation": "",
+      "grammar": "adv. · loc. adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "那么",
+            "nà me"
+          ],
+          "french": "alors",
+          "usage": "reprise du propos, transition ou demande de conclusion",
+          "syntax": "adv.",
+          "sentence": "<mark>Alors</mark>, qu’en pensez-vous ?",
+          "translation": [
+            "那么，您怎么看？",
+            "nà me nín zěn me kàn"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "当时、那时",
+            "dāng shí nà shí"
+          ],
+          "french": "alors",
+          "usage": "moment passé déjà mentionné",
+          "syntax": "adv.",
+          "sentence": "J’habitais <mark>alors</mark> à Lyon.",
+          "translation": [
+            "我当时住在里昂。",
+            "wǒ dāng shí zhù zài lǐ áng"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "于是、所以",
+            "yú shì suǒ yǐ"
+          ],
+          "french": "alors",
+          "usage": "conséquence de ce qui précède",
+          "syntax": "adv.",
+          "sentence": "Il était tard, <mark>alors</mark> nous sommes partis.",
+          "translation": [
+            "时间很晚了，所以我们走了。",
+            "shí jiān hěn wǎn le suǒ yǐ wǒ men zǒu le"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "既然这样",
+            "jì rán zhè yàng"
+          ],
+          "french": "alors",
+          "usage": "décision tirée d’une situation déjà établie",
+          "syntax": "loc. adv.",
+          "sentence": "<mark>Alors</mark>, restons ici.",
+          "translation": [
+            "既然这样，我们就留在这里吧。",
+            "jì rán zhè yàng wǒ men jiù liú zài zhè lǐ ba"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "chose",
+      "pronunciation": "",
+      "grammar": "n. f. · n. f. soutenu",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "东西",
+            "dōng xī"
+          ],
+          "french": "chose",
+          "usage": "objet concret dont le nom n’est pas précisé",
+          "syntax": "n. f.",
+          "sentence": "J’ai acheté quelque <mark>chose</mark>.",
+          "translation": [
+            "我买了点东西。",
+            "wǒ mǎi le diǎn dōng xī"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "事情",
+            "shì qíng"
+          ],
+          "french": "chose",
+          "usage": "fait, événement, tâche ou problème",
+          "syntax": "n. f.",
+          "sentence": "J’ai une <mark>chose</mark> importante à vous dire.",
+          "translation": [
+            "我有一件重要的事情要告诉您。",
+            "wǒ yǒu yí jiàn zhòng yào de shì qíng yào gào sù nín"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "事物",
+            "shì wù"
+          ],
+          "french": "chose",
+          "usage": "réalité concrète ou abstraite envisagée comme catégorie",
+          "syntax": "n. f. soutenu",
+          "sentence": "Il faut distinguer les choses et les mots.",
+          "translation": [
+            "应当区分事物和词语。",
+            "yīng dāng qū fēn shì wù hé cí yǔ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ton",
+      "pronunciation": "",
+      "grammar": "dét. poss. 2s. · n. m.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "你的",
+            "nǐ de"
+          ],
+          "french": "ton",
+          "usage": "possession devant un nom masculin singulier, ou féminin commençant par une voyelle ou un h muet",
+          "syntax": "dét. poss. 2s.",
+          "sentence": "<mark>Ton</mark> téléphone sonne.",
+          "translation": [
+            "你的手机响了。",
+            "nǐ de shǒu jī xiǎng le"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "语气",
+            "yǔ qì"
+          ],
+          "french": "ton",
+          "usage": "manière ou attitude perceptible dans la parole",
+          "syntax": "n. m.",
+          "sentence": "Ne me parle pas sur ce <mark>ton</mark>.",
+          "translation": [
+            "别用这种语气跟我说话。",
+            "bié yòng zhè zhǒng yǔ qì gēn wǒ shuō huà"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "声调",
+            "shēng diào"
+          ],
+          "french": "ton",
+          "usage": "hauteur distinctive d’une syllabe dans une langue tonale",
+          "syntax": "n. m.",
+          "sentence": "Le mandarin a quatre tons principaux.",
+          "translation": [
+            "普通话有四个主要声调。",
+            "pǔ tōng huà yǒu sì gè zhǔ yào shēng diào"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "音调、音色",
+            "yīn diào yīn sè"
+          ],
+          "french": "ton",
+          "usage": "hauteur ou qualité d’un son ou d’une voix",
+          "syntax": "n. m.",
+          "sentence": "J’aime le <mark>ton</mark> de sa voix.",
+          "translation": [
+            "我喜欢她的音色。",
+            "wǒ xǐ huan tā de yīn sè"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "croire",
+      "pronunciation": "",
+      "grammar": "v.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "相信",
+            "xiāng xìn"
+          ],
+          "french": "croire",
+          "usage": "fait de tenir une information ou une personne pour digne de foi",
+          "syntax": "v.",
+          "sentence": "Je crois ce qu’il dit.",
+          "translation": [
+            "我相信他说的话。",
+            "wǒ xiāng xìn tā shuō de huà"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "认为、觉得",
+            "rèn wéi jué de"
+          ],
+          "french": "croire",
+          "usage": "opinion ou estimation personnelle",
+          "syntax": "v.",
+          "sentence": "Je crois qu’il a raison.",
+          "translation": [
+            "我认为他是对的。",
+            "wǒ rèn wéi tā shì duì de"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "以为",
+            "yǐ wéi"
+          ],
+          "french": "croire",
+          "usage": "conviction ensuite présentée comme erronée ou incertaine",
+          "syntax": "v.",
+          "sentence": "Je croyais que le magasin était ouvert.",
+          "translation": [
+            "我以为商店开着。",
+            "wǒ yǐ wéi shāng diàn kāi zhe"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "信、信仰",
+            "xìn xìn yǎng"
+          ],
+          "french": "croire",
+          "usage": "adhésion religieuse ou confiance exprimée avec croire en",
+          "syntax": "v.",
+          "sentence": "Elle croit en Dieu.",
+          "translation": [
+            "她信仰上帝。",
+            "tā xìn yǎng shàng dì"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "aimer",
+      "pronunciation": "",
+      "grammar": "v.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "喜欢",
+            "xǐ huan"
+          ],
+          "french": "aimer",
+          "usage": "goût pour une personne, une chose ou une activité",
+          "syntax": "v.",
+          "sentence": "J’aime la musique.",
+          "translation": [
+            "我喜欢音乐。",
+            "wǒ xǐ huan yīn yuè"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "爱",
+            "ài"
+          ],
+          "french": "aimer",
+          "usage": "attachement affectif profond",
+          "syntax": "v.",
+          "sentence": "Il aime profondément sa famille.",
+          "translation": [
+            "他深爱自己的家人。",
+            "tā shēn ài zì jǐ de jiā rén"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "愿意、想",
+            "yuàn yì xiǎng"
+          ],
+          "french": "aimer",
+          "usage": "souhait formulé avec aimer ou aimer bien + infinitif",
+          "syntax": "v.",
+          "sentence": "J’aimerais vous poser une question.",
+          "translation": [
+            "我想问您一个问题。",
+            "wǒ xiǎng wèn nín yí gè wèn tí"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "falloir",
+      "pronunciation": "",
+      "grammar": "v. impers.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "要、得",
+            "yào dé"
+          ],
+          "french": "falloir",
+          "usage": "nécessité pratique exprimée dans une tournure impersonnelle",
+          "syntax": "v. impers.",
+          "sentence": "Il faut partir maintenant.",
+          "translation": [
+            "现在得走了。",
+            "xiàn zài dé zǒu le"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "需要",
+            "xū yào"
+          ],
+          "french": "falloir",
+          "usage": "quantité, objet, temps ou personne nécessaires",
+          "syntax": "v. impers.",
+          "sentence": "Il faut du temps.",
+          "translation": [
+            "这需要时间。",
+            "zhè xū yào shí jiān"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "应该",
+            "yīng gāi"
+          ],
+          "french": "falloir",
+          "usage": "conseil, comportement souhaitable ou conclusion logique",
+          "syntax": "v. impers.",
+          "sentence": "Il faut respecter les autres.",
+          "translation": [
+            "应该尊重别人。",
+            "yīng gāi zūn zhòng bié rén"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "très",
+      "pronunciation": "",
+      "grammar": "adv. · adv. soutenu · adv. exclam.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "很、非常",
+            "hěn fēi cháng"
+          ],
+          "french": "très",
+          "usage": "degré élevé d’une qualité ou d’une manière",
+          "syntax": "adv.",
+          "sentence": "Elle est <mark>très</mark> gentille.",
+          "translation": [
+            "她非常友善。",
+            "tā fēi cháng yǒu shàn"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "十分",
+            "shí fēn"
+          ],
+          "french": "très",
+          "usage": "degré élevé dans un registre plus formel",
+          "syntax": "adv. soutenu",
+          "sentence": "Cette question est <mark>très</mark> importante.",
+          "translation": [
+            "这个问题十分重要。",
+            "zhè ge wèn tí shí fēn zhòng yào"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "太",
+            "tài"
+          ],
+          "french": "très",
+          "usage": "forte intensité exprimée avec admiration ou émotion, sans idée obligatoire d’excès",
+          "syntax": "adv. exclam.",
+          "sentence": "C’est <mark>très</mark> beau !",
+          "translation": [
+            "太美了！",
+            "tài měi le"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "encore",
+      "pronunciation": "",
+      "grammar": "adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "还、仍然",
+            "hái réng rán"
+          ],
+          "french": "encore",
+          "usage": "état ou action qui continue",
+          "syntax": "adv.",
+          "sentence": "Il dort <mark>encore</mark>.",
+          "translation": [
+            "他还在睡。",
+            "tā hái zài shuì"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "再、又",
+            "zài yòu"
+          ],
+          "french": "encore",
+          "usage": "répétition d’une action, prévue ou constatée",
+          "syntax": "adv.",
+          "sentence": "Lisez <mark>encore</mark> une fois.",
+          "translation": [
+            "再读一遍。",
+            "zài dú yí biàn"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "还有",
+            "hái yǒu"
+          ],
+          "french": "encore",
+          "usage": "élément ou quantité ajoutés",
+          "syntax": "adv.",
+          "sentence": "Il reste <mark>encore</mark> deux places.",
+          "translation": [
+            "还有两个位子。",
+            "hái yǒu liǎng gè wèi zǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "更",
+            "gèng"
+          ],
+          "french": "encore",
+          "usage": "degré comparatif renforcé",
+          "syntax": "adv.",
+          "sentence": "C’est <mark>encore</mark> mieux.",
+          "translation": [
+            "这样更好。",
+            "zhè yàng gèng hǎo"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "quoi",
+      "pronunciation": "",
+      "grammar": "pron. interr. · marqueur discursif fam.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "什么",
+            "shén me"
+          ],
+          "french": "quoi",
+          "usage": "chose demandée après une préposition ou sans nom exprimé",
+          "syntax": "pron. interr.",
+          "sentence": "De <mark>quoi</mark> parlez-vous ?",
+          "translation": [
+            "您在说什么？",
+            "nín zài shuō shén me"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "哪件事",
+            "nǎ jiàn shì"
+          ],
+          "french": "quoi",
+          "usage": "demande de précision sur un fait ou un sujet",
+          "syntax": "pron. interr.",
+          "sentence": "<mark>Quoi</mark> exactement ?",
+          "translation": [
+            "具体是哪件事？",
+            "jù tǐ shì nǎ jiàn shì"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "什么、怎么",
+            "shén me zěn me"
+          ],
+          "french": "quoi",
+          "usage": "réaction de surprise, d’incompréhension ou de protestation",
+          "syntax": "marqueur discursif fam.",
+          "sentence": "<mark>Quoi</mark> ? Tu pars déjà ?",
+          "translation": [
+            "什么？你已经要走了？",
+            "shén me nǐ yǐ jīng yào zǒu le"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "deux",
+      "pronunciation": "",
+      "grammar": "adj. num. card.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "二",
+            "èr"
+          ],
+          "french": "deux",
+          "usage": "nombre abstrait, numéro, date, calcul ou lecture chiffre par chiffre",
+          "syntax": "adj. num. card.",
+          "sentence": "<mark>deux</mark> plus deux font quatre",
+          "translation": [
+            "二加二等于四",
+            "èr jiā èr děng yú sì"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "两",
+            "liǎng"
+          ],
+          "french": "deux",
+          "usage": "deux personnes ou choses devant un classificateur",
+          "syntax": "adj. num. card.",
+          "sentence": "<mark>deux</mark> personnes",
+          "translation": [
+            "两个人",
+            "liǎng gè rén"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "bon",
+      "pronunciation": "",
+      "grammar": "adj. · adj. fam.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "好",
+            "hǎo"
+          ],
+          "french": "bon",
+          "usage": "qualité, état ou résultat satisfaisants",
+          "syntax": "adj.",
+          "sentence": "C’est un <mark>bon</mark> résultat.",
+          "translation": [
+            "这是一个好结果。",
+            "zhè shì yí gè hǎo jié guǒ"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "好吃、可口",
+            "hǎo chī kě kǒu"
+          ],
+          "french": "bon",
+          "usage": "goût agréable d’un aliment",
+          "syntax": "adj.",
+          "sentence": "Cette soupe est bonne.",
+          "translation": [
+            "这个汤很好喝。",
+            "zhè ge tāng hěn hǎo hē"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "棒、行",
+            "bàng xíng"
+          ],
+          "french": "bon",
+          "usage": "approbation ou acceptation dans la langue familière",
+          "syntax": "adj. fam.",
+          "sentence": "<mark>Bon</mark>, on y va.",
+          "translation": [
+            "行，我们走吧。",
+            "xíng wǒ men zǒu ba"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "善良",
+            "shàn liáng"
+          ],
+          "french": "bon",
+          "usage": "qualité morale d’une personne",
+          "syntax": "adj.",
+          "sentence": "C’est une bonne personne.",
+          "translation": [
+            "这是一个善良的人。",
+            "zhè shì yí gè shàn liáng de rén"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "ces",
+      "pronunciation": "",
+      "grammar": "dét. dém. plur.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "这些",
+            "zhè xiē"
+          ],
+          "french": "ces",
+          "usage": "plusieurs personnes ou choses proches ou au centre du propos",
+          "syntax": "dét. dém. plur.",
+          "sentence": "<mark>Ces</mark> livres sont à moi.",
+          "translation": [
+            "这些书是我的。",
+            "zhè xiē shū shì wǒ de"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "那些",
+            "nà xiē"
+          ],
+          "french": "ces",
+          "usage": "plusieurs personnes ou choses plus éloignées ou déjà évoquées",
+          "syntax": "dét. dém. plur.",
+          "sentence": "Je me souviens de <mark>ces</mark> années-là.",
+          "translation": [
+            "我还记得那些年。",
+            "wǒ hái jì de nà xiē nián"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "petit",
+      "pronunciation": "",
+      "grammar": "adj.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "小",
+            "xiǎo"
+          ],
+          "french": "petit",
+          "usage": "faible dimension matérielle",
+          "syntax": "adj.",
+          "sentence": "un <mark>petit</mark> appartement",
+          "translation": [
+            "一套小公寓",
+            "yí tào xiǎo gōng yù"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "矮、个子小",
+            "ǎi gè zi xiǎo"
+          ],
+          "french": "petit",
+          "usage": "faible taille d’une personne",
+          "syntax": "adj.",
+          "sentence": "Il est plus <mark>petit</mark> que son frère.",
+          "translation": [
+            "他比哥哥矮。",
+            "tā bǐ gē ge ǎi"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "年幼的、小",
+            "nián yòu de xiǎo"
+          ],
+          "french": "petit",
+          "usage": "jeune âge ou rang inférieur dans une fratrie",
+          "syntax": "adj.",
+          "sentence": "ma petite sœur",
+          "translation": [
+            "我妹妹",
+            "wǒ mèi mei"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "少量的、轻微的",
+            "shǎo liàng de qīng wēi de"
+          ],
+          "french": "petit",
+          "usage": "faible quantité, importance ou intensité",
+          "syntax": "adj.",
+          "sentence": "un <mark>petit</mark> problème",
+          "translation": [
+            "一个小问题",
+            "yí gè xiǎo wèn tí"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "passer",
+      "pronunciation": "",
+      "grammar": "v. · v. passer qqch à qqn",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "经过、路过",
+            "jīng guò lù guò"
+          ],
+          "french": "passer",
+          "usage": "déplacement qui passe près d’un lieu ou devant celui-ci",
+          "syntax": "v.",
+          "sentence": "Je passe devant la banque.",
+          "translation": [
+            "我经过银行门口。",
+            "wǒ jīng guò yín háng mén kǒu"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "过去、穿过",
+            "guò qù chuān guò"
+          ],
+          "french": "passer",
+          "usage": "déplacement d’un côté à l’autre ou franchissement d’un espace",
+          "syntax": "v.",
+          "sentence": "Il faut <mark>passer</mark> par ce tunnel.",
+          "translation": [
+            "必须穿过这条隧道。",
+            "bì xū chuān guò zhè tiáo suì dào"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "度过",
+            "dù guò"
+          ],
+          "french": "passer",
+          "usage": "temps vécu ou consacré à une activité",
+          "syntax": "v.",
+          "sentence": "Nous avons passé l’été au bord de la mer.",
+          "translation": [
+            "我们在海边度过了夏天。",
+            "wǒ men zài hǎi biān dù guò le xià tiān"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "参加、考",
+            "cān jiā kǎo"
+          ],
+          "french": "passer",
+          "usage": "examen ou épreuve que l’on présente, sans présumer du résultat",
+          "syntax": "v.",
+          "sentence": "Elle passe un examen demain.",
+          "translation": [
+            "她明天参加考试。",
+            "tā míng tiān cān jiā kǎo shì"
+          ]
+        },
+        {
+          "context": [
+            "语境5",
+            "yǔ jìng 5"
+          ],
+          "contextFrench": "Sens 5",
+          "chinese": [
+            "递、传",
+            "dì chuán"
+          ],
+          "french": "passer",
+          "usage": "objet remis d’une personne à une autre",
+          "syntax": "v. passer qqch à qqn",
+          "sentence": "Passe-moi le sel.",
+          "translation": [
+            "把盐递给我。",
+            "bǎ yán dì gěi wǒ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "penser",
+      "pronunciation": "",
+      "grammar": "v. · v. penser à",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "想、思考",
+            "xiǎng sī kǎo"
+          ],
+          "french": "penser",
+          "usage": "activité mentale ou réflexion sur un problème",
+          "syntax": "v.",
+          "sentence": "Je pense à ce problème.",
+          "translation": [
+            "我在思考这个问题。",
+            "wǒ zài sī kǎo zhè ge wèn tí"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "认为、觉得",
+            "rèn wéi jué de"
+          ],
+          "french": "penser",
+          "usage": "opinion ou jugement",
+          "syntax": "v.",
+          "sentence": "Je pense qu’il a raison.",
+          "translation": [
+            "我认为他是对的。",
+            "wǒ rèn wéi tā shì duì de"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "考虑",
+            "kǎo lǜ"
+          ],
+          "french": "penser",
+          "usage": "projet, décision ou conséquence que l’on prend en compte",
+          "syntax": "v. penser à",
+          "sentence": "Pensez aux conséquences.",
+          "translation": [
+            "请考虑后果。",
+            "qǐng kǎo lǜ hòu guǒ"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "想、想念",
+            "xiǎng xiǎng niàn"
+          ],
+          "french": "penser",
+          "usage": "personne ou lieu présents à l’esprit avec une valeur affective",
+          "syntax": "v. penser à",
+          "sentence": "Je pense souvent à toi.",
+          "translation": [
+            "我经常想你。",
+            "wǒ jīng cháng xiǎng nǐ"
+          ]
+        },
+        {
+          "context": [
+            "语境5",
+            "yǔ jìng 5"
+          ],
+          "contextFrench": "Sens 5",
+          "chinese": [
+            "想到、想起",
+            "xiǎng dào xiǎng qǐ"
+          ],
+          "french": "penser",
+          "usage": "idée ou souvenir qui vient à l’esprit",
+          "syntax": "v. penser à",
+          "sentence": "Je viens de <mark>penser</mark> à une solution.",
+          "translation": [
+            "我刚想到一个办法。",
+            "wǒ gāng xiǎng dào yí gè bàn fǎ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "aussi",
+      "pronunciation": "",
+      "grammar": "adv. · adv. soutenu",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "也",
+            "yě"
+          ],
+          "french": "aussi",
+          "usage": "fait identique concernant une autre personne ou chose",
+          "syntax": "adv.",
+          "sentence": "Moi <mark>aussi</mark>.",
+          "translation": [
+            "我也是。",
+            "wǒ yě shì"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "还、而且",
+            "hái ér qiě"
+          ],
+          "french": "aussi",
+          "usage": "information supplémentaire",
+          "syntax": "adv.",
+          "sentence": "Il est compétent et <mark>aussi</mark> très patient.",
+          "translation": [
+            "他很能干，而且很有耐心。",
+            "tā hěn néng gàn ér qiě hěn yǒu nài xīn"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "同样",
+            "tóng yàng"
+          ],
+          "french": "aussi",
+          "usage": "manière ou degré semblables",
+          "syntax": "adv.",
+          "sentence": "Faites-le <mark>aussi</mark> soigneusement que possible.",
+          "translation": [
+            "尽量同样认真地做。",
+            "jǐn liàng tóng yàng rèn zhēn dì zuò"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "因此、所以",
+            "yīn cǐ suǒ yǐ"
+          ],
+          "french": "aussi",
+          "usage": "conséquence introduite en tête de phrase avec inversion, dans un style soutenu",
+          "syntax": "adv. soutenu",
+          "sentence": "<mark>Aussi</mark> a-t-il décidé de partir.",
+          "translation": [
+            "因此他决定离开。",
+            "yīn cǐ tā jué dìng lí kāi"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "homme",
+      "pronunciation": "",
+      "grammar": "n. m. · n. m. collectif",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "男人",
+            "nán rén"
+          ],
+          "french": "homme",
+          "usage": "personne adulte de sexe masculin",
+          "syntax": "n. m.",
+          "sentence": "un <mark>homme</mark> de quarante ans",
+          "translation": [
+            "一个四十岁的男人",
+            "yí gè sì shí suì de nán rén"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "人、人类",
+            "rén rén lèi"
+          ],
+          "french": "homme",
+          "usage": "ensemble de l’espèce humaine",
+          "syntax": "n. m. collectif",
+          "sentence": "L’<mark>homme</mark> transforme la nature.",
+          "translation": [
+            "人类改造自然。",
+            "rén lèi gǎi zào zì rán"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "男子、男性",
+            "nán zǐ nán xìng"
+          ],
+          "french": "homme",
+          "usage": "personne de sexe masculin dans un contexte officiel, descriptif ou statistique",
+          "syntax": "n. m.",
+          "sentence": "Le suspect est un <mark>homme</mark> âgé de trente ans.",
+          "translation": [
+            "嫌疑人是一名三十岁的男子。",
+            "xián yí rén shì yì míng sān shí suì de nán zǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "jamais",
+      "pronunciation": "",
+      "grammar": "adv. nég. · adv.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "从不、从来不",
+            "cóng bù cóng lái bù"
+          ],
+          "french": "jamais",
+          "usage": "habitude ou fait qui ne se produit à aucun moment",
+          "syntax": "adv. nég.",
+          "sentence": "Je ne fume <mark>jamais</mark>.",
+          "translation": [
+            "我从不抽烟。",
+            "wǒ cóng bù chōu yān"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "从未",
+            "cóng wèi"
+          ],
+          "french": "jamais",
+          "usage": "fait qui ne s’est produit à aucun moment jusqu’à la période évoquée",
+          "syntax": "adv. nég.",
+          "sentence": "Il n’a <mark>jamais</mark> vu la mer.",
+          "translation": [
+            "他从未见过大海。",
+            "tā cóng wèi jiàn guò dà hǎi"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "曾经、任何时候",
+            "céng jīng rèn hé shí hòu"
+          ],
+          "french": "jamais",
+          "usage": "moment quelconque dans une question, une condition ou un superlatif",
+          "syntax": "adv.",
+          "sentence": "C’est le plus beau paysage que j’aie <mark>jamais</mark> vu.",
+          "translation": [
+            "这是我见过的最美的风景。",
+            "zhè shì wǒ jiàn guò de zuì měi de fēng jǐng"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "même",
+      "pronunciation": "",
+      "grammar": "adj. · adv. · adj. ou pron. renforcé · adv. de renforcement",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "相同、一样",
+            "xiāng tóng yí yàng"
+          ],
+          "french": "même",
+          "usage": "même nature, même qualité ou absence de différence",
+          "syntax": "adj.",
+          "sentence": "Nous avons la <mark>même</mark> opinion.",
+          "translation": [
+            "我们的看法一样。",
+            "wǒ men de kàn fǎ yí yàng"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "同一个",
+            "tóng yí gè"
+          ],
+          "french": "même",
+          "usage": "identité exacte de la personne, de l’objet ou du moment",
+          "syntax": "adj.",
+          "sentence": "Nous sommes nés le <mark>même</mark> jour.",
+          "translation": [
+            "我们出生在同一天。",
+            "wǒ men chū shēng zài tóng yì tiān"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "甚至、连",
+            "shèn zhì lián"
+          ],
+          "french": "même",
+          "usage": "extension à un cas inattendu ou extrême",
+          "syntax": "adv.",
+          "sentence": "<mark>Même</mark> lui le sait.",
+          "translation": [
+            "连他都知道。",
+            "lián tā dōu zhī dào"
+          ]
+        },
+        {
+          "context": [
+            "语境4",
+            "yǔ jìng 4"
+          ],
+          "contextFrench": "Sens 4",
+          "chinese": [
+            "本人、自己",
+            "běn rén zì jǐ"
+          ],
+          "french": "même",
+          "usage": "pronom personnel renforcé",
+          "syntax": "adj. ou pron. renforcé",
+          "sentence": "Je l’ai fait moi-<mark>même</mark>.",
+          "translation": [
+            "这是我自己做的。",
+            "zhè shì wǒ zì jǐ zuò de"
+          ]
+        },
+        {
+          "context": [
+            "语境5",
+            "yǔ jìng 5"
+          ],
+          "contextFrench": "Sens 5",
+          "chinese": [
+            "就、正是",
+            "jiù zhèng shì"
+          ],
+          "french": "même",
+          "usage": "lieu, moment ou élément précisément désignés",
+          "syntax": "adv. de renforcement",
+          "sentence": "Il habite ici <mark>même</mark>.",
+          "translation": [
+            "他就住在这里。",
+            "tā jiù zhù zài zhè lǐ"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "attendre",
+      "pronunciation": "",
+      "grammar": "v. · v. attendre de qn que + subj. · v. pron. s’attendre à",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "等、等待",
+            "děng děng dài"
+          ],
+          "french": "attendre",
+          "usage": "rester jusqu’à l’arrivée d’une personne, d’une chose ou d’un moment",
+          "syntax": "v.",
+          "sentence": "J’attends le bus.",
+          "translation": [
+            "我在等公交车。",
+            "wǒ zài děng gōng jiāo chē"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "期待、指望",
+            "qī dài zhǐ wàng"
+          ],
+          "french": "attendre",
+          "usage": "résultat ou comportement que l’on espère d’une personne",
+          "syntax": "v. attendre de qn que + subj.",
+          "sentence": "On attend de lui qu’il réussisse.",
+          "translation": [
+            "大家期待他取得成功。",
+            "dà jiā qī dài tā qǔ dé chéng gōng"
+          ]
+        },
+        {
+          "context": [
+            "语境3",
+            "yǔ jìng 3"
+          ],
+          "contextFrench": "Sens 3",
+          "chinese": [
+            "预料、料到",
+            "yù liào liào dào"
+          ],
+          "french": "attendre",
+          "usage": "événement envisagé à l’avance dans s’attendre à",
+          "syntax": "v. pron. s’attendre à",
+          "sentence": "Je ne m’attendais pas à cette réponse.",
+          "translation": [
+            "我没料到会得到这个回答。",
+            "wǒ méi liào dào huì dé dào zhè ge huí dá"
+          ]
+        }
+      ]
+    },
+    {
+      "term": "pourquoi",
+      "pronunciation": "",
+      "grammar": "adv. interr.",
+      "meanings": [
+        {
+          "context": [
+            "语境1",
+            "yǔ jìng 1"
+          ],
+          "contextFrench": "Sens 1",
+          "chinese": [
+            "为什么、为何",
+            "wèi shén me wèi hé"
+          ],
+          "french": "pourquoi",
+          "usage": "cause ou raison demandée",
+          "syntax": "adv. interr.",
+          "sentence": "<mark>Pourquoi</mark> pleures-tu ?",
+          "translation": [
+            "你为什么哭？",
+            "nǐ wèi shén me kū"
+          ]
+        },
+        {
+          "context": [
+            "语境2",
+            "yǔ jìng 2"
+          ],
+          "contextFrench": "Sens 2",
+          "chinese": [
+            "怎么",
+            "zěn me"
+          ],
+          "french": "pourquoi",
+          "usage": "raison demandée avec reproche, incompréhension ou surprise",
+          "syntax": "adv. interr.",
+          "sentence": "<mark>Pourquoi</mark> pas ?",
+          "translation": [
+            "为什么不呢？",
+            "wèi shén me bù ne"
+          ]
+        }
+      ]
+    }
+  ],
+  "dailyTerms": [
+    "gauche",
+    "couper",
+    "passer",
+    "danser",
+    "boire",
+    "boîte",
+    "bon marché",
+    "cher",
+    "trouver",
+    "boîte à outils",
+    "bonjour",
+    "merci",
+    "pardon",
+    "au revoir",
+    "oui",
+    "non",
+    "aller",
+    "faire",
+    "manger",
+    "dormir",
+    "travailler",
+    "maison",
+    "acheter",
+    "voici",
+    "voilà",
+    "là",
+    "chercher",
+    "chanter",
+    "masquer",
+    "parler",
+    "écouter",
+    "aimer",
+    "vouloir",
+    "pouvoir",
+    "venir",
+    "prendre",
+    "mettre",
+    "introduire",
+    "présenter",
+    "avaler",
+    "intéressant",
+    "changer",
+    "tester",
+    "projeter",
+    "contexte",
+    "textile",
+    "texture"
+  ]
+}
