@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 10,
-  "contentUrl": "https://visdar.github.io/apps/dico-data/content-v10.json",
-  "sha256": "4a51799db6e3694689543115a06a7601b8ce773f35dd7fd10a77bfa474fb02a8",
-  "bytes": 337331
+  "version": 11,
+  "contentUrl": "https://visdar.github.io/apps/dico-data/content-v11.json",
+  "sha256": "bc31be25629f9b16b353925ece025f749aa0befee1847bb396f0712e80669df6",
+  "bytes": 449366
 }
